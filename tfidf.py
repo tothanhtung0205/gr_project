@@ -9,15 +9,20 @@ from sklearn.metrics.pairwise import cosine_similarity
 from underthesea import word_sent
 from collections import Counter
 
-
+SPLIT_LENGTH = 100
+TRAIN = "data/train.txt"
+TEST = "data/test.txt"
+TOKENIZED_TRAIN = "data/tokenized_train.txt"
 
 def read_data(file_name):
     dataset = []
+    answer = []
     with open(file_name,"r",encoding="utf-8") as f:
         for line in f:
-            ques = line.split("\t")[2]
-            dataset.append(ques)
-    return dataset
+            ques = line.split("\t")
+            dataset.append(ques[2])
+            answer.append(ques[3])
+    return dataset,answer
 
 
 def get_stw_list():
@@ -47,6 +52,7 @@ def pre_process(stw_list,data):
         sen =  repace_wrong_tokenize(sen)
         prced_sen = remove_stw(sen,stw_list)
         corpus.append(prced_sen)
+
     return corpus
 
 
@@ -62,10 +68,36 @@ def get_corpus(stw_list,file_name):
     return corpus
 
 
+def contains_digit(str):
+    for char in str:
+        if char.isdigit():
+            return True
+    return False
+
+
+def is_code(str):
+    if (not str.isdigit()) and contains_digit(str):
+        return  True
+    else:
+        return False
+
+
+def get_keyword(data):
+
+    vect = TfidfVectorizer(lowercase=False)
+    vect.fit_transform(data)
+    dict = vect.get_feature_names()
+    with open("dict/keyword","w",encoding="utf-8") as f:
+        for word in dict:
+            if is_code(word) or word.isupper():
+                f.write(word)
+                f.write(u"\n")
+        f.close()
+
 
 def get_dictionary(data):
     vect = TfidfVectorizer()
-    tfidf_matrix = vect.fit_transform(corpus)
+    vect.fit_transform(data)
     dict = vect.get_feature_names()
     a = vect.idf_
     idf_map = zip(a, dict)
@@ -88,8 +120,8 @@ def get_new_sen_tfidf(new_sen, vect,stw_list):
     for word in new_sen:
         if(word in dict):
             removed_sen.append(word)
-    print " ".join(removed_sen)
-    print("=========================================")
+    # print " ".join(removed_sen)
+    # print("-"*SPLIT_LENGTH)
     tf = Counter(removed_sen)
     #max_w = max(tf,key=tf.get)
     #max_tf = tf[max_w]
@@ -98,7 +130,7 @@ def get_new_sen_tfidf(new_sen, vect,stw_list):
         if word in removed_sen:
             x = tf[word]
             y = len(removed_sen)
-            tf_vect[i] = x/y
+            tf_vect[i] = x
     # print("tf_vector ============================")
     # print sparse.csr_matrix(tf_vect)
     tfidf_vec = [a * b for a, b in zip(tf_vect, idf)]
@@ -107,23 +139,25 @@ def get_new_sen_tfidf(new_sen, vect,stw_list):
     return tfidf_vec
 
 
-def get_similar_sen(new_sen,data,corpus,tfidf_matrix):
+def get_similar_sen(new_sen,data,corpus,tfidf_matrix,vect,stw_list,ans_list):
 
     similar_sen_list = []
     tfidf_new = get_new_sen_tfidf(new_sen, vect,stw_list)
     tfidf_new = [tfidf_new]
     cos_sim = cosine_similarity(tfidf_new, tfidf_matrix)
     cos_sim = cos_sim[0]
-    for i in xrange(3):
+    for i in xrange(4):
         max_val = max(cos_sim)
         max_idx = np.where(cos_sim == max_val)
         max_idx = max_idx[0][0]
         raw_sen = data[max_idx]
         sen = corpus[max_idx]
-        similar_sen_list.append(raw_sen+u"\n"+sen+u"\n" + unicode(max_val))
+        ans = ans_list[max_idx]
+        #similar_sen_list.append(raw_sen+u"\n"+sen+u"\n" + unicode(max_val))
+        similar_sen_list.append([raw_sen , sen , unicode(max_val),ans])
         cos_sim[max_idx] = -1
-    return "\n\n".join(similar_sen_list)
-
+    #return "\n\n".join(similar_sen_list)
+    return (similar_sen_list)
 
 def repace_wrong_tokenize(sen):
     #todo tao file replace
@@ -159,22 +193,29 @@ def get_test_data(file_name):
             test_list.append(sen)
     return test_list
 
-if __name__ == '__main__':
-    data = read_data("data/train.txt")
-    #write_data(data,"data/tokenized_train.txt")
-    stw_list = get_stw_list()
-    corpus = get_corpus(stw_list,"data/tokenized_train.txt")
-    vect = TfidfVectorizer()
-    corpus_tfidf_matrix = vect.fit_transform(corpus)
-
-    test_set = get_test_data("data/test.txt")
-    for test_sen in test_set:
-        print test_sen
-        sim = get_similar_sen(test_sen,data,corpus,corpus_tfidf_matrix)
-        print sim
-        print("\n===========================================")
-        i =raw_input("continue?")
-        if (i=='0'):
-            break
 
 
+
+    # test_set = get_test_data(TEST)
+    # count1 = 0
+    # count2 = 0
+    # with open("thongke.txt","w",encoding="utf-8") as f:
+    #     for test_sen in test_set:
+    #
+    #         sim = get_similar_sen(test_sen,data,corpus,corpus_tfidf_matrix,vect,stw_list)
+    #         sim_mi = float(sim[0][2])
+    #         sim = u"\n\n".join([u"\n".join(sen) for sen in sim])
+    #         if( sim_mi >= 0.6):
+    #             count1 += 1
+    #             f.write(test_sen + u"\n" + u"-" * SPLIT_LENGTH + "\n")
+    #             f.write(sim)
+    #             f.write(u"\n" + u"_" * SPLIT_LENGTH + u"\n")
+    #         elif(sim_mi >= 0.4):
+    #             count2 += 1
+    #             print test_sen + "\n"
+    #             print sim
+    #             print("=" * SPLIT_LENGTH)
+    #         print "_"*SPLIT_LENGTH
+    #     f.close()
+    #     print("Number of sen > 0.6 : %d " %count1)
+    #     print("\nNumber of sen > 0.4 : %d" % count2)

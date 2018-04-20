@@ -1,0 +1,224 @@
+Thưa thầy cô cho em hỏi , - Cấu trúc một bài thuyết trình thường bao gồm mấy phần? Em cảm ơn thầy cô!
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: cấu trúc một bài thuyết trình bao gồm mấy phần? em cảm ơn
+  cấu_trúc bài thuyết_trình bao_gồm mấy  
+1.0
+
+cho em hỏi ah tại sao Cấu trúc một bài thuyết trình thường bao gồm 3 phần
+tại_sao cấu_trúc bài thuyết_trình bao_gồm 3
+0.804733620377
+
+chào thầy và cô cho e hỏi. cấu trúc của bài thuyết trình gồm mấy phần ? em chân thành cám ơn.
+e   cấu_trúc bài thuyết_trình gồm mấy    
+0.684041221991
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi, - Trong khi thuyết trình, thuyết trình viên cần điều chỉnh âm lượng và giọng nói như thế nào? Em cảm ơn thầy cô!
+----------------------------------------------------------------------------------------------------
+Chào thầy cô, Thầy cô có thể giải thích cho em phần này được ko a? Xác định phương án đúng. Trong khi thuyết trình, thuyết trình viên cần điều chỉnh âm lượng và giọng nói như thế nào? Cảm ơn
+  giải_thích không a   xác_định phương_án   thuyết_trình   thuyết_trình viên điều_chỉnh âm_lượng giọng_nói thế_nào  
+0.839556055942
+
+Thưa thầy cô cho em hỏi, Trong số các luận điểm dưới đây, luận điểm nào nhận định đúng nhất về vai trò của các yếu tố nhịp điệu, âm lượng, giọng nói đối với sự thành công của thuyết trình viên? Chọn một câu trả lời A) Nhịp điệu, âm lượng, giọng nói của người thuyết trình không ảnh hưởng nhiều đến chất lượng của buổi thuyết trình B) Thành công của buổi thuyết trình phụ thuộc hoàn toàn vào nhịp điệu, âm lượng, giọng nói của người thuyết trình C) Thành công của buổi thuyết trình do nhiều yếu tố trong đó nhịp điệu, âm lượng, giọng nói của người thuyết trình giữ vai trò quan trọng D) Nếu người thuyết trình chỉ chú trọng nhịp điệu, âm lượng, giọng nói thì những điều đó chưa đủ để làm nên thành công của buổi thuyết trình Theo em thấy thì đáp án C cũng đúng mà, mong thầy cô giải thích rõ dùm em ạ. Em cám ơn thầy cô rất nhiều !
+  luận_điểm dưới_đây   luận_điểm nào nhận_định nhất vai_trò nhịp_điệu   âm_lượng   giọng_nói đối thành_công thuyết_trình viên   chọn a ) nhịp_điệu   âm_lượng   giọng_nói thuyết_trình không ảnh_hưởng nhiều chất_lượng thuyết_trình b ) thành_công_của thuyết_trình phụ_thuộc hoàn_toàn nhịp_điệu   âm_lượng   giọng_nói thuyết_trình c ) thành_công_của thuyết_trình nhiều nhịp_điệu   âm_lượng   giọng_nói thuyết_trình giữ vai_trò quan_trọng d ) thuyết_trình chú_trọng nhịp_điệu   âm_lượng   giọng_nói đủ làm_nên công thuyết_trình đáp_án c   giải_thích dùm   nhiều  
+0.588479737827
+
+Thưa cô cho em hỏi Trong khi thuyết trinh, thuyết tr2inh viên cần điều chỉnh giọng nói như thế nào? Em xin cám ơn.
+thuyết trinh   thuyết tr2inh viên điều_chỉnh giọng_nói thế_nào    
+0.407502016359
+____________________________________________________________________________________________________
+Thưa thầy cô! Muốn nắm chắc phần thắng khi đàm phán thì cần có những kỹ năng gì? Cảm ơn thầy cô!
+----------------------------------------------------------------------------------------------------
+Em chào thầy ạ! Thầy ơi cho em hỏi muốn đàm phán tốt và nắm chắc phần thắng ta phải chuẩn bị những gì ạ Em xin chân thành cảm ơn thầy
+  đàm_phán tốt nắm_chắc thắng chuẩn_bị
+0.863647175263
+
+Thưa thầy cô Em rất ngại đứng trước đám đông thuyết trình, và nếu có em rất là rung. Cho em hỏi có cách nào bớt căng thắng trước khi thuyết trình không? Em cảm ơn thầy cô.
+ngại đứng trước đám_đông thuyết_trình   rung   nào bớt căng thắng thuyết_trình không    
+0.22551093131
+
+Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
+  bài kỹ_năng đàm_phán   đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận    
+0.219462112129
+____________________________________________________________________________________________________
+Chào cô! Thưa cô,cho em hỏi là ở môn học này không có buổi học tập trung,như vậy điểm học tập trung sẽ tính như thế nào cô. Em cảm ơn cô.
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? Em cảm ơn thầy cô!
+tính điểm chuyên_cần thế_nào    
+0.661980293462
+
+Thưa cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? em cảm ơn cô ạ
+tính điểm chuyên_cần thế_nào  
+0.661980293462
+
+Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
+  môn_học thế_nào    
+0.615535186733
+____________________________________________________________________________________________________
+Chào cô Cô cho em hỏi cách tính điểm chuyên cần, điểm giữa kỳ Ví dụ: chuyên cần:10,BTVN1:9, BTVN2:10, BTN: 9 Em tính điểm TB: như vậy em sẽ được 9.5, sao trong email cô gửi chỉ có 9.3. Cô cho em cách tính theo kiểu của cô với ạ Trân trọng
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? Em cảm ơn thầy cô!
+tính điểm chuyên_cần thế_nào    
+0.672143918564
+
+Thưa cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? em cảm ơn cô ạ
+tính điểm chuyên_cần thế_nào  
+0.672143918564
+
+Thưa cô! Cách tính điểm chuyên cần: "Điểm chuyên cần = min (A x 1 + B x 2; 10) (Ghi chú: Nếu số điểm tính ra vượt quá 10 thì quy tròn về 10 điểm) Trong đó: A = min (Số bài đăng trên diễn đàn môn học và H2472; 10) (Ghi chú: Nếu số bài đăng vượt quá 10 bài thì được tính điểm là 10 bài) B = Số bài luyện tập trắc nghiệm đạt điểm lơn hơn hoặc bằng 5 điểm" Em làm 4 bài LTTN và 1 bài LT trước thi nhưng điểm chuyên cần được 8đ. Có phải là làm luyện tập trước thi thì không có tính điểm chuyên cần không cô? E thắc mắc vì như trên có nói là "B = Số bài LTTN trắc nghiệm đạt điểm lớn hơn hoặc bằng 5 điểm" Em cảm ơn cô!
+  tính điểm chuyên_cần   " điểm chuyên_cần = min ( a x 1 + b x 2   10 ) ( ghi_chú   điểm tính vượt_quá 10 quy tròn 10 điểm )   a = min ( bài đăng diễn_đàn môn_học h2472   10 ) ( ghi_chú   bài đăng vượt_quá 10 bài tính điểm 10 bài ) b = bài luyện_tập trắc_nghiệm điểm lơn bằng 5 điểm " 4 bài lttn 1 bài lt trước thi điểm chuyên_cần 8đ   luyện_tập trước thi không tính điểm chuyên_cần không   e như_trên nói_là " b = bài lttn trắc_nghiệm điểm lớn bằng 5 điểm "  
+0.602603648876
+____________________________________________________________________________________________________
+Thưa thầy cô,cho e hỏi làm sao để học tốt được môn này.e xin cảm ơn
+----------------------------------------------------------------------------------------------------
+Em chào Thầy Thầy cho em hỏi làm sao để làm tốt bài tập kỷ năng Em cám ơn Thầy!
+làm_sao tốt bài_tập kỹ_năng  
+0.689429657619
+
+Dear Thầy,Cô Làm sao để học tốt môn PTKN2 này đây. Cảm ơn Thầy,Cô
+  làm_sao tốt môn ptkn2    
+0.621040603224
+
+Em chào thầy cô! Cho em hỏi làm sao để em có một kỹ năng giao tiếp tốt. Em cám ơn.
+  làm_sao kỹ_năng giao_tiếp tốt    
+0.600770073407
+____________________________________________________________________________________________________
+Chào cô! Thưa cô,cho em hỏi là khi thi hết môn chúng em cũng thi chung hai môn G08 và G020 hả cô. Em cảm ơn cô. Em chào cô.
+----------------------------------------------------------------------------------------------------
+thưa cô cho em hỏi học một lúc 2 môn thì mình thi 2 môn chung 1 ngày hả cô em cảm ơn
+một_lúc 2 môn thi 2 môn chung 1
+0.61908717019
+
+Em Chào Thầy. Cho em hỏi các môn thi lại của ngày thi 8 tháng 3 em không tham gia thi được , bây giờ em muốn ôn lại các môn đó thi em xem bài đó ở đâu thưa thầy. Xin cảm ơn
+  môn thi thi 8 tháng 3 không tham_gia thi   ôn môn thi bài ở đâu  
+0.577042430778
+
+Thưa cô : Em muốn hỏi về điểm môn thi .Không biết khi nào mình mới biết điểm môn thi Em xin cảm ơn cô
+  điểm môn thi   không khi_nào điểm môn thi
+0.555274783131
+____________________________________________________________________________________________________
+Chào cô giáo! Vì sao phải có 2 môn phát triển kỷ năng 1 và phát triển kỷ năng 2 mà không phải là 1 môn ah?
+----------------------------------------------------------------------------------------------------
+thưa thầy cô cho em hỏi kỹ năng phát triển là gì em cám ơn thầy cô
+kỹ_năng phát_triển
+0.779412247749
+
+Chào Thầy cô, Cho em hỏi môn phát triển kỹ năng 1 và 2 nội dung có gì khác nhau không a?
+  môn phát_triển kỹ_năng 1 2 khác_nhau không a  
+0.686426662258
+
+thưa thầy cô cho em hỏi phát triển kỹ năng mềm em cám ơn thầy cô
+phát_triển kỹ_năng mềm
+0.594419288084
+____________________________________________________________________________________________________
+Cho em hỏi môn học phát triển kỷ năng 2 không có giáo trình sách giáo khoa phải không ah?
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: môn học kỹ năng cá nhân 2 sao nhà trường chưa phát tài liệu sách giáo khoa
+  môn_học kỹ_năng cá_nhân 2 phát tài_liệu sách giáo_khoa
+0.635763444405
+
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao trường chưa cung cấp tài liệu sách giáo khoa Cảm ơn thầy cô
+  môn_học tâm_lý kinh_doanh trường cung_cấp tài_liệu sách giáo_khoa
+0.51354914458
+
+thưa cô em chỉ nhận được GIÁO TRÌNH PHÁT TRIÊN KỸ NĂNG CÁ NHÂN 1. Mà không nhận được GIÁO TRÌNH PHÁT TRIỂN KỸ NĂNG CÁ NHÂN 2. vậy GIÁO TRÌNH PHÁT TRIỂN KỸ NĂNG CÁ NHÂN 2 có không ah em cảm ơn cô
+nhận giáo_trình phát triên kỹ_năng cá_nhân 1   không nhận giáo_trình phát_triển kỹ_năng cá_nhân 2   giáo_trình phát_triển kỹ_năng cá_nhân 2 không
+0.429074095911
+____________________________________________________________________________________________________
+Em muốn hiểu rõ về từ viết tắt trong câu hỏi trắc nghiệm BATNA là gì?
+----------------------------------------------------------------------------------------------------
+Cho em hỏi BATNA là phương pháp gì và viết tắt của từ tiếng anh nào ạ
+batna phương_pháp viết tắt từ tiếng nào
+0.731358700799
+
+Kính gởi giảng viên, Vui lòng cho em hỏi từ BATNA trong môn học EG020 Có nghĩa là gì ạ, và viết tắt của từ nào ạ. Em xin cám ơn!
+gởi   từ batna môn_học eg020 có_nghĩa   viết tắt từ nào    
+0.674324547476
+
+Xin chào thầy cô? thầy cô cho em hỏi cụm từ viết tắt của BATNA LÀ GÌ?
+  cụm_từ viết tắt batna  
+0.673036714055
+____________________________________________________________________________________________________
+Thưa thầy cô, cho em hỏi Nếu đàm phán kiên định Em cảm ơn thầy cô
+----------------------------------------------------------------------------------------------------
+Dear QLHT! Trong đàm phán có 4 kiểu đàm phán . 1. Đàm phán kiểu mềm 2. Đàm phán kiểu nguyên tắc 3. Đàm phán kiểu cứng 4. Đàm phán kiểu lập trường vậy cho e hỏi làm sao có thể nhận biết các kiểu đàm phán đó trong khi giao tiếp
+qlht   đàm_phán 4 đàm_phán   1   đàm_phán mềm 2   đàm_phán nguyên_tắc 3   đàm_phán cứng 4   đàm_phán lập_trường e làm_sao nhận đàm_phán giao_tiếp
+0.791102319579
+
+Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
+  bài kỹ_năng đàm_phán   đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận    
+0.744520653589
+
+Chào cô ! Cô cho em hỏi đàm phán mềm và đàm phán cứng đàm phán nào quan trọng hơn ? Em xin chân thành cảm ơn !
+  đàm_phán mềm đàm_phán cứng đàm_phán nào quan_trọng    
+0.654824435409
+____________________________________________________________________________________________________
+Thưa cô : cô cho em hỏi trong bài học có cụm từ viết tắt BATNA có nghĩa là gì vậy cô ?
+----------------------------------------------------------------------------------------------------
+Xin chào thầy cô? thầy cô cho em hỏi cụm từ viết tắt của BATNA LÀ GÌ?
+  cụm_từ viết tắt batna  
+0.862386140574
+
+Thưa thầy cô cho em hỏi : cụm từ viết tắt BATNA là cụm từ gì đấy ạ? . Em cảm ơn thầy cô!
+  cụm_từ viết tắt batna cụm_từ      
+0.813106866134
+
+Thưa thầy cô cho em hỏi BATNA là viết tắt của cụm từ nào. Ý nghĩa của nó là gì. Rất mong được thầy cô trả lời Em cảm ơn thầy cô!
+batna viết tắt cụm_từ nào   ý_nghĩa    
+0.745848308343
+____________________________________________________________________________________________________
+Thưa Thầy/Cô cho em hỏi? Đàm phán theo nguyên tắc SMART là như thế nào ạ. Em cảm ơn!
+----------------------------------------------------------------------------------------------------
+Em xin chào thầy cô . Thầy cô cho em hỏi Phương pháp SMART có vai trò như thế nào trong cuộc đàm phán ? Khi nào trong cuộc đàm phán chúng ta cần dùng đến SMART ? Em xin cảm ơn
+  phương_pháp smart vai_trò thế_nào đàm_phán   khi_nào đàm_phán cần_dùng smart  
+0.657448628636
+
+Thưa thầy cô cho em hỏi Đàm phán kiểu nguyên tắc ? Em cảm ơn thầy cô!
+đàm_phán nguyên_tắc    
+0.586132846333
+
+Em chào Thầy ! Thầy cho em hỏi : Trong trường hợp nào nên đàm phán kiểu nguyên tắc.Những khó khăn khi đàm phán kiểu nguyên tắc thường gặp là gì? Cám ơn Thầy.
+    trường_hợp nào đàm_phán nguyên_tắc   khó_khăn đàm_phán nguyên_tắc gặp    
+0.445435148649
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi Một cuộc đàm phán thành công thì yếu tố nào quyết định và quan trọng nhất ạ
+----------------------------------------------------------------------------------------------------
+Thưa giảng viên cho em hỏi: Trong các yếu tố quyết định một cuộc đàm phán thành công, thì yếu tố nào là quan trọng nhất. Vì sao? Em cảm ơn giảng viên ạ!
+  quyết_định đàm_phán thành_công   quan_trọng nhất   vì_sao    
+0.84838223341
+
+Kính thưa Thầy, Cô Thầy, Cô vui lòng cho em hỏi: Ba yếu tố quan trọng trong đàm phán là Thời gian, thông tin và thế mạnh. Thường thì yếu tố nào sẽ quyết định cuộc đàm phán thành công ạ. Em cảm ơn Thầy, Cô!
+      ba quan_trọng đàm_phán thời_gian   thông_tin thế_mạnh   nào quyết_định đàm_phán thành_công      
+0.635130418251
+
+Kính thưa thầy, cô ! Để cho một buổi thuyết trình thành công điều quan trọng nhất ở người thuyết trình cần chuẩn bị tốt những yếu tố nào. Xin cám ơn thầy cô!
+    thuyết_trình thành_công quan_trọng nhất ở thuyết_trình chuẩn_bị tốt nào    
+0.527089538509
+____________________________________________________________________________________________________
+Em chào thầy cô Cho em hỏi : Một cuộc đàm phán thành công cần yếu tố nào ạ Em cảm ơn
+----------------------------------------------------------------------------------------------------
+Chào cô: Cô ơi, cho em hỏi: để cuộc đàm phán thành công thì cần những yếu tố nào ạ? Em cảm ơn!
+      đàm_phán thành_công nào    
+1.0
+
+Thưa thầy cô, cho em hỏi. Để có một cuộc đàm phán thành công thì ta cần phải làm gì ạ? em xin cảm ơn thầy cô
+    đàm_phán thành_công  
+0.84128826699
+
+thưa thầy cô Cho em hỏi làm thế nào để có 1 cuộc đàm phán thành công ạ E cám ơn thầy cô
+thế_nào 1 đàm_phán thành_công e
+0.700877834577
+____________________________________________________________________________________________________
+Em chào cô thầy Em đã quên làm bài tập về nhà rồi
+----------------------------------------------------------------------------------------------------
+Thưa cô! em có thể làm bài tập về nhà 1 hoặc 2 lần được không? Trân trọng cảm ơn cô!
+  bài_tập nhà 1 2 không    
+0.63661597422
+
+Thưa Thầy Cô! Tối nay em vào làm bài tập trắc nghiệm để thi nhưng tất cả các bài tập trắc nghiệm đều không vào được nhưng bài tập về nhà thì vẫn bình thường, trong khi thời gian làm bài tập về nhà thì hết dần, điều này đã ảnh hưởng nhiều đến kết quả BTVN, không biết lý do vì sao? Cảm ơn Thầy Cô! (Do vội công việc nên em quên chụp màn hình lỗi )
+  tối bài_tập trắc_nghiệm thi tất_cả bài_tập trắc_nghiệm không bài_tập nhà bình_thường   thời_gian bài_tập nhà hết dần   ảnh_hưởng nhiều kết_quả btvn   không lý_do vì_sao     ( vội quên chụp màn_hình lỗi )
+0.471545544109
+
+Kính chào cô giáo! Thưa cô cho em hỏi tại sao một số bài tập về nhà được gia hạn thời gian còn một số bài tập về nhà thì không được gia hạn. Em cảm ơn thầy cô.
+cô_giáo   tại_sao bài_tập nhà gia_hạn thời_gian bài_tập nhà không gia_hạn    
+0.438272205985
+____________________________________________________________________________________________________
