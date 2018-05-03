@@ -7,14 +7,19 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
 
+        .link {
+        text-decoration:none;
+        }
+    </style>
 
 </head>
 
 <body>
 <div class="form-group">
     <label><h3>Question</h3></label>
-    <input class="form-control" id="question" style="height:100px">
+    <input class="form-control" id="question" style="height:100px;width:100%">
 </div>
 
 <button type="button" class="btn btn-info" onclick="getAnswer()"> Get answer</button>
@@ -36,10 +41,10 @@
             if (http.readyState == 4 && http.status == 200) {
                 var res = http.responseText;
                 var x = JSON.parse(res);
-                document.getElementById("answer").innerText = x[0][0];
-                document.getElementById("ques1").innerText = x[1];
-                document.getElementById("ques2").innerText = x[2];
-                document.getElementById("ques3").innerText = x[3];
+                document.getElementById("answer").innerText = x[0][0] + "\n" + x[0][1] ;
+                document.getElementById("ques1").innerText = x[1][0];
+                document.getElementById("ques2").innerText = x[2][0];
+                document.getElementById("ques3").innerText = x[3][0];
             }
         }
         http.send(params);
@@ -53,9 +58,10 @@
 
 </div>
 <h2>Recommend Question : </h2><br>
-<a id="ques1" href="google.com"> Câu hỏi 1 </a><br><br><br>
-<a id="ques2" href="google.com"> Câu hỏi 2 </a><br><br><br>
-<a id="ques3" href="google.com"> Câu hỏi 3 </a><br><br><br>
+
+<a class = "link" id="ques1" href="google.com"> Câu hỏi 1 </a><br><br><br>
+<a class = "link" id="ques2" href="google.com"> Câu hỏi 2 </a><br><br><br>
+<a class = "link" id="ques3" href="google.com"> Câu hỏi 3 </a><br><br><br>
 
 
 </body>

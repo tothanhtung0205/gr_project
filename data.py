@@ -1,0 +1,98 @@
+# -*- coding=utf-8 -*-
+# author = "tungtt"
+from underthesea import word_sent
+from io import open
+
+class Data(object):
+
+    def __init__(self,train,corpus_file):
+        self.data,self.ans_list = self.read_data(train)
+        self.stw_list = self.get_stw_list()
+        self.corpus = self.get_corpus_from_file(corpus_file)
+
+
+    def get_corpus_from_file(self,corpus_file):
+        corpus = []
+        try:
+            print("Get corpus from file.")
+            with open(corpus_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    corpus.append(line)
+        except:
+            print("Get corpus from data and write to file .")
+            corpus = self.get_corpus(corpus_file)
+        return corpus
+
+
+    def remove_stw(self,sen):
+        words_list = []
+        stw_list = self.stw_list
+        words = sen.split()
+        for word in words:
+            if word in stw_list:
+                continue
+            else:
+                words_list.append(word)
+        return u" ".join(words_list)
+
+    def repace_wrong_tokenize(self,sen):
+        # todo tao file replace
+        sen = sen.replace(u"bài tập", u"bài_tập")
+        sen = sen.replace(u"học tập", u"học_tập")
+        sen = sen.replace(u"ko", u"không")
+        sen = sen.replace(u' e ', u' em ')
+        sen = sen.replace(u"kỷ năng", u"kỹ_năng")
+        sen = sen.replace(u"biểu hiện", u"biểu_hiện")
+        sen = sen.replace(u"thành công_của", u"thành_công của")
+        sen = sen.replace(u"học_tập trung", u"học tập_trung")
+        for c in sen:
+            if c in [u"-", u"?", u"!", u",", u";", u".", u":", u'/']:
+                sen = sen.replace(c, u" ")
+        return sen
+
+
+    def pre_process(self,sen):
+        sen = word_sent(sen, format="text")
+        sen = sen.lower()
+        sen = self.repace_wrong_tokenize(sen)
+        prced_sen = self.remove_stw(sen)
+        return prced_sen
+
+
+    def get_corpus(self, to_write):
+        count = 0
+        corpus = []
+        data = self.data
+        with open(to_write, "w", encoding="utf-8") as f_w:
+            for sen in data:
+                prced_sen = self.pre_process(sen)
+                corpus.append(prced_sen)
+                f_w.write(prced_sen)
+                f_w.write(u"\n")
+                count += 1
+                print("Write sen : " + str(count))
+        f_w.close()
+        return corpus
+
+
+    def get_stw_list(seft):
+        stw_list = []
+        with open("dict/stopwords.txt", "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.replace("\n", "")
+                stw_list.append(line)
+        return stw_list
+
+
+    def read_data(self,file_name):
+        dataset = []
+        answer = []
+        with open(file_name, "r", encoding="utf-8") as f:
+            for line in f:
+                ques = line.split("\t")
+                dataset.append(ques[2])
+                answer.append(ques[3])
+        return dataset, answer
+
+
+

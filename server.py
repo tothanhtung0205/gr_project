@@ -4,13 +4,14 @@
 from flask import Flask, request , render_template
 import json
 from io import open
-from model import Model
 
-model = Model()
+from tfidf_model import TfidfModel
+
+
+model = TfidfModel('data/train.txt','data/corpus_train.txt')
+#model = Model(tfidf.TRAIN,tfidf.TOKENIZED_TRAIN)
 app = Flask('qa')
-#
-# with open('templates/gr_ui.html', 'r', encoding='utf-8') as f:
-# 	data = f.read()
+
 @app.route('/',methods = ['GET'])
 def homepage():
 	return render_template('gr_ui.html')
