@@ -10,10 +10,31 @@ from underthesea import word_sent
 from collections import Counter
 
 class TfidfModel(Data):
+
     def __init__(self,train,corpus_file):
         super(TfidfModel,self).__init__(train,corpus_file)
         self.vect = TfidfVectorizer()
         self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
+
+
+    def update(self,new_sen):
+        self.data.append(new_sen)
+        new_prced_sen = self.pre_process(new_sen)
+        self.corpus.append(new_prced_sen)
+        self.ans_list.append(new_prced_sen)
+
+        # with open('temp.txt',"r",encoding="utf-8") as f:
+        #     for line in f:
+        #         self.data.append(line)
+        #         new_prced_sen = self.pre_process(line)
+        #         self.corpus.append(new_prced_sen)
+        #         self.ans_list.append(new_prced_sen)
+
+        #self.vect = TfidfVectorizer()
+        self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
+        print("Updated new sentences from file")
+
+
 
     def get_new_sen_tfidf(self,new_sen):
         new_sen = self.pre_process(new_sen)
@@ -33,6 +54,7 @@ class TfidfModel(Data):
                 tf_vect[i] = x
         tfidf_vec = [a * b for a, b in zip(tf_vect, idf)]
         return tfidf_vec
+
 
     def get_similar_sen(self,new_sen):
         tfidf_matrix = self.corpus_tfidf_matrix
@@ -58,6 +80,7 @@ class TfidfModel(Data):
         # return "\n\n".join(similar_sen_list)
         return (similar_sen_list)
 
+
     def get_sim(self,new_sen):
         sen_list = self.get_similar_sen(new_sen)
         arr = []
@@ -71,7 +94,6 @@ class TfidfModel(Data):
         return arr
 
 
-# t = TfidfModel('data/train.txt','data/corpus_train.txt')
-# dict = t.vect.get_feature_names()
-# print dict
+
+
 

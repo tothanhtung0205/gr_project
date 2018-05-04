@@ -1,76 +1,64 @@
 # -*- coding=utf-8 -*-
 # author = "tungtt"
 
-from model import Model
-import tfidf
+from data import Data
+
 import gensim
 
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
 
-# TRAIN = 'data/EG020.txt'
-# TOKED_TRAIN = 'data/tokenized_full.txt'
+class Doc2vecModel(Data):
+    def __init__(self,train,corpus_file):
+        super(Doc2vecModel,self).__init__(train,corpus_file)
 
-data_model = Model(tfidf.TRAIN,tfidf.TOKENIZED_TRAIN)
-corpus = data_model.corpus
-data = data_model.data
-size = len(corpus)
+    def train(self):
+        try:
+            self.d2v_model = gensim.models.Doc2Vec.load('model/doc2vec.model')
+            print("Load model completed!!!")
+        except:
+            corpus = self.corpus
+            tagged_data = [TaggedDocument(words=_d.lower().split(), tags=[str(i)]) for i, _d in enumerate(corpus)]
+            max_epochs = 10
+            vec_size = 300
+            alpha = 0.025
 
-tagged_data = [TaggedDocument(words=_d.lower().split(), tags=[str(i)]) for i, _d in enumerate(corpus)]
+            model = Doc2Vec(size=vec_size,
+                            alpha=alpha,
+                            min_alpha=0.025,
+                            min_count=5,
+                            )
 
-try:
-    d2v_model = gensim.models.Doc2Vec.load('doc2vec.model')
-    print("Load model completed!!!")
-except:
-    max_epochs = 10
-    vec_size = 300
-    alpha = 0.025
+            model.build_vocab(tagged_data)
 
-    model = Doc2Vec(size=vec_size,
-                    alpha=alpha,
-                    min_alpha=0.025,
-                    min_count=5,
-                    )
+            for epoch in range(max_epochs):
+                print('iteration {0}'.format(epoch))
+                model.train(tagged_data,
+                            total_examples=model.corpus_count,
+                            epochs=model.iter)
+                # decrease the learning rate
+                model.alpha -= 0.002
+                # fix the learning rate, no decay
+                model.min_alpha = model.alpha
 
-    model.build_vocab(tagged_data)
+            model.save("model/doc2vec.model")
+            print("Model Saved")
+            self.d2v_model = model
+    def get_sim(self,new_sen):
+        list_sim_sen = []
+        prced_sen = self.pre_process(new_sen)
+        prced_sen = prced_sen.split()
+        vec_new_sen = self.d2v_model.infer_vector(prced_sen)
+        most_sim = self.d2v_model.docvecs.most_similar([vec_new_sen], topn=3)
+        for sim_sen in most_sim:
+            raw_sen = self.data[int(sim_sen[0])]
+            corpus_sen =  self.corpus[int(sim_sen[0])]
+            similar = sim_sen[1]
+            list_sim_sen.append([raw_sen,corpus_sen,similar])
+        return  list_sim_sen
 
-    for epoch in range(max_epochs):
-        print('iteration {0}'.format(epoch))
-        model.train(tagged_data,
-                    total_examples=model.corpus_count,
-                    epochs=model.iter)
-        # decrease the learning rate
-        model.alpha -= 0.002
-        # fix the learning rate, no decay
-        model.min_alpha = model.alpha
-
-    model.save("doc2vec.model")
-    print("Model Saved")
-    d2v_model = model
-
-# print d2v_model
-#
-# while(1):
-#     x = raw_input(u"nhap tu vao:")
-#     sim_word = d2v_model.most_similar(x)
-#     print sim_word
-#     if x=='q':
-#         break
-
-
-test = tfidf.get_test_data(tfidf.TEST);
-for test_sen in test:
-    print '_'*100
-    print test_sen
-    test_sen_2 = tfidf.pre_process(data_model.stw_list,[test_sen.lower()])[0]
-    print test_sen_2
-    print '-'*100
-    test_sen_2 = test_sen_2.split()
-    new_vec_sen = d2v_model.infer_vector(test_sen_2)
-    most_sim = d2v_model.docvecs.most_similar([new_vec_sen],topn=3)
-    print most_sim
-    for sim_sen in most_sim:
-        print data[int(sim_sen[0])]
-        print corpus[int(sim_sen[0])]
-        print [sim_sen[1]]
-        print '\n\n'
+if __name__ == "__main__":
+    model = Doc2vecModel('data/train.txt','data/corpus_train.txt')
+    model.train()
+    test = model.get_sim(u"Thưa thầy cô cho em hỏi , - Cấu trúc một bài thuyết trình thường bao gồm mấy phần? Em cảm ơn thầy cô!")
+    print test

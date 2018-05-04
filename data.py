@@ -94,5 +94,16 @@ class Data(object):
                 answer.append(ques[3])
         return dataset, answer
 
+    def get_test_data(self,file_name):
+        test_list = []
+        with open(file_name, "r", encoding="utf-8") as f_r:
+            for line in f_r:
+                sen = line.split("\t")[2]
+                test_list.append(sen)
+        return test_list
 
 
+
+# if __name__ == "__main__":
+#     data = Data('data/train.txt','data/corpus_train.txt')
+#     print data
