@@ -6,13 +6,13 @@ data = []
 with open("raw_EG020.txt","r",encoding="utf-8") as f:
     for line in f:
         ques = line.split("\t")
-        data.append(ques)
+        data.append([ques[2],ques[3]])
 
 
 def check_similar2(elm,data):
-    ques = elm[2]
+    ques = elm[0]
     for elm2 in data:
-        ques2 = elm2[2]
+        ques2 = elm2[0]
         if ques2 == ques:
             print("duplicate sentence ")
             print ques

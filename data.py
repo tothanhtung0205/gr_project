@@ -89,16 +89,16 @@ class Data(object):
         answer = []
         with open(file_name, "r", encoding="utf-8") as f:
             for line in f:
-                ques = line.split("\t")
-                dataset.append(ques[2])
-                answer.append(ques[3])
+                ques = line.split("--->")
+                dataset.append(ques[0])
+                answer.append(ques[1])
         return dataset, answer
 
     def get_test_data(self,file_name):
         test_list = []
         with open(file_name, "r", encoding="utf-8") as f_r:
             for line in f_r:
-                sen = line.split("\t")[2]
+                sen = line.split(u"--->")[0]
                 test_list.append(sen)
         return test_list
 

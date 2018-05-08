@@ -7,7 +7,7 @@ from io import open
 from threading import Thread
 from tfidf_model import TfidfModel
 
-model = TfidfModel('data/train.txt','data/corpus_train.txt')
+model = TfidfModel('data/train_50.txt','data/corpus_train_50.txt')
 app = Flask('qa')
 test_sen = "aaa"
 

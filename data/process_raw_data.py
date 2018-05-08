@@ -6,7 +6,6 @@ def replace_space(text):
     text = " ".join(text.split())
     return text
 
-print replace_space(u"\nanh\tla\fai")
 def read_data():
     dataset = []
     df = pd.read_csv("EG020.csv",encoding="utf-8")

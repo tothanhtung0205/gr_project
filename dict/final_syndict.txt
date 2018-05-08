@@ -1,0 +1,1136 @@
+mười	10	x
+một_trăm	100	c
+mười_hai	12	xii	một_tá
+mười_sáu	16	xvi
+ba_mươi	ba_chục	30
+năm_mươi	50
+ace	hole-in-one	điểm_một
+lành	vô_trùng	vô_khuẩn	tiệt_trùng	khử_trùng	thanh_trùng	tiệt_khuẩn	diệt_khuẩn	khử_khuẩn	vệ_sinh	an_toàn	trong_lành
+họ_hàng	anh_em	dòng_họ	dòng_tộc	bà_con	thông_gia	anh_em_họ_hàng	họ_hàng_thân_thích
+bố	cha	ba	thầy	tía	thân_phụ	phụ_thân	ông_bô	ông_già
+chia	phân	phân_chia	chia_lô	chia_khoảnh	chia_phần	phân_lô	phân_khoảnh	phân_phần	phân_chia_lô	phân_chia_khoảnh	phân_chia_phần
+ban_ngày	hoạt_động_vào_ban_ngày]
+ban_đêm	hoạt_động_về_đêm	hoạt_động_ban_đêm
+còn_phôi_thai	còn_trứng_nước	trong_phôi_thai	còn_trong_phôi_thai	còn_ươm_mầm	còn_ở_dạng_phôi_thai	dạng_phôi_thai	đang_ấp_ủ	còn_trong_ấp_ủ	tiền_đề	ban_đầu
+rào	quây	vây	bao	rào_quanh	quây_quanh	vây_quanh	bao_quanh	rào_kín	quây_kín	vây_kín	bao_kín
+thiên_vị	ô_dù	dung_túng	tây_vị	thiên_tư	bao_che
+gồm gồm_cả	gộp	gộp_cả	bao_gộp	kể_cả	bao_hàm	bao_gồm	tất_cả	trọn_gói	tính_cả
+cao	ngất	cao_ngất	sừng_sững	lừng_lững	cao_ngất_trời
+truyền	truyền_bá	quảng_bá	triển_khai	mở_rộng	phát_triển	phổ_biến	truyền_đi	lan_đi
+bào_chữa	biện_hộ	biện_minh	chứng_minh	minh_chứng	chứng_thực	đảm_bảo	bảo_chứng
+cất_vào_gara	cất	trữ	giữ	tích	giấu	chứa	cất_chứa	tàng_trữ	cất_giấu	tích_trữ	cất_trữ	cất_giữ	lưu_trữ	lưu_giữ
+đào_thoát	tẩu_thoát	phắn	cao_chạy_xa_bay	lặn_mất_tăm	mất_tăm	mất_hút	đào_tẩu	đào_thoát	biến	chạy_re_kèn	ù_té_chạy	ù_té	lủi_mất	lủi_một_mạch	chạy_biến	chuồn_thẳng	chuồn_đi	chuồn_mất	chạy_mất
+biến_động	biến_cố	đầy_biến_động	đầy_biến_cố	nhiều_biến_cố	nhiều_biến_động
+biển	biển_hiệu	biển_hiệu_đường_phố	biển_tên_đường	biển_tên_phố
+bảng_biểu	bảng	biểu	bảng_kê	biểu_kê	bảng_thống_kê	bảng_dữ_liệu	biểu_thống_kê	biểu_dữ_liệu
+gợi_ý	gợi	gợi_mở	gợi_ra	gợi_thấy	gợi_cho_biết	tỏ_ra	thể_hiện	biểu_hiện	biểu_lộ	bộc_lộ	hé_mở	hé_ra	mở_ra
+tượng_trưng	biểu_tượng	biểu_trưng	có_nghĩa	mang_nghĩa
+trình_bày	bày_tỏ	diễn_đạt	phát_biểu	biểu_thị	biểu_đạt	bộc_bạch	nói_lên	lên_tiếng_về
+đồ_thị	sơ_đồ	biểu_đồ	sơ_đồ_biểu_diễn
+bào_chữa	biện_hộ	biện_minh	chứng_minh	minh_chứng	chứng_thực	đảm_bảo	bảo_chứng
+lối	nếp	thói	tục	lề_thói	phong_tục	tập_quán	tập_tục	văn_hoá
+rộp	rộp_da	bong_sơn	bong_từng_mảng	bong	bong_ra	tróc_ra	tróc_từng_mảng	tróc_ra_từng_mảng
+rầu	sầu	buồn	u_ám	u_buồn	rầu_rĩ	nhàm_chán	ủ_dột	âu_sầu	ủ_ê	buồn_bã	buồn_thiu	ảm_đạm
+ngu	dốt	tối	vô_minh	tối_tăm	tăm_tối	ngu_muội	ngu_xi	mu_muội	sự_vô_minh	sự_tối_tăm	sự_tăm_tối	sự_ngu_muội	sự_ngu_xi	sự_mu_muội
+vồ	chộp	bắt	chụp	tóm	túm	vồ_lấy	chộp_lấy	bắt_lấy	chụp_lấy	chộp_lấy	tóm_lấy	túm_lấy
+ôi	thiu	hư	hỏng	thối	xấu	mọt	mục	ôi_thiu	ôi_thối	thối_rữa
+bà	bà_già	bà_lão	bà_cụ	cụ_bà
+bài	tú	lơ_khơ	bộ_bài	bộ_tú	bộ_lơ_khơ	bộ_tú_lơ_khơ	bộ_bài_lơ_khơ	cỗ_bài
+lời_dạy	lời_răn	điều_răn	huấn_lệnh	lời_giáo_huấn	bài_học
+thi_viết	bài_thi_viết	bài_thi
+lập	tạo	làm	tạo_lập	đặt	nghĩ	sáng_chế	phát_minh	lập_ra	tạo_ra	làm_ra	tạo_lập_ra	đặt_ra	nghĩ_ra	sáng_chế_ra	phát_minh_ra
+bài_tập	bài_luyện
+bài_văn	bài_viết	bài_báo
+đàm_luận	đàm_đạo	mạn_đàm	nói_về	bàn_về	bàn	bàn_bạc
+bày	trưng_bày	triển_lãm	trưng_bầy
+đuổi	loại	tống_khứ	đuổi_đi	đuổi_khỏi	loại_trừ	loại_bỏ	gạt_bỏ	tống_ra	loại_ra	tống_khỏi	đuổi_tống_ra	đuổi_cổ_khỏi
+đứng	dựa	theo	đứng_trên	dựa_trên	dựa_vào	dựa_theo	theo_như	bám_sát	giữ_vững
+đi_chợ	chợ_búa	mua_bán	mua_sắm	sắm_sửa	việc_mua_sắm	việc_đi_chợ	việc_mua_bán	việc_sắm_sửa
+bán_hàng	người_bán_hàng	nhân_viên_thị_trường	người_buôn_bán	dân_buôn
+thông_báo	gửi_thông_báo	gửi_thông_điệp	gởi_thông_báo	gởi_thông_điệp	chuyển_thông_báo	chuyển_thông_điệp	gửi_thông_báo_đến	gửi_thông_báo_cho	gửi_thông_điệp_cho
+báo_cáo	bản_báo_cáo	báo_cáo_nghiên_cứu	bản_báo_cáo_nghiên_cứu
+cạnh	gần	sát	bên	liền	kế	kề	bên	gần_kề	kế_cận	cận_kề	kế_bên	kế_liền	sát_cạnh	sát_bên	cạnh_bên	bên_cạnh	sát_ngay	tiệm_cận
+dưới	ở_dưới	bên_dưới	phía_dưới	ở_bên_dưới	ở_phía_dưới
+còn	còn_lại	có	còn_có	vẫn_còn	vẫn_có
+xa	xa_xôi	xa_vời	xa_xăm	xa_cách	xa_tít	xa_tắp	xa_tít_tắp	xa_tít_xa_tắp	xa_lắc	xa_lắc_lơ	xa_lắc_xa_lơ
+bêu	bêu_xấu	bêu_rếu	lăng_mạ	lên_án	chỉ_trích	lăng_nhục	nhục_mạ	thoá_mạ
+nghèo	ít	nhỏ	thiếu_thốn	ít_ỏi	sơ_sài	nghèo_nàn	eo_hẹp
+nhàn	nhàn_nhã	nhàn_rỗi	thư_thả	thong_thả	bình_tĩnh	bình_chân	bình_chân_như_vại	không_vội	không_vội_vàng	không_vội_vã	không_gấp_gáp
+cách	mẹo	cách_thức	phương_pháp	bí_quyết	phương_thức
+tra_dầu_mỡ	bôi_trơn
+giải	đọc	dịch	tìm	giải_mã	đọc_mã	dịch_mã	tìm_mã	giải_mật_mã	đọc_mật_mã	dịch_mật_mã	tìm_mật_mã
+bưu_điện	bưu_chính
+ước	áng	đoán	chừng	ước_lượng	ước_chừng	ước_tính	xấp_xỉ	áng_chừng	đoán_chừng	khoảng	độ	đánh_giá
+nối	kết	gắn	thông	kết_nối	nối_kết	gắn_kết	nối_liền	nối_lại	gắn_lại	rút_ngắn	nối_kết_lại	kết_nối_lại	gắn_kết_lại
+phá	phá_hại	phá_hỏng	tàn_phá	phá_huỷ	phá_hoại	làm_hư	làm_hại	làm_hỏng	làm_rối	đánh_rối	làm_rối_tung	làm_lộn_xộn	làm_xáo_trộn
+ngăn	chặn	cản	trấn_áp	khuất_phục	khống_chế	chế_ngự	áp_chế	đàn_áp	áp_đảo	ngăn_chặn	ngăn_cản	cấm_cản
+bạn	tri_kỉ	bằng_hữu	hảo_hữu	bạn_bè	bạn_bè_bằng_hữu	tri_âm_tri_kỉ	tri_kỷ	tri_âm_tri_kỷ
+làng	xã	thôn	bản
+trong	quang	quang_đãng	trong_trẻo	trong_sáng
+mẫu_mực	hình_mẫu	mẫu	mẫu_gương	kiểu_mẫu	bản_mẫu
+bản_thân	tự_thân	đích_thân	tự_tay	đích_tay
+bản_thảo	bản_dự_thảo	bản_phác_thảo
+tin	cậy	nhờ	tin_cậy	trông_cậy	nhờ_cậy	tin_tưởng	uỷ_thác	phó_thác	giao_phó
+dạy	chỉ_bảo	hướng_dẫn	dạy_cho	truyền_dạy_cho	huấn_luyện	giảng_dạy	dạy_dỗ	dạy_học	dạy_bảo
+thấy	cảm_thấy	co_cảm_giác	có_cảm_tưởng	trải_qua	kinh_qua	nếm_mùi	chịu_đựng
+vững	ổn	bền	chắc	ổn_định	bền_vững	vững_vàng	bình_ổn	vững_chắc	bền_chắc
+sửa	sửa_chữa	cải_chính	đính_chính	hiệu_chỉnh	sự_sửa	sự_sửa_chữa	sự_cải_chính	sự_đính_chính	sự_hiệu_chỉnh
+cắt	gọt	đẽo	xén	tỉa	cắt_gọt	cắt_tỉa	cắt_xén	gọt_đẽo	đẽo_gọt
+bất_cứ	bất_kì	bất_kể
+bất_hợp_tác	không_được_hợp_tác	không_được_phối_hợp
+ngăn	cản	ngừng	dừng	cấm	đình	ngăn_cản	ngăn_chặn	ngăn_cấm	cản_phá	đình_chỉ	cấm_cản	dừng_lại	ngừng_lại
+bất_lực	bất_khả	bất_khả_kháng	bất_khả_thi	vô_hiệu	không_vượt_qua_được	không_thể_khắc_phục
+căm	uất	phẫn	oán	căm_thù	căm_hờn	căm_tức	căm_giận	căm_phẫn	phẫn_nộ	uất_ức	uất_hận	oán_hận	oán_giận	ai_oán
+kinh_dị	lạ_lùng	ngạc_nhiên	kinh_ngạc	bất_ngờ	đáng_ngạc_nhiên	đáng_kinh_ngạc	đầy_bất_ngờ
+khó_khăn	rối_beng	rối_mù	rối_tung	bồi_hồi	bứt_rứt	bất_ổn	rối_loạn	rắc_rối	phiền_phức	không_yên	hỗn_loạn
+đối_lập	đối_kháng	tương_phản	đối_chọi	đối_nghịch	sự_đối_lập	sự_đối_kháng	sự_tương_phản	sự_đối_chọi	sự_đối_nghịch	quan_hệ_đối_lập	quan_hệ_đối_kháng	quan_hệ_tương_phản	quan_hệ_đối_chọi	quan_hệ_đối_nghịch
+thời_đó	thời_ấy	bấy_giờ	ở_thời_đó	ở_thời_ấy
+chửa	bầu	mang_thai	mang_bầu	có_thai	có_mang	có_chửa	có_bầu	bầu_bí
+bận	bận_rộn	bận_bịu	nhiều_việc
+bắc	hướng_bắc	chính_bắc	hướng_chính_bắc	N	hướng_N
+buộc	trói	cột	buộc_vào	trói_vào	cột_vào	buộc_vào_cọc	trói_vào_cọc	cột_vào_cọc
+bắt_chuyện	bắt_chuyện_với	nói_với	nói_chuyện_với
+nắm_bắt	am_hiểu	hiểu_biết	sự_nắm_bắt	độ_am_hiểu	độ_hiểu_biết	mức_độ_hiểu_biết
+bắt_đầu	khởi_sự	khởi_hành	khởi_động	mở_màn	mào_đầu	khởi_sự	khởi_xướng	phát_đoan	khai_đoan
+ương	ngang	bướng	ương_ngạnh	ương_bướng	ngang_ngạnh	bướng_bỉnh	ngoan_cố	cố_chấp	cứng_đầu	khó_bảo	khó_nói	khó_dạy
+vững	ổn	bền	chắc	ổn_định	bền_vững	vững_vàng	bình_ổn	vững_chắc	bền_chắc
+bị_động	thụ_động	thiếu_chủ_động	thiếu_tích_cực	không_chủ_động	không_tích_cực
+bọn	nhóm	tụi	cánh	lũ	đám	nhóm_bạn	bọn_bạn	tụi_bạn	đám_bạn	đám_bạn	cánh_bạn
+xoá	bỏ	diệt	khử	gạch_bỏ	xoá_bỏ	bỏ_đi	tiêu_diệt	phá_huỷ	huỷ_bỏ	tiêu_trừ	trừ_bỏ	trừ_khử
+mở	tháo	cởi	nới	gỡ	tháo_ra	cởi_ra	gỡ_ra	cởi_bỏ	tháo_bỏ
+bơ	lơ	lờ	phớt	phớt_lờ	bơ_đi	lơ_đi	lờ_đi	bỏ_bẵng	bỏ_ngoài_tai
+để_lại	bỏ_lại	bỏ_quên	rời_bỏ	vứt_lại
+bố_cục	cơ_cấu	hệ_thống	cách_sắp_xếp
+bố_trí	cắt_cử	điều_người	cấp_người	cử_người_vào	điều_người_vào	bố_trí_người	bố_trí_nhân_lực
+bối_rối	lo_âu	âu_lo	gây_bối_rối	làm_lo_âu	làm_náo_động	làm_xáo_trộn	làm_náo_động	làm_mất_yên_tĩnh
+thứ_tư	thứ_bốn	số_bốn	bốn	bậc_tư	bậc_bốn	cấp_bốn	hạng_thứ_tư	vị_trí_thứ_tư
+nâng_cao	bồi_dưỡng	giáo_dục	đào_tạo	rèn_luyện	huấn_luyện
+vỡ	tan	nát	gãy	gẫy	đứt	bửa	tan_rã	bửa_ra	vỡ_ra	bị_vỡ	bị_vỡ_ra	bị_gãy	bị_gãy_ra	bị_đứt	bị_đứt_ra	bị_đập_vỡ
+lập	tạo	tạo_lập	thành_lập	lập_nên	lập_ra	tạo_dựng	tạo_nên	tạo_ra	hình_thành_nên
+ngoại_tình	gian_dâm	thông_dâm	phản_bội	cắm_sừng	phụ_bạc	lừa_dối	phụ_tình	phụ
+giúp	giúp_ích	có_ích	giúp_đỡ	cứu_đỡ	cứu_giúp	hỗ_trợ	cứu_trợ	viện_trợ	cứu_viện
+chuỗi	dãy	loạt	mạch	dòng	đoàn	xâu
+qui_định	quy_định	qui_chế	quy_chế	qui_tắc	quy_tắc	theo_qui_định	theo_quy_định	theo_qui_chế	theo_quy_chế	theo_qui_tắc	theo_quy_tắc
+tỉ_mỉ	tỷ_mỉ	kĩ	kĩ_càng	kĩ_lưỡng	kỹ	kỹ_lưỡng	chi_tiết	cặn_kẽ	từng_li_từng_tí	quá_kĩ_càng
+ngây_thơ	thơ_ngay	trong_sáng	hồn_nhiên	chất_phác	chân_thật	chân_chất	không_khôn_ngoan	không_xảo_quyệt	không_gian_giảo	không_gian_trá	không_gian_xảo	không_giảo_hoạt	không_giảo_quyệt	không_man_trá	không_quỉ_quyệt	không_quỷ_quyệt	không_xảo_trá
+giảm	bớt	hạ	giảm_bớt	hạ_bớt	làm_giảm	làm_bớt	làm_hạ	làm_hạ_bớt	làm_giảm_bớt
+vỡ	bể	gãy	gẫy	đứt	vỡ_ra	bể_ra	gãy_ra	gẫy_ra	đứt_ra	gãy_rời	gãy_rời_ra
+hát	ca	xướng	xướng_ca	diễn_xướng	ca_hát
+kìm	hãm	nén	kìm_nén	kìm_hãm	chứa_chấp	ấp_ủ	nuôi_dưỡng	kìm_lại	hãm_lại	nén_lại	kìm_nén_lại	kìm_hãm_lại
+đứng_đầu	chỉ_huy	phụ_trách	lãnh_đạo	cầm_đầu	dẫn_đường	cầm_lái	chỉ_đạo	dẫn_lối
+kiểu_người	loại_người	thứ	đồ	giống	hạng	nhà
+liều	liều_lĩnh	táo_bạo	táo_tợn	dũng_cảm	táo_bạo	anh_dũng	gan_dạ	can_đảm	gan_góc	cả_gan
+cô	canh	chưng	cô_đặc	tinh_luyện	tinh_lọc	tinh_chế
+cao	cao_lớn	dỏng	dong_dỏng_cao
+dở	dở_dang	dang_dở	dở_chừng		bỏ_dở	chưa_xong	chưa_hoàn_thiện	chưa_hoàn_thành	chưa_kết_thúc
+tụ	hợp	tụm	tụ_tập	quần_tụ	quy_tụ	tập_hợp	túm_tụm_đàn_đúm	nhóm_họp	tụ_lại	quy_lại	quy_về_một_mối
+gặp	gặp_mặt	đấu	thi	thi_đấu	chạm_trán	đụng_độ	so_tài	so_sức	đọ_tài	đọ_sức	so_găng	so_cao_thấp	cạnh_tranh	tranh_giành	đấu_với	thi_đấu_với	đối_đầu_với	chạm_trán_với	đụng_độ_với	chiến_đấu_với
+trước	trước_đây	trước_kia	thời_trước	ngày_xưa	xưa_kia	xưa	thuở_trước
+sau_phổ_thông	trung_cấp	cao_đẳng	đại_học
+nghiến	khép	mím	nắm	khép_chặt	siết_chặt	nghiến_chặt	mím_chặt	nắm_chặt
+đãi	chao	gạn
+bôi	phủ	phết	dán	trát	quyết	áp	bôi_lên	phết_lên	dán_lên
+tiêu	chi	chi_tiêu	tiêu_pha	tiêu_tiền	chi_phí
+chỉ	dẫn	trỏ	chỉ_dẫn	chỉ_đường	dẫn_đường	trỏ_đường	chỉ_lối	dẫn_lối	trỏ_lối	dẫn_hướng	chỉ_hướng	trỏ_hướng
+đối	ngược	nghịch	đối_lại	ngược_lại	nghịch_lại	đối_nghịch	trái_ngược	đối_nhau	ngược_nhau
+chia_sẻ	san_sẻ	chia_sớt	san_sớt	nói_cho
+cướp	chiếm	đoạt	chiếm_đoạt	cướp_đoạt	chiếm_dụng	chiếm_giữ	chiếm_lấy	xâm_chiếm	cướp_chiếm
+sóng	con_sóng	làn_sóng	đợt_sóng	dải_sóng
+binh_lược	binh_pháp	chiến_lược	chiến_lược_quân_sự
+trụ	qua	vượt	vượt_qua	trụ_vững	trụ_được	qua_được	chịu_được	trụ_lại	trụ_vững_được	vượt_qua_được	chịu_đựng_được	trụ_lại_được
+sờ	mó	rờ	đụng	động	chạm	sờ_vào	mó_vào	rờ_vào	động_vào	đụng_vào	động_vào	chạm_vào	sờ_mó	rờ_mó	động_chạm	đụng_chạm
+chiều	cưng	nuông	nuông_chiều	chiều_chuộng	cưng_chiều	làm_hư
+định	vạch	nhìn	xác_định	định_rõ	vạch_rõ	chỉ_rõ	xác_định_rõ	định_ra	vạch_ra	nhìn_ra
+nghĩ	tưởng	tưởng_tượng	hình_dung	mường_tượng	nghĩ_được	nghĩ_là	cho_là	coi_như
+cho_mượn	cho_vay
+gửi	gởi	gửi_thư	gởi_thư	gửi_thư_điện_tử	gởi_thư_điện_tử	gửi_email	gởi_mail	gửi_điện_thư	gửi_email	gởi_mail	chuyển_email	chuyển_mail	chuyển_thư	chuyển_thư_điện_tử
+giả_sử	giả_định	giả_thiết	cho_rằng	giả_như	giả_thử	giả_tỉ	ví_thử
+chu	chẩu
+chú_ý	để_ý	lắng_nghe	để_tâm	chú_tâm	lắng_tai	thấy	nhận_thấy
+chua	lên_men	thiu	ôi	hư	hỏng	bị_chua	bị_lên_men	bị_thiu	bị_ôi	bị_hư	bị_hỏng
+chung	được_chia_sẻ	được_sẻ_chia	được_đồng_cảm	được_thông_cảm	được_cảm_thông
+khái_quát	chung_chung	tổng_quát
+kiên_nhẫn	nhẫn_nại	bền_chí	kiên_trì	kiên_tâm	bền_bỉ
+chuyên_gia	chuyên_viên	nhà_chuyên_khoa
+chuyên_ngành	chuyên_môn
+nhan_đề	đề_mục	đầu_đề	tiêu_đề	dòng_tít	tít
+kĩ_năng	kỹ_năng	kĩ_nghệ	kỹ_nghệ	tài_nghệ	chuyên_nghiệp
+chuyên_sâu	tập_trung_sâu
+ẩn	khuất	lẩn	được_che	được_đậy	được_giấu_giếm	được_che_đậy	được_bưng_bít	được_che_giấu	được_chôn_giấu	được_cất_giấu	bị_lẩn_khuất	bị_giấu_giếm	bị_che_đậy	bị_bưng_bít	bị_che_giấu	bị_chôn_giấu	bị_cất_giấu
+thay_đổi	đổi_thay	biến_đổi	cải_biến	biến_cải	hoán_cải	làm_thay_đổi	làm_biến_đổi	làm_cho_thay_đổi
+việc	vụ	vụ_việc	vụ_kiện	vụ_tố_tụng	việc_kiện	việc_tố_tụng
+thật	tự_nhiên	chân_thật	thành_thật	chân_thực	thành_thực	thật_lòng	thực_lòng	thật_tâm	thực_tâm
+gốc	nguồn	nguồn_gốc	căn_nguyên	khởi_nguyên	xuất_xứ	nguồn_cội	cội_nguồn	khởi_đầu	khởi_thuỷ	nguyên_uỷ
+tiếp_thị	giới_thiệu	quảng_cáo	quảng_bá
+chung_cuộc	cuối	chót	rốt	cuối_cùng	sau_cùng	sau_chót	sau_rốt
+trêu	chọc	ghẹo	quấy_rầy	làm_phiền	chọc_ghẹo	trêu_chọc	quấy_rối	gây_rối	chọc_tức	chọc_giận	làm_phát_cáu	làm_phát_bực	gây_phiền_hà	gây_phiền_phức	làm_bực_mình
+vị_trí	tầng_lớp	địa_vị	ghế	chỗ	chiếu	chỗ_đứng
+lệch	chênh_lệch	không_cân	không_tương_đương	không_bằng	không_cân_bằng	không_ngang_bằng	không_giống	không_bằng_nhau	không_giống_nhau	không_ngang_nhau	không_ngang_bằng_nhau
+chính	chủ_yếu	cốt_yếu	trung_tâm	nền_tảng	căn_bản	cơ_bản	trọng_tâm
+chính_sách	chủ_trương
+lề	thói	lề_thói	nghi_thức	nghi_tiết	thủ_tục
+chính_trị	chính_trị_học	khoa_học_chính_trị
+giam	giữ	bỏ_tù	tống_giam	bắt_giam	bắt_giữ	giam_cầm	giam_giữ	cầm_tù	giam_hãm
+xứng_đáng	chính_đáng	đúng_nghĩa	hợp_lẽ_phải
+thé	chói	the_thé	chói_vói	inh_tai	inh_tai_nhức_óc
+chung_cuộc	cuối	chót	rốt	cuối_cùng	sau_cùng	sau_chót	sau_rốt
+tụ	hợp	tụm	tụ_tập	quần_tụ	quy_tụ	tập_hợp	túm_tụm_đàn_đúm	nhóm_họp	tụ_lại	quy_lại	quy_về_một_mối
+chú_ý	để_ý	lắng_nghe	để_tâm	chú_tâm	lắng_tai	thấy	nhận_thấy
+gục	rũ	cúi	chúc	gục_xuống	rũ_xuống	rũ_ra	cúi_xuống
+khen_ngợi	sự_khen_ngợi	ca_ngợi	sự_ca_ngợi	tán_dương	sự_tán_dương	lời_khen_ngợi	lời_ca_ngợi	lời_tán_dương
+chốc	lúc	lát	chốc_lát	tí	tẹo,
+chằm_chằm	chăm_chú	nhìn_chằm_chằm	nhìn_chăm_chú
+kế_hoạch	chương_trình	kế_hoạch_làm_việc	chương_trình_nghị_sự
+chạy	hoạt_động	sự_chạy	sự_hoạt_động
+đổ	ngã	lật	xoà	xoã	đổ_vật	đổ_vật_ra	ngã_vật	ngã_vật_ra
+chấm	hạt_cát	hạt_bụi	vết_li_ti	vệt_li_ti
+ngăn	chặn	cản	trấn_áp	khuất_phục	khống_chế	chế_ngự	áp_chế	đàn_áp	áp_đảo	ngăn_chặn	ngăn_cản	cấm_cản
+đồng_ý	tán_thành	bằng_lòng	đồng_tình	tán_đồng	sự_đồng_ý	sự_tán_thành	sự_bằng_lòng	sự_đồng_tình	sự_tán_đồng
+cất_vào_gara	cất	trữ	giữ	tích	giấu	chứa	cất_chứa	tàng_trữ	cất_giấu	tích_trữ	cất_trữ	cất_giữ	lưu_trữ	lưu_giữ
+tính	tính_khí	tính_tình	tính_cách	tính_nết	phẩm_chất
+chậm	chậm_chạp	lề_mề	dềnh_dang	dềnh_dàng	trễ_nải	trễ_tràng
+nhấp_nháy	chập_chờn	lung_linh	lấp_lánh
+sít	khít	chật	vừa_khít	vừa_sít	bó_sát	bó_chặt	bó_khít	bó_sít	khít_khìn_khịt	sít_sìn_sịt	vừa_khít_khìn_khịt	vừa_sít_sìn_sịt	bó_sát_sàn_sạt
+đích_thực	chân_chính	đích_thật	thực_sự	thật_sự
+chặn	chắn	ngăn	cản	ngăn_cản	chặn_lại	chắn_lại	ngăn_lại	cản_lại	ngăn_cản_lại
+chết	mất	đi	qua_đời	hi_sinh	từ_trần	băng_hà	viên_tịch	ra_đi	tắt_thở	về_trời	về_nơi_chín_suối	về_cõi_vĩnh_hằng	xuống_suối_vàng	an_giấc_ngàn_thu	an_giấc_nghìn_thu	khuất_núi	tử_trận	tử_vong	tạ_thế	trầu_trời	nhắm_mắt_xuôi_tay	thăng	tử_mạng	bỏ_mạng	thiệt_mạng	toi	ngỏm	ngủm	nghẻo	tẻo	ngỏm_củ_tỏi	ngủm_củ_tỏi	xuống_lỗ	tiêu_đời
+bêu	bêu_xấu	bêu_rếu	lăng_mạ	lên_án	chỉ_trích	lăng_nhục	nhục_mạ	thoá_mạ
+ảnh_hưởng	tác_động	chạm_đến	ảnh_hưởng_đến	ảnh_hưởng_tới	tác_động_lên	tác_động_tới	tác_động_đến	làm_ảnh_hưởng_đến	làm_ảnh_hưởng_tới
+hợp	xứng	thích_hợp	hợp_lí	hợp_lý	đúng_mực	phải_lẽ	hợp_lẽ	lịch_sự	đàng_hoàng	đứng_đắn
+hàng	đầu_hàng	quy_hàng	chịu_thua	quy_phục	chịu_phục	khuất_phục
+chọn	lựa	tuyển	nhặt	chọn_lựa	lựa_chọn	tuyển_chọn	tuyển_lựa	xét_tuyển	nhặt_nhạnh
+đập	đập_vỡ	đập_tan	đập_nát	đập_vụn	phá_tan	phá_vỡ	đánh_sập	kéo_đổ	nổ_bom	đập_vỡ_tan	đập_vỡ_tan_tành	phá_tan_tành
+nhô_ra	nhú_ra	lộ_ra	vọt_ra	hiện_ra	lòi_ra	xuất_hiện	nổi_lên
+đan	lồng	cài	đan_vào_nhau	lồng_vào_nhau	cài_vào_nhau
+kì_vọng	kỳ_vọng	mong_đợi	chờ_đợi	đợi_chờ	chờ_mong	hi_vọng	hy_vọng	sự_kì_vọng	sự_kỳ_vọng	sự_mong_đợi	sự_chờ_đợi	sự_đợi_chờ	sự_hi_vọng	sự_hy_vọng	sự_chờ_mong
+thị_trường	thương_trường	chợ
+người_phụ_trách	phụ_trách	thủ_trưởng	sếp	đầu	trưởng	chủ
+chủ_nhật	Sunday	Lords_Day	Dominicus	Sun
+chủ_quan	tính_chủ_quan	chủ_nghĩa_chủ_quan
+mô_típ	đề_tài	chủ_đề
+định	vạch	nhìn	xác_định	định_rõ	vạch_rõ	chỉ_rõ	xác_định_rõ	định_ra	vạch_ra	nhìn_ra
+chứa	đựng	chứa_đựng	chứa_được	đựng_được
+Thánh_chức	chức	chức_Thánh	Giáo_phẩm
+chức_năng	nhiệm_vụ	tác_dụng	vai_trò	công_năng
+chữ_cái	con_chữ	chữ	mẫu_tự
+chữ_kí	chữ_ký
+chữ_viết_tay	chữ_viết	tự_dạng
+gập	gấp	đóng	thu	gập_lại	đóng_lại	gập_vào	đóng_vào	thu_vào	thu_lại
+xét	xem	nhìn	xem_xét	suy_xét	suy_nghĩ	suy_ngẫm	nghiền_ngẫm	nhìn_nhận
+con	con_cái	con_cháu
+người	mọi_người	người_dân	đồng_bào	cộng_đồng	tộc_người	quần_chúng	cư_dân	dân_chúng	thiên_hạ	dân_tộc	nhân_dân
+cỡ	kích_cỡ	số	size
+cong	oằn	oặt	quằn	cong_queo
+chép	sao	cóp	copy	sao_chép	chép_lại	sao_lại	cóp_lại	copy_lại
+nuôi	trồng	nuôi_trồng	trồng_trọt	cày_cấy	cấy_cày	cầy_cấy	cấy_cầy
+gập	gấp	vén	xắn	bẻ	gập_lên	gấp_lên	vén_lên	xắn_lên	bẻ_lên
+cuộc_họp	cuộc_hội_họp	cuộc_gặp	cuộc_gặp_gỡ	sự_gặp_mặt	sự_gặp_gỡ
+kiếp	cõi	cuộc_đời	đời_người
+mài	giũa	dũa	cà	mài_giũa	mài_dũa
+nói	khẳng_định	quả_quyết	cam_đoan	bảo_đảm	dám_chắc	cá
+lạ	kì	lạ_thường	kì_lạ	lạ_kì	kì_quặc	bất_thường	hiếm_gặp	chưa_từng_có	chưa_từng_thấy	chưa_có_tiền_lệ
+xay	nghiền	băm	tán	cắt_nhỏ	thái_chỉ	thái_con_chì
+cai_tù	cai_ngục	quản_ngục	quản_tù	cán_bộ	quản_giáo	người_cai_tù	người_cai_ngục	viên_cai_tù	viên_cai_ngục	người_quản_ngục	người_quản_tù	viên_quản_ngục	viên_quản_tù	quản_giáo_trại_giam	người_quản_lí_trại_giam	cán_bộ_quản_lí_trại_giam
+viện	vin	vịn	cáo	viện_đến	viện_dẫn	vin_vào	vịn_vào	vin_đến	vịn_đến
+cứng	cứng_nhắc	nghiêm_khắc	khắt_khe	ngặt	nghiêm_ngặt	nghiêm_nhặt	gắt	gắt_gao	không_linh_hoạt	không_linh_động
+do_dự	lưỡng_lự	phân_vân	dao_động	nghi_ngại	nao_núng	chần_chờ	chần_chừ	đắn_đo	lần_chần	lần_khần	lưỡng_lự	ngần_ngừ	phân_vân	trù_trừ	không_nhất_quyết	không_chắc_chắn	không_biết_chắc
+cãi_vã	cãi_lộn	cãi_cọ	tranh_cãi	cãi_lẫy	cuộc_cãi_vã	cuộc_cãi_lộn	cuộc_cãi_cọ	cuộc_tranh_cãi	cuộc_cãi_lẫy
+cò	trung_gian	môi_giới	người_trung_gian	người_môi_giới
+ưa_nhìn	dễ_nhìn	hợp_nhãn	ưa_mắt	thích_mắt	thuận_mắt	dễ_ưa	xinh	xinh_xắn	xinh_đẹp	có_duyên
+quan_trọng	có_ý_nghĩa	có_giá_trị	được_kể_đến	được_tính_đến	được_chú_ý_đến	được_quan_tâm_đến
+hất	đẩy	xô	hẩy	xô_đẩy	hất_ra	đẩy_ra	xô_ra	hẩy_ra
+trông	có_vẻ	nom_vẻ	giống_như	trông_giống_với	trông_hợp_với	nom_giống_với	trông_giống_như
+ẩn_ý	ngụ_ý	hệ_quả	hàm_ý	ý	ý	nghĩa	ý_nghĩa
+sơ_qua	sơ_sơ	ngắn_gọn	trình_bày_sơ_sơ	trình_bày_sơ_qua	trình_bày_ngắn_gọn
+công_bằng	công_minh	công_tâm	sự_công_bằng	sự_công_chính	sự_công_minh	sự_trung_trực	sự_chính_trực	công_minh_chính_trực
+rao	công_bố	thông_cáo	tuyên_bố	tuyên_cáo
+dân	cư_dân	công_dân	người_dân	dân_bản_địa	người_dân_bản_địa	dân_cư
+cố_gắng	phấn_đấu	sự_theo_đuổi	sự_đeo_đuổi	sự_cố_gắng	sự_phấn_đấu	sự_đấu_tranh	sự_tranh_đấu	sự_chiến_đấu
+công_nghệ_thông_tin	khoa_học_thông_tin	IP
+công_nhân	thợ	người_thợ	người_lao_động
+soát	duyệt	xác_định	kiểm_lại	thẩm_tra	xác_minh	xác_nhận	soát_duyệt	soát_lại
+nợ	công_nợ	nợ_nần	khoản_nợ	món_nợ
+công_ti	công_ty	hãng	doanh_nghiệp
+công_việc	công_tác
+hiệp_hội	nghiệp_đoàn_công_nhân	nghiệp_đoàn	công_đoàn
+đồng_thời	cùng_lúc	song_song	sự_đồng_thời	tính_đồng_thời	sự_cùng_lúc	sự_song_song
+kết_hợp	sự_kết_hợp	hành_động_kết_hợp	liên_kết	sự_liên_kết	hành_động_liên_kết	liên_hợp	sự_liên_hợp	hành_động_liên_hợp
+cúng	tế	tế_lễ	tế_thánh	dâng_thánh	dâng_lễ	cúng_lễ	cúng_tế	tế_thần_linh	cúng_thần_linh	dâng_thần_linh
+bằng_chứng	cơ_sở	chứng_cứ	chứng_cớ	bằng_cứ	bằng_cớ
+lỏng_ra	long	giãn_bớt	giãn_ra	chùng_ra	long_ra
+nguyên	nguyên_vẹn	vẹn_nguyên	được_bảo_quản	được_bảo_toàn	được_giữ_gìn	được_gìn_giữ	được_nguyên_vẹn	được_vẹn_nguyên	được_toàn_vẹn
+cơ	tay	thủ_công	bằng_tay
+mẻ	đợt	lô	ổ	lứa	lò
+máy_móc	cơ_khí	cơ_giới
+tổ_chức	sự_tổ_chức	việc_tổ_chức
+thể_xác	xác_thịt	thân_thể	cơ_thể
+cơn	rối_loạn	cơn_rối_loạn	sự_rối_loạn
+nụ_cười	cười
+gặp	gặp_mặt	đấu	thi	thi_đấu	chạm_trán	đụng_độ	so_tài	so_sức	đọ_tài	đọ_sức	so_găng	so_cao_thấp	cạnh_tranh	tranh_giành	đấu_với	thi_đấu_với	đối_đầu_với	chạm_trán_với	đụng_độ_với	chiến_đấu_với
+thứ_bảy	số_bảy	bảy	hạng_bảy	cấp_bảy	bậc_bảy	hạng_thứ_bảy	vị_trí_thứ_bảy	thứ_bẩy	số_bẩy	bẩy	hạng_bẩy	cấp_bẩy	bậc_bẩy	hạng_thứ_bẩy	vị_trí_thứ_bẩy
+cải_thiện	giúp_cải_thiện	làm_cải_thiện
+ấn_tượng	cảm_giác	cảm_tưởng	cảm_nhận	cảm_nghĩ	suy_nghĩ	ý_kiến
+cảm_hứng	nguồn_cảm_hứng
+cảm_thức	cảm_thụ	thụ_cảm
+mùi	hương	mùi_hương	xạ	hơi	mùi_hơi
+cảnh	phong_cảnh	cảnh_tượng	hình_ảnh
+ẩu	bừa	cẩu_thả	bất_cẩn	ào_ào	vô_tâm	vội_vàng	thiếu_thận_trọng	thiểu_cẩn_trọng	thiếu_cẩn_thận	thiếu_chín_chắn	thiếu_suy_nghĩ	thiếu_xem_xét	không_thận_trọng	không_cẩn_trọng	không_cẩn_thận	không_chín_chắn	không_suy_nghĩ	không_xem_xét
+hàm	lon	quân_hàm	phù_hiệu_quân_hàm
+hầu	cấp_dưới	đầy_tớ	tôi_tớ	hầu_cận	trợ_lí	giúp_việc
+trao	ban	dâng	tặng	giao	trao_tặng	ban_tặng	dâng_tặng
+cấp_trên	người_cấp_trên
+kết_cấu	cấu_trúc	cấu_tạo
+cầm	cắm	thế_chấp	cầm_đồ	cắm_đồ	thế_chấp_đồ	sự_thế_chấp	sự_cầm_đồ	sự_cắm_đồ
+cần_thiết	thiết_yếu	thiết_thực
+đẫy	tròn	đẫy_đà	đầy_đặn	viên_mãn	tròn_đầy	tròn_trịa	nảy_nở	nở_nang	mỡ_màng
+thận_trọng	cẩn_trọng	cẩn_thận	khôn_ngoan	khôn_khéo	sáng_suốt	tinh_tường
+cập_nhật	có_tính_thời_sự
+bẻ	xé	cắt	làm_gãy	làm_gẫy	bẻ_gãy	bẻ_gẫy	làm_đứt
+chà	xát	cọ	cạ	chà_xát	cọ_xát
+cố_ý	cố_tình	mưu_tính	mưu_toan	có_chủ_tâm
+cố_vấn	tham_mưu
+cồn	có_cồn	có_chất_rượu
+phép_cộng	cộng	tổng	phép_lấy_tổng
+hành_xác	cấm_dục	khắc_kỉ	khổ_tu	tu_khổ_hạnh	kìm_hãm	kiềm_chế
+thân_mật	nồng_nhiệt	suồng_sã	gần_gũi	gần_gụi	dễ_gần	cởi_mở	thân_thiện
+cỡ	size	có_cỡ
+vọt	bắn	phọt	phun	phụt	lao	vọt_ra	bắn_ra	vọt_lên	phun_ra	phụt_ra	bắn_ra	lao_đi	lao_vút	lao_vun_vút
+độc	hại	độc_hại	có_độc	có_hại	có_độc_hại	mang_mầm_bệnh	mang_nguy_cơ_lây_bệnh	mang_vi-rút	có_vi-rút
+cụm_từ	ngữ
+cứ	cách_mỗi	cứ_cách	cứ_mỗi	cứ_cách_mỗi
+ưu_tú	xuất_sắc	lỗi_lạc	tài_giỏi	hơn_người	xuất_chúng	tài	có_tài	có_giá_trị_tài_ba	tài_giỏi	tài_tình
+dày_dạn	dạn_dày	dầy_dạn	mạnh_mẽ	cứng_rắn
+cứu	cứu_vãn	cứu_nguy
+diện_mạo	vẻ_ngoài	dáng_vẻ	hình_dáng	bề_ngoài	dáng_vẻ_bề_ngoài	hình_dáng_bên_ngoài
+yếu	oải	nản	dặt_dẹo	phờ_phạc	yếu_ớt	bơ_phờ	mệt_mỏi	uể_oải
+cực_đoan	quá_khích
+đỉnh_cao	đỉnh_điểm	cực_điểm	tột_đỉnh	cực_độ	tột_bậc	tột_bực	tột_cùng	tột_độ
+mở_rộng	phát_triển	gia_tăng	sự_mở_rộng	sự_phát_triển	sự_gia_tăng
+giờ	tiếng	giờ_đồng_hồ	tiếng_đồng_hồ	sáu_mươi_phút	sáu_chục_phút	60_phút	h
+danh_sách	bản_danh_sách	bảng_danh_sách	danh_sách_dữ_liệu	bản_danh_sách_dữ_liệu	bảng_danh_sách_dữ_liệu
+tên_gọi	danh_hiệu	danh_xưng
+day	véo	vấu	beo	bấu	cấu	day_nhẹ	day_day	véo_yêu
+lấy	rút	lôi	kéo	nhổ	lấy_ra	rút_ra	kéo_ra	lôi_ra	nhổ_ra	trích_xuất	kể_lể_ra
+dời_đi	sự_dời_đi	di_dời	sự_di_dời	di_chuyển	sự_di_chuyển
+vận_động	chuyển_động	di_động	sự_vận_động	sự_chuyển_động	sự_di_động
+diềm	rìa	mép	bên_rìa	bên_mép
+gượng	kịch	diễn	gượng_gạo	giả_vờ	không_thật	không_tự_nhiên
+giải_nghĩa	cắt_nghĩa	giảng_nghĩa	giải_thích	làm_rõ	làm_sáng_tỏ	làm_sáng_rõ
+thuyết_trình	diễn_thuyết	hùng_biện	sự_thuyết_trình	sự_diễn_thuyết
+sơn	tô	vẽ	sơn_màu	tô_màu	vẽ_màu
+diễn_văn	bài_diễn_văn	bài_diễn_thuyết	bài_thuyết_trình
+thương_gia	doanh_nhân	nhà_kinh_doanh	nhà_buôn	thương_nhân	doanh_gia
+du_lịch	du_ngoạn	du_hoành	du_kí	du_lãm	du_nhai	du_ngoại	chu_du	vãn_du	viễn_du
+cùng	đồng	trùng	cùng_màu	đồng_màu	trùng_màu	cùng_mầu	đồng_mầu	trùng_mầu
+dài	dài_ra	dãn_ra	kéo_dài	dãn_dài	được_kéo_dài	được_căng_dài	được_dãn_dài
+duyệt	phê_duyệt	thông_qua	chuẩn_qua
+vô_biên	vô_cực	vô_cùng	vô_tận	vô_hạn	vô_kể	khôn_cùng	khôn_xiết	không_hết	không_xuể	khôn_kể_xiết	không_bờ_bến	không_bến_bờ	không_điểm_dừng	không_giới_hạn
+dài_dòng	dông_dài	rườm_rà	vòng_vèo	nhiều_lời	dài_dòng_văn_tự
+dàn_ý	dàn_bài	sườn	đặc_điểm_chính	đề_cương
+gửi	gởi	giao	giao_phó	uỷ_thác	kí_thác	ký_thác	gửi_gắm	gởi_gắm
+đặc	đặc_quánh	đặc_sệt	đặc_lại	đặc_quánh_lại	đặc_sệt_lại
+coi_khinh	coi_thường	xem_khinh	cự_tuyệt	xúc_phạm	sự_coi_khinh	sự_coi_thường	sự_khinh_thường	sự_khinh_miệt	sự_coi_rẻ
+gắn_chặt	dán	dán_mắt	dán_chặt	đóng_chặt	gắn_chắc	cài_chắc	thắt_chặt	buộc_chặt	kháo_chặt
+dân_sự	thường_dân	thuộc_về_thường_dân
+dân_tộc	quốc_gia
+vướng	mắc	xen	vướng_vào	dính_vào	vướng_phải	mắc_phải	xen_với	liên_quan	liên_quan_tới
+dạng	hình_thức	mô_hình
+giẫm	dẫm	đạp	dận	giẫm_xuống	giẫm_vào	dẫm_xuống	dẫm_vào	dận_xuống
+dấu	vết	dấu_vết	bóng_dáng	dấu_hiệu	dáu_tích	vết_tích
+đánh	quất	quật	đánh_đòn	đánh_đập	trận_đòn	sự_đánh_đòn	sự_đánh_đập	trận_đòn_đau	trận_đánh_đòn	trận_đòn_đánh
+dẫn_chương_trình	làm_MC	giới_thiệu_chương_trình
+đưa_ví_dụ	cho_ví_dụ	lấy_ví_dụ	dẫn_chứng	dẫn_ra
+dậy	thức_dậy	trở_dậy	thức_giấc	tỉnh_giấc	bình_minh	ngủ_dậy
+êm	mượt	ngon	nuột	uyển_chuyển	dễ_dàng	mềm_mại
+dễ_hiểu	lí_giải_được	giải_thích_được	có_thể_lí_giải	có_thể_giải_thích	có_thể_lí_giải_được	có_thể_giải_thích_được
+dịu_dàng	nữa_tính	thuỳ_mị	thuỳ_mỵ	uỷ_mị	uỷ_mỵ
+dốc	đổ_hết	đổ_ra	trút_sạch	làm_cạn	tháo_sạch	trút_hết_ra	đổ_ra_sạch
+vắt	nặn	miết	dồn	dí
+dở	dở_dang	dang_dở	dở_chừng	chưa_xong	chưa_hoàn_thiện	chưa_hoàn_thành
+nhử	dử	dụ	mời	chào_mời	mời_chào	mời_mọc	cám_dỗ	quyến_rũ	lôi_cuốn	thu_hút	dụ_dỗ	lôi_kéo	rủ_rê	làm_thèm	gợi_thèm
+phương_tiện	công_cụ	phương_tiện_truyền_thông	công_cụ_truyền_thông
+dữ_liệu	tài_liệu	tập_dữ_liệu	hồ_sơ
+đoán	dự	ước_đoán	dự_đoán	tiên_đoán	đoán_trước	sự_đoán	sự_ước_đoán	sự_dự_đoán	sự_tiên_đoán	sự_đoán_trước
+đề_ra	bày_mưu	lập_mưu	tính_kế	bày_mưu_tính_kế	lên_kế_hoạch	đặt_kế_hoạch	vạch_kế_hoạch	lập_kế_hoạch
+nhát	rụt_rè	nhút_nhát	dút_dát	rút_rát	bẽn_lẽn	e_lệ	e_dè
+anh_em_họ	anh_chị_em_họ	chị_em_họ	anh_họ	chị_họ	em_họ
+anh_trai	em_trai	anh_ruột	anh_trai_ruột	em_trai_ruột
+thư_điện_tử	e-mail	email
+tệp_tin	tập_tin	tệp	file
+ghi	viết	viết_ra	ghi_ra	viết_lại	ghi_lại
+chú_giải	chú_thích	nhận_xét	bình_chú	phụ_chú	bị_chú	chú_dẫn
+nhớ	trí_nhớ	kí_ức
+nêu_rõ	định_rõ	chỉ_rõ	nói_rõ	ghi_rõ	được_định_rõ	được_chỉ_rõ	được_nói_rõ	được_ghi_rõ
+hợp	nhập	hợp_nhất	thống_nhất	sáp_nhập	hợp_vào	nhập_vào
+tổ_ấm	mái_ấm	gia_đình
+nam	nam_giới	đàn_ông	con_trai
+kỉ	kỷ	kỉ_địa_chất	kỷ_địa_chất	thời_kì	thời_kỳ
+dối_trá	điêu	điêu_toa	nói_dối	nói_láo	xuyên_tạc	sai_sự_thật
+giao	trao	giao_nhiệm_vụ	giao_việc
+giao_diện	giao_diện_người_dùng
+trao_đổi	thảo_luận	tranh_luận	bàn_luận	luận_bàn	cuộc_trao_đổi	cuộc_thảo_luận	cuộc_bàn_luận	cuộc_luận_bàn	cuộc_tranh_luận
+giao_tiếp	tương_tác	tác_động_qua_lại	ảnh_hưởng_lẫn_nhau
+lớn	nhiều	vô_tận	vô_hạn	vô_biên	bất_tận	vô_cùng	khổng_lồ	to_đùng	vĩ_đại	kếch_xù	không_giới_hạn	không_điểm_dừng	không_bến_bờ	không_bờ_bến
+giá	trị_giá	có_giá	phải_trả
+giám_đốc	người_chỉ_đạo
+gián_tiếp	không_trực_tiếp
+đứt	ngắt	gián_đoạn	đứt_quãng	ngắt_quãng	ngắt_đoạn	đứt_đoạn	cách_đoạn	cách_quãng
+sách_giáo_khoa	sách_giáo_trình	giáo_trình	sách
+giảng_viên	giáo_viên	giảng_viên_đại_học	giáo_viên_đại_học
+gió	như_gió
+mạo	giả	giả_mạo	fake	làm_giả
+giải_pháp	cách_giải_quyết
+xử_lí	xử_trí	xem_xét	giải_quyết	đối_phó
+vui	hề	hài	ngộ	tếu	nhộn	sướng	mừng	hóm	vui_vẻ	vui_lòng	vui_sướng	sướng_vui	vui_mừng	mừng_rỡ	mừng_vui	vui_tươi	vui_nhộn	dí_dỏm	hóm_hỉnh	tếu_táo	hài_hước	khôi_hài	buồn_cười	ngồ_ngộ	ngộ_nghĩnh	tức_cười	nực_cười
+giải_tích	vi_tích_phân
+giấy	giấy_in	folio
+đạp	giẫm	dậm	giậm	đạp_đổ	giẫm_nát	dậm_chân	giậm_chân
+giọng	sắc_thái_giọng
+tiếng_nói	giọng_nói
+thượng_hạng	tuyệt_đỉnh	đỉnh_cao	số_một	tuyệt_hảo	đỉnh	hảo_hạng	siêu_hạng	tột_đỉnh	tột_bậc
+giống	tựa	như	tương_tự	tựa_như	na_ná
+ngành	nghề	giới	lĩnh_vực	lãnh_vực
+công_khai	ra_mắt	trình_diện	trình_làng	có_mặt	xuất_hiện	rõ_ràng	không_che_giấu	ai_cũng_biết	không_giữ_kín	không_giấu_giếm
+giờ_giấc	giờ
+để_nguyên	giữ_nguyên
+đồng_tính_nam	pê_đê	bê_đê	gay	bóng	gây
+hiếu_chiến	hung_hăng	gây_hấn	gây_gổ	hùng_hổ	hay_gây_sự
+khía_cạnh	phương_diện	góc_cạnh
+khiến	khiến_cho	cho	mang_cho	đem_đến	đem_lại	đem_cho	mang_lại_cho	mang_đến_cho	đưa_đến_cho
+ấn	nhấn	gí	đè	ấn_xuống	nhấn_xuống	gí_xuống	đè_xuống
+khuôn_mặt	gương_mặt
+gấp_đôi	gấp_hai	gấp_hai_lần	bằng_hai_lần
+gần_như	gần_giống	gần_với	giống_với	kiểu_như
+gần_đây	vừa_qua	mới_đây	vừa_mới_qua	mới_qua	gần_mới_đây
+gắn_bó	keo_sơn	keo_sơn_gắn_bó	gắn_bó_keo_sơn	đồng_cam_cộng_khổ
+gắng_sức	gắng
+lướt	trượt	sượt	thoáng	thoảng	lướt_đi	trượt_đi	sượt_qua	thoáng_qua	thoảng_qua
+gầm	rú	rống	kêu	hú	gầm_lên	rú_lên	gầm_rú	gào_rú
+gốc	nguồn	nguồn_gốc	căn_nguyên	khởi_nguyên	xuất_xứ	nguồn_cội	cội_nguồn	khởi_đầu	khởi_thuỷ	nguyên_uỷ
+khổ	cực_khổ	khốn_khổ	khổ_sở	đau_khổ	khổ_đau	đau_đớn	khổ_hạnh	bất_hạnh	cùng_khổ	khổ_ải	khổ_nhục
+kép	ghép	phức	phức_hợp	đa_hợp	hồn_hợp	hợp_chất
+rạng_rỡ	rạng_ngời	tươi_tắn	tươi_rói	hân_hoan	háo_hức	hào_hứng	tươi_roi_rói
+gỉ	rỉ	han	han_gỉ	han_rỉ
+kém	không_dai	không_lâu	dễ_quên	hay_quên	chóng_quên	nhanh_quên	mau_quên	quên_trước_quên_sau
+hen	hen_suyễn	bệnh_hen	bệnh_suyễn	bệnh_hen_suyễn
+hiếu_khách	mến_khách
+tốt	tử_tế	tốt_bụng	hảo_tâm	thiện_tâm	nhân_từ	thương_người	tốt_tính
+hiển_thị	hiện
+ý_thức	nhận_thức	hiểu_biết	sự_ý_thức	sự_nhận_thức	sự_hiểu_biết
+thời_nay	ngày_nay	hiện_thời	hiện_tại	hiện_nay	thời_tại
+ngày_nay	hiện_nay	thời_nay
+hiệu_lực	có_hiệu_lực
+bội_thu	năng_suất	hiệu_quả	hiệu_quả_cao
+Chủ_tịch	hiệu_trưởng	chủ_toạ
+văn_chương	hoa_mĩ	hoa_mỹ
+sợ	khiếp	sợ_hãi	hoảng_sợ	khiếp_sợ	kinh_hãi	kinh_sợ	hãi_kinh
+thích_hợp	phù_hợp	hoà_hợp	hoà_hợp_với	theo_đúng_với
+ngờ	nghi	nghi_ngờ	ngờ_vực	nghi_hoặc	hồ_nghi	nghi_vấn	mối_nghi	mối_ngờ	sự_nghi_ngờ	sự_ngờ_vực	sự_nghi_hoặc	sự_hồ_nghi	sự_nghi_vấn
+xong_xuôi	hoàn_thành	hoàn_tất	hoàn_chỉnh	trọn_vẹn	tròn_vẹn	vẹn_tròn
+hoàn_cảnh	tình_cảnh	tình_thế	tình_trạng	trạng_thái
+hoàn_hảo	không_có_sai_sót	không_có_sai_lầm	không_mắc_lỗi	không_chê_vào_đâu_được
+trẻ	trẻ_tuổi	thiếu_niên	thanh_niên	non_nớt	chưa_chín_chắn	chưa_trưởng_thành
+hoàn_toàn	toàn_bộ	triệt_để	dứt_khoát
+hoãn_lại	trì_hoãn	tạm_ngừng	hoãn
+lạnh_nhạt	lạnh_lùng	lãnh_đạm	lạnh_lẽo	hờ_hững	hững_hờ	thờ_ơ	giá_băng	băng_giá	lạnh_như_băng
+đáp_ứng	thoả_mãn	làm_tròn	đúng_yêu_cầu	làm_thoả_mãn	làm_vừa_lòng	làm_hài_lòng
+ẩn_ý	hàm_ý	ngụ_ý	hàm_ẩn
+hàng_không	đường_hàng_không	bằng_hàng_không	bằng_đường_hàng_không
+thường	chuẩn	thông_thường	bình_thường	tiêu_chuẩn
+thực_hiện	sự_thực_hiện	thi_hành	sự_thi_hành	thực_hành	sự_thực_hành	thực_thi	sự_thực_thi
+hình_vẽ_minh_hoạ	hình_minh_hoạ	hình
+dường_như	có_vẻ_như	coi_bộ	hình_như	xem_như
+làm	làm_thành	làm_nên	làm_ra	tạo_ra	tạo_thành	chế_ra	chế_thành	chế_tạo	chế_tạo_ra
+ngửi	hít	đánh_hơi
+hôm_qua	ngày_hôm_qua
+hướng_về	tiến_về	đi_về	nhằm	nhắm	nhằm_vào	nhắm_vào	hướng_vào	tiến_vào
+ửng	hường	hồng	ửng_đỏ	ửng_hồng	ửng_lên	hường_lên	hồng_lên
+hưởng	nếm	hưởng_thụ	nếm_trải
+hạn	vận	hoạ	nạn	vận_đen	vận_hạn	tai_ương	tai_hoạ	tai_ách
+nhược_điểm	điểm_yếu	khuyết_điểm	hạn_chế	yếu_điểm	chỗ_yếu	chỗ_kém	hạn_chế
+nghèo	khó_khăn	nghèo_khó	nghèo_túng	túng_thiếu	nghèo_nàn
+điều_khoản	hạng_mục
+hấp_dẫn	hút	có_lực_hút	có_lực_hấp_dẫn
+nhiều_nhất	hầu_hết	phần_đông	đa_số
+hẹn	hẹn_hò	mời_đi_chơi
+hết	đã_xong	đã_kết_thúc	đã_hoàn_thành
+quá	quá_thể	quá_đỗi	quá_chừng	hết_sức	cực_kì	rất	vô_cùng
+hệ_thống_số	hệ_số
+liên_từ	hệ_từ	động_từ_nối
+thổi	xì	hỉ
+tên_họ	họ
+người_học	học_sinh	học_viên	sinh_viên	học_trò	trò
+học_tập	việc_học	sự_học
+thăm	đến_thăm	đi_thăm	tới_thăm	công_du
+hồ	hồ_cứng
+hồi	tràng
+đáp_lại	trả_lời	đối_đáp	đáp_lại	hồi_đáp	phản_hồi	ứng_đối	ứng_đáp	đối_đáp_lại	trả_lời_lại	hồi_đáp_lại	phản_hồi_lại
+bừa	bừa_bãi	bát_nháo	lung_tung	nhao_nhao	nhộn_nhoạm	lôi_thôi	mất_trật_tự	vô_kỉ_luật	không_trật_tự	bạ_đâu_vứt_đấy
+hội_nghị	buổi_họp	kì_họp	kỳ_họp	phiên_họp
+seminar	hội_thảo	hội_nghị_chuyên_đề
+xúm_quanh	đổ_về	đổ_dồn_về	cùng_kéo_về	cùng_đổ_về	hội_tụ	quy_tụ	tụ_lại
+ban	uỷ_ban	hội_đồng	uỷ_ban_giám_sát	hội_đồng_giám_sát
+mù_mịt	tối_tăm	bất_định	vô_định	rối	rối_tắm	rối_như_tơ_vò	không_xác_định	không_rõ_ràng	lờ_mờ	mập_mờ	mơ_hồ
+hợp_đồng	bản_thoả_thuận	bản_giao_ước	biên_bản_thoả_thuận	biên_bản_giao_ước	bản_giao_kèo
+hứa	hứa_hẹn	hẹn_ước	cam_kết	giao_ước
+hứng	nứng	hứng_tình	nứng_tình
+hứng_thú	lí_thú	lý_thú
+a_hèm	e_hèm	hèm_hèm	hừ
+đòi_hỏi	yêu_cầu	cần	bắt_phải	đòi_hỏi_phải	cần_phải_có	phải	cần_phải	cần_có
+phục_vụ	có_chức_năng	thực_hiện_chức_năng	có_tác_dụng	có_vai_trò
+hữu_hiệu	hiệu_nghiệm	có_hiệu_nghiệm
+im	ắng	lặng	lắng	im_lặng	im_ắng	im_bặt
+in	hằn	lằn	in_hằn	in_lên	hằn_lên	lằn_lên	in_hằn_lên
+đào	đào_bới	khai_quật	khai_phá	khoét	moi	khoét_rỗng
+khan	khô	khô_hạn
+gớm	tởm	ghê	kinh	gớm_ghiếc	gớm_guốc	ghê_tởm	kinh_khủng	kinh_tởm	kin_hồn	tởm_lợm
+khuyết_tật	khiếm_khuyết	tàn_tật	mất_khả_năng	sự_khiếm_khuyết	sự_mất_khả_năng
+xui	khiến	bảo	xui_khiến	thuyết_phục
+khiếu_nại	đơn_kiện
+sức	khả_năng	công_suất	dung_lượng	sức_chứa
+khoa_học	thuộc_về_khoa_học	thuộc_về_trí_thức
+sự_ba_hoa	sự_khoác_lác	sự_phét_lác	sự_khoe_khoang	ba_hoa	khoác_lác	phét_lác	khoe_khoang
+khoá	điệu	khoá_nhạc	âm_điệu
+khoản	mục
+chặng	đoạn	quãng	chặng_đường	đoạn_đường	quãng_đường	chặng_đường_đi	đoạn_đường_đi	quãng_đường_đi
+quy_mô	có_quy_mô	qui_mô	có_qui_mô
+khung_tham_chiếu	khung
+khuyên	khuyên_bảo	khuyên_răn	khuyên_nhủ
+cảnh_báo	khuyến_cáo
+cổ_vũ	động_viên	khích_lệ	làm_phấn_chấn	làm_phấn_khởi	làm_hưng_phấn	làm_hân_hoan	làm_hứng_khởi
+độc	riêng	độc_nhất	độc_đáo	riêng_biệt	khác_biệt	khu_biệt	đặc_biệt	đặc_thù
+khác_nhau	không_thống_nhất	không_nhất_quán	trái_ngược_nhau
+khác_thường	lạ_thường	dị_thường	kì_dị	kỳ_dị	không_thông_thường
+khách	khách_hàng	người_tiêu_dùng	người_mua_hàng
+vắng	thoáng	thoáng_đãng	thoải_mái	rộng_rãi	thênh_thang	không_đông	không_đông_đúc
+khán_giả	người_xem
+hên	may	đỏ	vận_may	vận_hên	dịp_may	vận_đỏ	dịp_hên	dịp_son	vận_son	cơ_may
+nhạy_bén	nhạy_cảm	tinh_tế	tế_nhị	tinh_vi	khó_thấy
+khí	chất_khí
+khó	gian_khổ	khổ_cực	gian_nan
+khó_ưa	gắt_gỏng	cau_có	khó_chịu	khó_tính	quạu_quọ	nhăn_nhó	cáu_kỉnh
+mờ_ám	ám_muội	bất_minh	khuất_tất	khó_hiểu	không_minh_bạch	không_phân_minh	không_rành_mạch
+khiếm_nhã	thô_tục	khó_nghe	xúc_phạm
+khó_đọc	không_thể_đọc_được	không_thể_giải_đoán_được
+lập_lại	phục	phục_hồi	khôi_phục	phục_nguyên	phục_hưng
+không	không_có	không_chút_gì	không_chút_nào
+không_khí	bầu_không_khí
+không_lưu	giao_thông_hàng_không
+sai	lỗi	không_chính_xác	không_tốt	không_đúng
+khả_thi	có_thể_thực_hành_được	có_thể_thực_hiện_được	có_thể_làm_được
+kiện	tố	kiện_cáo	tố_tụng	khởi_tố	truy_tố	điều_tra
+cấp_bách	cấp_thiết	thúc_bách	khẩn_cấp	khẩn_trương
+khắc	xung	kị	xung_khắc	tương_khắc	khắc_nhau	xung_nhau	kị_nhau	không_tương_thích	không_thù_hợp	không_tương_thích_với_nhau	không_phù_hợp_với_nhau	xung_khắc_nhau
+khổ	khổ_sở	khốn_khổ	đau_đớn	cực_khổ
+làm_hoảng	làm_hốt	làm_khiếp_sợ	làm_kinh_sợ	làm_kinh_hãi	làm_kinh_hoàng	làm_hoảng_sợ	làm_hoảng_hốt	làm_hốt_hoảng	làm_mất_vía	làm_hết_vía	làm_hết_hồn	làm_sợ_mất_vía	làm_sợ_hết_hồn	làm_hết_hồn_hết_vía	khủng_bố_tinh_thần	khủng_bố
+kinh_nghiệm	lão_luyện	có_kinh_nghiệm	giàu_kinh_nghiệm	từng_trải	trải_đời
+nâng_chân_vuông_góc	ép_chân_vuông_góc	kip	động_tác_kip
+kiêu	tự_phụ	tự_mãn	kiêu_ngạo	kiêu_căng	ngạo_mạn	kiêu_kì	tự_cuồng	vĩ_cuồng	tự_sướng	tự_mê	sĩ_diện	tự_huyễn_hoặc	tự_cao_tự_đại
+cuộn	xoay	quay	xoáy	cuộn_tròn	xoay_tròn	xoáy_tròn	xoáy_trôn_ốc	xoắn_ốc
+kiến_thức	học_thức	học_vấn	tri_thức	vốn_học	sở_học
+giám_sát	quản_lí	kiểm_soát	cai_quản	quản_lý	trông_nom	trông_coi
+soi	soi_xét	thanh_tra	kiểm_định	kiểm_nghiệm	nghiệm_thu	sự_soi	sự_soi_xét	sự_thanh_tra	sự_kiểm_định	sự_kiểm_nghiệm	sự_nghiệm_thu
+kèm	theo_kèm	kèm_riết	kèm_sát	theo_sát
+gối	chồng	lấp	chồng_lấp	chồng_lấn	chồng_lên_nhau	gối_lên_nhau	lấn_lên_nhau
+đòi_hỏi	yêu_cầu	sự_đòi_hỏi	sự_yêu_cầu	việc_đòi_hỏi	việc_yêu_cầu
+kí_hiệu	bộ_kí_hiệu	ngôn_ngữ_đánh_dấu
+kí	ký	kí_hợp_đồng	ký_hợp_đồng	kí_giao_kèo	ký_giao_kèo	kí_giao_ước	kí_giao_ước	kí_cam_kết	ký_cam_kết
+ngầm	mật	kín	bí_mật	kín_đáo
+kính_trọng	tôn_kính	sự_tôn_trọng	sự_tôn_kính	lòng_tôn_tôn_trọng	lòng_tôn_kính
+kĩ_thuật	kỹ_thuật	có_tính_kí_thuật	có_tính_kỹ_thuật	mang_tính_kĩ_thuật	mang_tính_kỹ_thuật
+kẻ	vạch	vẽ	dựng_lên	vạch_lên	vẽ_lên
+kẻ_thù	kẻ_địch	kẻ_thù_địch	quân_địch
+kế_nghiệp	thừa_kế	nối_ngôi	kế_vị	kế_thừa	kế_tục	nối_nghiệp	kế_nhiệm	đi_theo	theo_sau
+kế_toán	kế_toán_viên
+kết_luận	suy_ra	luận_ra	hiểu_là
+thành_quả	kết_quả	quả_ngọt
+kết_thúc	làm_xong	đi_đến_cùng	đi_đến_tận_cùng	theo_đuổi_đến_cùng	làm_cho_trót_trét	tới_bến
+tuyên	kết_án	định_án	kết_tội	định_tội	phán_quyết	tuyên_án	tuyên_phán	tuyên_cáo_có_tội
+kể	kể_tên	kể_ra	nêu	nêu_ra	lên_danh_sách	lập_danh_sách	liệt_kê
+kĩ_thuật_viên	kỹ_thuật_viên
+la	nốt_la
+lai	lai_giống	ghép_giống	cho_lai_giống	cho_ghép_giống
+lang	khoang
+làm	làm_việc	lao_động
+nhanh	lẹ	mau	hoạt_bát	linh_hoạt	thoăn_thoắt	lanh_lẹ	mau_lẹ	nhanh_nhẹn
+liên_lạc	sự_liên_lạc	giao_thông	sự_giao_thông
+liên_tục	liên_tiếp	triền_miên	liên_miên	dai_dẳng	dằng_dài
+liệt	tê_liệt	bị_liệt	bị_tê_liệt
+bận_tâm	suy_tư	quan_tâm	ưu_tư	lo_lắng	bận_lòng	nhọc_lòng	lo_nghĩ	tư_lự
+run	lẩy_bẩy	lật_bật	bần_bật	lập_cập	run_lên	run_run	run_rẩy	run_sợ	run_bần_bật	run_bây_bẩy	run_như_cầy_sấy
+loài	thành_viên
+loại	bị_loại	không_chọn	không_tuyển	không_tuyển_chọn	không_được_chọn	không_được_tuyển	không_được_tuyển_chọn
+ôn	luyện	ôn_luyện	ôn_tập	luyện_thi	ôn_thi
+lí	lý	lí_lẽ	lý_lẽ	luận_cứ
+luận_điểm	luận_đề	chính_đề
+luật_sư	thầy_cãi	người_biện_hộ	người_bào_chữa
+quấy_rầy	phiền_nhiễu	làm_phiền	làm_khó_chịu	quấy_nhiễu	trêu_chọc	chọc_tức	khiêu_khích
+phong_tước	ban_tước	làm_chủ
+làm_đỡ	làm_hộ	làm_giúp
+lặp_lại	nhắc_lại	nhại	nhại_lại	bắt_chước_lại
+phiền	làm_phiền	quấy_rầy	quấy_rối	gây_phiền_phức	gây_phiền_hà	gây_phiền_toái	làm_khó_chịu	gây_bất_tiện
+chào_mừng	chào_đón	đón_chào	tiếp	tiếp_đón	đón_tiếp
+vâng	nghe	vâng_lời	vâng_lệnh	nghe_lời	nghe_lệnh	tuân_theo	tuân_lệnh	phục_tùng
+lưu_niên	lâu_năm	sống_lâu_năm
+lê	lết	kéo_lê	lê_lết	lê_chân	lết_chân	đi_lê_chân	đi_lết_chân
+động_lực_tinh_thần	động_lực	động_cơ	tác_nhân
+lí_thuyết	lí_luận
+tim	trái_tim	con_tim	lòng
+học_thuyết	thuyết	giáo_lí	niềm_tin
+lót	có_lót
+khi_đó	lúc_đó	thời_gian_đó	thời_điểm_đó	thời_khắc_đó	lúc_đó	lúc_bấy_giờ	khi_ấy	thời_điểm_ấy
+tụt	rớt	thụt	tụt_lại	thụt_lại	tụt_lùi	thụt_lùi	giật_lùi	tụt_hậu	rớt_lại	rớt_lại_đằng_sau	lác
+nhầm_lẫn	lầm_lẫn	sai_sót	lầm_lỡ	nhầm_nhỡ	lộn	sự_nhầm_lẫn	sự_lầm_lẫn	sự_sai_sót
+lờ	bơ	phớt	lơ	phớt_lờ	phớt_đi	bơ_đi
+lơ_đãng	lơ_đễnh	lơ_là	sao_lãng	sao_nhãng	bỏ_bê	thờ_ơ	hờ_hững
+lượng	tầm_lớn	độ_lớn
+mất_tích	thất_lạc	lạc
+lan_man	lạc_đề
+chen	len	chèn	lách	lấn	chen_lấn
+nhấn_chìm	át	lấn_át	lấn_lướt
+lấp	bịt	bít	lấp_đầy	lấp_kín	nhét_đầy	nhét_kín	bịt_kín	bít_kín
+lấy_lại	chiếm_lại	giành_lại	khôi_phục_lại	phục_hồi_lại	hồi_phục_lại
+có_được	lấy_được	xin_được
+lập_trường	quan_điểm	thái_độ	góc_nhìn	cách_nhìn	cách_nhìn_nhận
+xáo	xào	trộn	xào_xáo	đảo
+để	ném	liệng	lẳng	vứt	hất	tống	nhét
+lịch	lịch_công_tác
+sử	lịch_sử	sử_sách	sử_kí
+lỗi_thời	không_hợp_thời_trang	không_hợp_mode	không_hợp_mốt	không_hợp_thời
+to	bự	đồ_sộ	to_lớn	to_bự	to_kềnh	kềnh_càng
+hét	quát	la_hét	quát_tháo	hét_lên	quát_lên
+tầng	lớp
+lời	nhời	lời_nói	nhời_nói	lời_lẽ	nhời_nhẽ
+lời_khuyên	lời_mách_nước
+lở	sạt_lở	sự_lở	sự_sạt	sự_sạt_lở
+lỡ	nhỡ
+lợi	lợi_ích	bổ_ích
+sở_trưởng	ưu_điểm	điểm_mạnh	điểm_tốt	điểm_hơn	điểm_tích_cực	điểm_trội	điểm_vượt_trội
+uy	sang	uy_nghi	uy_nghiêm	trang_nghiêm	tráng_lệ	quý_phái	sang_trọng	hoa_lệ
+độc_ác	hiểm_ác	ác_hiểm	nguy_hiểm	đáng_sợ	ma_quỷ	quỷ_sứ	quỷ_quái
+ngày_mai	tương_lai_gần	tương_lai_không_xa
+gây_ra	mang_lại	cho_ra	sinh_ra	sản_sinh
+may_mắn	diệu_kì	thần_kì	phép_màu	phép_mầu	nhiệm_màu	nhiệm_mầu
+mẹ	má	bầm	u	mợ	me	mẫu_thân
+củng_cố	sự_củng_cố	minh_hoạ	sự_minh_hoạ
+miền_xác_định	miền	tập_xác_định
+thả	tha	giải_phóng	thoát_khỏi	phóng_thích	cho_tự_do
+mong_muốn	ước_mong	mong_mỏi	ước_ao	ao_ước	sự_mong_muốn	sự_ước_mong	sự_mong_mỏi	sự_ước_ao	sự_ao_ước
+mua	hối_lộ	đút_lót	mua_chuộc	đút
+cao_su	trễ	muộn	trễ_giờ	muộn_giờ	không_đúng_giờ
+màu	mầu	không_trắng	da_màu	da_mầu	da_không_trắng	có_da_màu	có_da_mầu	có_da_không_trắng
+máy	như_máy	giống_như_máy
+đối	ngược	nghịch	đối_lại	ngược_lại	nghịch_lại	đối_nghịch	trái_ngược	đối_nhau	ngược_nhau
+mã_lệnh	mã	mã_máy_tính
+khung_cảnh	môi_trường
+thứ_năm	số_năm	năm	hạng_năm	cấp_năm	bậc_năm	hạng_thứ_năm	vị_trí_thứ_năm
+mơ_hồ	mập_mờ	nhập_nhằng	nước_đôi	nước_hai	lưỡng_nghĩa
+mạng	mạng_người	mạng_sống	sinh_mạng	sinh_mệnh
+nguy_hiểm	nguy_nan	hiểm_nghèo	quái_ác	nghiêm_trọng	trầm_trọng	nặng
+mấu_chốt	điểm_mấu_chốt
+mật_khẩu	mật_ngữ	mật_lệnh	khẩu_lệnh	pass	password
+mặc	phó_mặc	để_mặc
+đo	định_cỡ	tính	tính_toán	đưa_ra_lời_giải	đưa_ra_đáp_án
+mẻ	đợt	lô	ổ	lứa	lò
+mềm	dẻo	mềm_dẻo	đàn_hồi	dễ_uốn	dễ_uốn_cong
+mốc	mốc_meo	bị_mốc	bị_ẩm_mốc
+mối	mối_hàng	mối_làm_ăn
+mộng	giấc_mơ	giấc_mộng	ảo_mộng	điều_mơ_tưởng	điều_mơ_ước
+một_lúc	một_lát	một_chốc	một_chốc_một_lát
+nhất_quyết	quả_quyết	khăng_khăng	một_mực	nhất_mực
+sơ_bộ	mở_đầu	bước_đầu	dẫn_nhập	chuẩn_bị
+chủ_đích	chủ_định	mục_đích	ý_định
+sức_mạnh	mức_độ	quyền_năng	năng_quyền	quyền_lực
+nam	hướng_nam	chính_nam	hướng_chính_nam	S
+túi_bao	nang	bào_xác
+lập_tức	tức_thời	tức_thì	ngay	trước_mắt	ngay_lập_tức	ngay_thức_thời	ngay_tức_thì	ngay_trước_mắt
+nghe	xử	xét_xử
+nghe_được	nghe_thấy	có_thể_nghe_được	có_thể_nghe_thấy
+nghiêm_túc	trang_trọng
+hồi_tưởng	nghĩ_lại	nhớ_lại	ôn_lại_quá_khứ	hồi_tưởng_lại	nhớ_lại_quá_khứ
+nghỉ	nghỉ_ngơi	thư_giãn	giải_lao	sự_nghỉ_ngơi	thời_gian_nghỉ_ngơi
+nghỉ_hè	nghỉ_mát	đi_nghỉ_hè	đi_nghỉ_mát
+nguy_hiểm	nghiêm_trọng
+định_luật	quy_tắc	nguyên_tắc	nguyên_lí	nguyên_lý
+nguyên_văn	nguyên_bản
+ngày_nghỉ	ngày_lễ	ngày_nghỉ_lễ	ngày_lễ_tết
+ngôn_ngữ	mang_tính_ngôn_ngữ
+người_quen	người_thân	người_nhà	bà_con_thân_thuộc
+thị_nữ	tì_nữ	hầu_gái	đầy_tớ_gái	bảo_mẫu	người_ở
+ngược	ngược_chiều	ngược_lại
+đột_xuất	ngẫu_nhiên	không_chủ_đích	không_chủ_ý	không_định_trước	không_cố_ý
+ngắn	được_cắt_ngắn	bị_cắt_ngắn	được_rút_ngắn	được_cưa_ngắn	bị_rút_ngắn	bị_cưa_ngắn
+nằm	ngồi	ì	ườn	ngồi_ì	nằm_ườn	ngồi_ì_ra	nằm_ườn_ra	chảy_thây	chẩy_thây
+ngoại_tình	lăng_nhăng	gian_dâm	thông_dâm	chơi	ngủ
+nhiễu	sự_gây_nhiễu
+nhiệt_tình	sự_nhiệt_tình	lòng_nhiệt_tình	sự_hăng_hái	lòng_hăng_hái	nhiệt_huyết	sự_nhiệt_huyết	lòng_nhiệt_huyết	nhiệt_tâm	sự_nhiệt_tâm	lòng_nhiệt_tâm
+nhẹ	nhỏ	nho_nhỏ
+am_tường	thuần_thục	thành_thục	nhuần_nhuyễn
+chính_quyền	chính_phủ	nhà_nước	của_chính_quyền	của_chính_phủ	thuộc_về_nhà_nước
+thô	vô_học	thất_học	ít_học	thô_thiển	vô_giáo_dục	không_được_dạy_dỗ	không_được_đào_tạo
+nhân	phép_nhân
+mềm_mỏng	nhân_nhượng	tốt_nhịn	chịu_nhịn	biết_nhường_nhịn	dĩ_hoà_vi_quý
+phần	thành_phần	phần_hợp_thành	nhân_tố	yếu_tố
+cảm_thông	thông_cảm	sẻ_chia	đồng_cảm	động_lòng	thương_cảm	trìu_mến	nhân_hậu
+công_chức	viên_chức	nhân_viên
+nhân_vật	nhân_vật_nổi_tiếng	người_nổi_tiếng
+nhìn	nhận	nhìn_nhận	nhìn_ra	nhận_ra
+nhóm_trưởng	trưởng_nhóm
+bất_biến	như_cũ	y_nguyên	không_thay_đổi	không_biến_đổi
+vừa_ý	hợp_ý	như_ý	thoả_nguyện	mĩ_mãn	thoả_điều_kiện	thoả_mãn_điều_kiện
+đổi	chuyển	ngả	đổi_màu	đổi_mầu	chuyển_màu	chuyển_mầu	ngả_màu	ngả_mầu
+nhượng_bộ	sự_nhượng_bộ	sự_nhân_nhượng
+bịa	bịa_đặt	thêm_thắt	bốc_phét	dựng_đứng	thêu_dệt	cường_điệu	nói_ngoa	nổ	chém	chém_gió
+nhảy	đệm	co_bóp	khiêu_vũ	đánh_nhịp	gõ_phách
+thu_lượm	thu_nhặt	thu_gom	góp_nhặt	sưu_tầm	sưu_tập	tập_trung
+nhấp	đạp_nhẹ
+lầm_lỡ	lỡ_lầm	sai_sót	sơ_suất	nhầm_lẫn	lầm_lẫn
+danh_tính	danh_tánh	sự_nhận_dạng	sự_nhận_diện	nhận_dạng	nhận_diện
+nhòm	soi	quan_sát	theo_dõi
+nhậu	nhậu_nhẹt	chè_chén	cuộc_nhậu	cuộc_nhậu_nhẹt	cuộc_chè_chén	bữa_nhậu	bữa_nhậu_nhẹt	bữa_chè_chén,
+nhấc	nâng	giơ	đưa_lên	nhấc_lên	nâng_lên	giơ_lên
+nhắc_nhở	điều_nhắc_nhở
+nhắn	nhắn_tin	gửi_tin_nhắn	gửi_tin	gởi_tin_nhắn	gửi_tin_nhắn	chuyển_tin	gởi_tin
+nhẹ_nhàng	êm_ái	du_dương
+vần	nhịp	vần_điệu	nhịp_điệu	vần_nhịp
+hầm	ninh	nấu_nhừ
+niêm	đóng_dấu_niêm	đóng_dâu_niêm_phong
+no	trạng_thái_no_nê
+note	bản_ghi	bản_ghi_chép	bản_ghi_chú
+sút	đá	ném	ném_vào	sút_vào	đá_vào
+vẻ_mặt	nét_mặt	điệu_bộ_khuôn_mặt	biểu_hiện_khuôn_mặt	biểu_cảm_khuôn_mặt
+nêm	chèn_nêm	chêm_nêm	kê_nêm	đóng_nêm
+nòi	nòi_giống	giống_nòi
+nói	nói_ra	tiết_lộ	tiết_lộ_ra
+cuộc_nói_chuyện	cuộc_trò_chuyện	cuộc_chuyện_trò	nói_chuyện	trò_chuyện	chuyện_trò
+nói_lắp	cà_lăm
+nói_thẳng	nói_tuột	nói_thẳng_ra	nói_tuột_ra	nói_tuột_móng_heo
+nói_đùa	nói_giỡn	pha_trò	đùa_bỡn	vui_đùa
+hay_cáu	nóng_tính	dễ_cáu	dễ_nổi_giận	nóng_nảy	nóng_vội	nóng	nóng_tính	hay_gắt
+mọi	nông_dân	hạ_đẳng	hạ_lưu	giống_mèo_mả_gà_đồng	cẩu_tạp_chủng	kẻ_vô_lại	kẻ_khốn_nạn
+nông_thôn	thôn_dã	dân_dã
+nút	nút_lại	nút_vào
+năm	5	v
+năm_mới	New_Years_Day	New_Years	January_1
+năng_khiếu	tài_năng_thiên_phú	năng_lực_thiên_phú	tài_thiên_bẩm	năng_lực_trời_cho
+năng_lượng	sinh_lực	khí_lực
+đủ_điều_kiện	đủ_tiêu_chuẩn	đủ_khả_năng	đủ_tư_cách	đủ_năng_lực	có_đủ_khả_năng	có_đủ_tiêu_chuẩn	có_đủ_điều_kiện	có_đủ_năng_lực
+nước	dưới_nước	thuỷ_sinh
+ngoại_lai	nước_ngoài	ngoại_bang	thuộc_nước_ngoài	thuộc_chủng_tổng_khác
+nắm_chắc	nắm_vững	hiểu_rõ
+trôi	giạt	cuốn_trôi	kéo_trôi	trôi_giạt	cuốn_đi	trôi_đi	giạt_đi
+lồi	đặc_sắc	nổi_bật	đáng_chú_ý	gây_ấn_tượng
+nội_địa	nội_bộ
+trung	vừa	trung_bình	cỡ_trung	ở_giữa
+phái_nữ	nữ_giới	phái_yếu	phái_đẹp	đàn_bà
+nữ_giới	phái_đẹp	phụ_nữ
+oi	oi_bức	oi_ả	nóng_bức	nóng_nực	ngột_ngạt	khó_thở	oi_nồng
+cái_O.K.	cái_OK	cái_Okay	cái_Ok	cái_Okie	cái_ok	cái_okie	cái_ôkê	O.K.	OK	Okay	Ok	Okie	ok	okie	ôkê
+phai	lan	loang	phai_ra	lan_ra	loang_ra
+lao	phóng	phi	lao_nhanh	lao_như_tên_bắn	phóng_nhanh	phi_như_bay
+phim	phim_ảnh	điện_ảnh	phim_điện_ảnh
+lượt	phiên	lần
+phiên_bản	biến_thiên
+phiên_dịch	thông_dịch	phiên_dịch_viên	người_phiên_dịch	thông_dịch_viên
+gọi_điện	điện_thoại	điện	gọi_điện_thoại	phone
+trao_quyền	ban_quyền	giao_cho	ban_cho	phong
+văn_phong	lối_viết	cách_viết	phong_cách	phong_cách_viết	phong_cách_viết_văn
+thừa	dư_thừa	dư	không_cần_thiết	thừa_thãi	hơn_mức_bình_thường	vượt_mức_cho_phép
+tục	lệ	tập_tục	tập_quán	tục_lệ	phong_tục
+phun	phọt	làm_phun_ra	làm_phọt_ra	làm_bắn_ra
+phá_sản	vỡ_nợ	bại_sản	bị_phá_sản	bị_vỡ_nợ	bị_bại_sản	khuynh_gia_bại_sản
+soạn_thảo	phác_thảo	khởi_thảo
+chế_tài	luật_pháp	pháp_luật
+lộ	lộ_ra	phơi_bày	phát_giác	phát_hiện	phát_lộ	khám_phá	phanh_phui
+nảy_sinh	nẩy_sinh	phát_sinh	nảy_ra	nẩy_ra	hiện_ra
+phân_biệt	phân_biệt_được	biết_phân_biệt
+phân_phối	phân_bố	phân_bổ	phân_tán
+phân_hạng	phân_loại	sắp_xếp_thành_loại	sự_phân_hạng	sự_phân_loại	sự_sắp_xếp_thành_loại
+thử	xét_nghiệm	phân_tích	thí_nghiệm	thể_nghiệm	kiểm_nghiệm	khảo_nghiệm
+khiển_trách	quở_trách	trách_cứ	trách_mắng	trách_phạt	mắng_mỏ	răn_dạy	phê_bình
+hoang	phí	lãng_phí	hoang_phí	hoang_toàng	phung_phí
+phòng	ngăn_ngừa	phòng_ngừa	dè_chừng
+quyên	quyên_góp	đóng_góp	cống_hiến	hiến_tặng	quyên_trợ	quyên_tặng	sự_đóng_góp	sự_quyên_góp	sự_cống_hiến	sự_quyên_trợ	sự_quyên_tặng	sự_hiến_tặng
+hướng	phương	phương_hướng
+phương_pháp_luận	phương_pháp_học
+phạm	vi_phạm	sai_phạm	xâm_phạm	làm_trái	lám_sai	đi_ngược
+vừa_phải	phải_chăng	có_mức_độ	điều_độ	ôn_hoà	không_quá_khích
+phản	làm_phản	phản_kháng	không_vâng_lời	không_phục_tùng	không_tuân_lệnh	không_tuân_theo	không_chịu_phục_tùng	không_chịu_vâng_lời	không_chịu_tuân_theo
+thể_hiện_rõ	biểu_hiện_rõ	cho_thấy_rõ	phản_ánh
+phản_đối	không_tán_thành	gây_bất_lợi	gây_cản_trợ	gây_trở_ngại	gây_tổn_hại
+phản_xạ	phản_ứng	phản_tác_dụng	đi_ngược_lại
+phần_mềm	chương_trình_phần_mềm	phần_mềm_máy_tính	hệ_thống_phần_mềm	bộ_phần_mềm
+phỏng_vấn	cuộc_phỏng_vấn	bài_phỏng_vấn
+điều_chỉnh	chỉnh	chỉnh_lí	bù	đền_bù	bù_đắp	bồi_thường	làm_ngang_bằng
+hợp_tác	sự_hợp_tác	tham_gia	sự_tham_gia
+thuộc	lệ_thuộc	phụ_thuộc	mất_tự_do	không_tự_do	bị_ràng_buộc	bị_hạn_chế	bị_kìm_kẹp
+phục_vụ	phụng_sự	phục_dịch	chăm_sóc	săn_sóc
+quan	quan_lại
+hệ_trọng	quan_trọng	trọng_yếu	có_tính_quyết_định	mang_tính_quyết_định
+quang	thoáng	thoáng_đãng	thông_thoáng
+quay	ghi_hình	thu_hình	quay_phim
+trở_lại	quay_lại	quay_về	trở_về	trở_lại_với	quay_lại_với	quay_trở_lại_với	trở_về_với	quay_về_với
+quen	quen_mặt	được_biết_rõ	được_hiểu_rõ	nổi_tiếng
+thông_thường	quen_thuộc	thường_lệ
+quy	bắt_phải_chịu	đánh_(thuế)
+bắt_lỗi	chụp_lỗi	qui_chụp	quy_chụp
+quyền	quyền_lợi
+cuốn	quyển	tập
+thời_gian_tiếp_diễn	thời_gian_diễn_tiến	quá_trình
+quát	quát_tháo	quát_nạt
+đẻ	sinh	sinh_đẻ	sinh_nở	sự_đẻ	sự_sinh	sự_sinh_nở	sự_sinh_đẻ	sự_lâm_bồn	sự_sinh_con
+quên	quên_đi	chôn_vùi	lãng_quên	quên_lãng
+yêu	thích	mến	chuộng	ưa	ưa_chuộng	yêu_mến	mến_phục	mến_mộ	hâm_mộ	ngưỡng_mộ
+quả	nhân_quả	quả_báo	báo_ứng	nghiệp_báo
+quỹ	quỹ_tài_trợ	quỹ_bảo_trợ
+riêng	tư	riêng_tư	cá_nhân	đặc_thù
+run	run_rẩy	run_run
+rung	rung_chuyển	lay_chuyển	rung_lắc	chao_đảo	làm_rung_chuyển	làm_rung_động	làm_chấn_động	làm_lay_chuyển	làm_rung_lắc	làm_chao_đảo
+ràng	bó
+rán	chiên
+sáng	rực_rỡ	sáng_chói	sáng_ngời	chói_lọi	huy_hoàng	lộng_lẫy
+xếp	chỉnh	sắp_xếp	xếp_hàng	xếp_ngay_ngắn	xếp_thẳng_hàng	chỉnh_ngay_ngắn	chỉnh_thẳng_hàng	sắp_xếp_hàng	sắp_cho_thẳng_hàng
+trượt	rớt	bị_trượt	bị_rớt	đánh_trượt	hỏng_thi	thi_hỏng	không_đỗ
+nứt	rạn	nẻ	nứt_nẻ	nứt_rạn	rạn_nứt	làm_nứt	làm_rạn	làm_nẻ	làm_nứt_nẻ	làm_nứt_rạn	làm_rạn_nứt
+rảnh	rỗi	rảnh_rỗi	rảnh_rang	rỗi_rãi	ngồi_không
+rẻ	không_đắt
+rộng	rộng_lùng_thùng	rộng_thùng_thình	lùng_nhùng
+rời	li_khai	riêng_rẽ	chia_rẽ	phân_rẽ
+mạo_hiểm	rủi_ro
+là	ép	san	là_phẳng	ép_phẳng	san_phẳng	làm_phẳng	vuốt_phẳng
+tương_lai	sắp_tới	về_sau	sau_này	sẽ_tới_về_sau
+điên_cuồng	cuồng_điên	điên_rồ	điên_dại	rồ_dại	cuồng_loạn	sự_điên_cuồng	sự_cuồng_điên	sự_điên_rồ	sự_điên_dại	sự_rồ_dại	sự_cuồng_loạn
+so_sánh	đối_chiếu	sự_so_sánh	sự_đối_chiếu
+so_le	xen_kẽ	mọc_so_le	mọc_xen_kẽ
+soi_mói	xoi_bói	xói_móc	nhúng_mũi	chõ_mũi	tọc_mạch	gí_mũi	chõ_mõm
+viết	soạn	sáng_tác	sáng_tạo
+suy	suy_thoái	khủng_hoảng	sa_sút	sút_kém
+suy_nghĩ_lại	xem_xét_lại	cân_nhắc_lại	suy_xétlại
+phẳng	bằng	thẳng	bằng_phẳng	thẳng_thớm
+suông	chay	không_đệm	không_nhạc	không_nhạc_đệm
+giần	sàng	rây
+thấp	thấp_giọng	khẽ	khe_khẽ	rì_rầm	thì_thầm	thỏ_thẻ	thì_thào
+huyền_bí	sâu_xa	uyên_thâm	thâm_thuý	huyền_viễn	thâm_sâu
+sóng	chuyển_động_sóng	chuyển_động_dạng_sóng
+sôi_động	sinh_động
+giũ	giặt	dội	súc	sục	rửa
+súc_tích	hàm_súc
+săn	săn_mồi	tìm_mồi	kiếm_mồi	tìm_thức_ăn	kiếm_thức_ăn	tìm_kiếm_thức_ăn
+sản	khoa_sản	phụ_sản	khoa_phụ_sản	sản_khoa
+sản_xuất	sản_xuất_ra	sản_xuất_công_nghiệp
+sắc	nhọn	bén	sắc_bén
+xếp	chỉnh	sắp_xếp	xếp_hàng	xếp_ngay_ngắn	xếp_thẳng_hàng	chỉnh_ngay_ngắn	chỉnh_thẳng_hàng	sắp_xếp_hàng	sắp_cho_thẳng_hàng
+dọn	dọn_dẹp	cất_dọn	thu_dọn	sắp_xếp	bài_trí	bày_biện
+hữu_hình	tồn_tại	hữu_tồn	sự_hữu_hình	sự_tồn_tại	sự_hữu_tồn	sự_sống
+số_liệu	con_số_thống_kê
+sản_lượng	số_lượng
+trọ	ở	sống	cư_trú	cư_ngụ	tạm_trú	thuê_trọ	ngụ_cư
+sổ	sổ_ghi_chép	sổ_tay
+tiếc	hối	hối_tiếc	tiếc_nuối	nuối_tiếc	ân_hận	ái_ngại
+sủa	cắn
+ăn	chén	đớp	hốc	măm	ngốn	tọng	xơi	xực	dùng	dùng_bữa
+biên_tập	sửa_lại	duyệt_lại
+sự_cố	sự_cố_treo_máy
+lễ	buổi_lễ;_dịp	sự_kiện
+sự_nghiệp	công_danh	công_danh_sự_nghiệp
+sự_thật	sự_thực	thực_tế	thực_tại	thực_tiễn
+tang	hàm_tang	tỉ_số_lượng_giác_tang	hàm_số_lượng_giác_tang	tg	tan
+đầu_gấu	tay_chân	côn_đồ	du_côn	tên_đầu_gấu	tên_côn_đồ	tên_du_côn
+tham_gia	tham_dự	gia_nhập
+thon	thanh	thon_thả	mảnh_mai	thanh_mảnh
+thanh_thiếu_niên	người_tuổi_teen	xì_tin	ô_mai	teen
+làm_thủ_công	làm_bằng_tay	thao_tác	thao_tác_thủ_công	thao_tác_bằng_tay
+đại_diện	thay_mặt	làm_phát_ngôn_viên
+thế	thế_chỗ	thay_thế	thay_chỗ	hất_cẳng
+vắng	thiếu	vắng_mặt	sự_vắng	sự_thiếu	sự_vắng_mặt
+lỗ_hổng	thiếu_sót
+thiện_chí	thiện_ý	có_thiện_chí	có_thiện_ý
+bất_lợi	thiệt_thòi	không_thuận_lợi
+không_gặp_phải	không_vướng_phải	không_đụng_phải	tránh_được	tránh_khỏi	thoát	thoát_được
+thoại	lời_thoại	hội_thoại	đối_thoại	cuộc_đối_thoại	lời_đối_thoại	mẩu_đối_thoại
+thoả_thuận	đạt_được_thoả_thuận	đi_đến_thoả_thuận	đi_đến_sự_đồng_ý
+thu_nhỏ	thu_hẹp	thu_ngắn
+thua	bại	thua_trận	bại_trận	bị_thất_bại	bị_đánh_bại
+nhà_diễn_thuyết	thuyết_trình_viên	người_diễn_thuyết
+thuận	tương_đương	tương_đồng	tỉ_lệ_thuận
+rất_phát_triển	thuận_lợi	hưng_thịnh	phất	có_lời	có_lãi
+tiện_lợi	thuận_tiện	dễ_dùng
+thịnh_vượng	phát_đạt	phồn_vinh	thành_công	thanh_bình	êm_ả	vàng_son
+thành_kiến	có_thành_kiến	biểu_lộ_thành_kiến	phân_biệt_đối_xử	không_vô_tư	không_khách_quan	không_công_bằng
+thử_thách	sự_thử_thách	thách_thức	sự_thách_thức
+thái	lạng	cắt_lát	thái_lắt	thái_mỏng	cắt_mỏng	lạng_mỏng
+tháng	tháng_dương_lịch	tháng_lịch_biểu
+thích	chuộng	yêu	khoái	ưa	ưa_chuộng
+thính_giả	người_nghe
+thông_lệ	thói_quen	lệ_thường
+thông_dụng	phổ_thông
+tham_số	tham_biến	thông_số
+tuy-ô	nguồn_tin	thông_tin
+hận_thù	hận	thù	căm_hận
+thăm	ghé_thăm
+bưu_phẩm	bưu_kiện	thư	thư_từ
+thương	thương_số
+thương_hiệu	tên_thương_mại	nhãn_hiệu
+thương_lượng	thương_thảo	dàn_xếp	cuộc_thương_lượng	cuộc_thương_thảo	cuộc_dàn_xếp
+sự_buôn_bán	thương_mại	thương_nghiệp	buôn_bán
+thang_độ	thang_đo	thước_đo	thang_đánh_giá	khung_đánh_giá	thước_đánh_giá
+hàng_ngày	mỗi_ngày	thường_ngày	thường_nhật
+thưởng	ban_thưởng	tặng_thưởng	khen_thưởng	thưởng_công	ân_thưởng
+thất_bại	không_thành_công
+thất_nghiệp	vô_công_rồi_nghề	không_nghề_nghiệp
+chán_nản	nản_lòng	buồn_phiền	buồn_lòng	phiền_muộn	nản_chí	thất_vọng	ngã_lòng	sầu_não	thoái_chí	mất_tinh_thần
+phanh	phanh_lại	thắng	hãm_phanh	thắng_phanh
+thẻ	thẻ_cá_nhân	thẻ_thành_viên
+thể	thức	thể_thức	hệ_thống_giác_quan	hệ_giác_quan
+thể_chất	thể_trạng	tình_trạng_thể_chất	tình_trạng_cơ_thể	điều_kiện_thể_chất
+ả	thị
+thống_kê	ngành_thống_kê	khoa_học_thống_kê
+thời_gian	thì_giờ	thời_giờ
+người_đứng_đầu	thủ_lĩnh	thủ_lãnh
+thủ_thuật	sự_nhanh_tay
+gian_xảo	quay_quắc	thủ_đoạn	gian_trá	gian_xảo	không_thành_thật	không_thật_thà	không_trung_thực
+thứ_bảy	thứ_7	ngày_thứ_bảy	ngày_thứ_7
+nhì	thứ_hai	thứ_nhì	đệ_nhị
+trật_tự	thứ_tự	ngăn_nắp	có_trật_tự	có_thứ_tự
+thừa	lặp	lặp_từ	thừa_từ	lặp_ý	thừa_lời
+bản_chất	thực_chất	bên_trong
+tin_học	khoa_học_máy_tính	khoa_học_điện_toán
+yếu	yếu_ớt	mong_manh	mong_manh_dễ_vỡ
+tinh_thần	tâm_hồn	linh_hồn
+tiu	bạt
+tiên	thần_tiên
+tiêu_cực	có_chiều_hướng_tiêu_cực	mang_tính_tiêu_cực	có_tính_chất_tiêu_cực
+diễn_tiến	diễn_biến	tiến_triển	xảy_ra	diễn_ra	trôi_qua	tiến_trình	tiến_độ
+tiến_bộ	tiên_tiến	cấp_tiến	hiện_đại
+đẩy_mạnh	tăng_cường	tăng_tốc	thúc_đẩy	xúc_tiến	leo_thang	tăng_tốc_độ
+tiếng_ồn	tiếng_ồn_ào
+tiếp_cận	tới_gần	đến_gần	sự_tiếp_cận	sự_đến_gần	sự_tới_gần
+tiếp_diễn	thì_tiếp_diễn	thời_tiếp_diễn,
+lưu_trú	ở_lại	việc_ở_lại	việc_nghỉ_lại
+tiếp_xúc	va_chạm	sự_va_chạm	sự_tiếp_xúc
+kiêng	kiêng_cữ	kiêng_khem	tiết_chế	ăn_kiêng
+tiết_kiệm	hà_tiện	sẻn	dè	dè_sẻn	sẻn_so	tùng_tiệm	tần_tiện	tằn_tiện	tiện_tặn	hà_tằn_hà_tiện	thắt_lưng_buộc_bụng	bóp_mồm_bóp_miệng
+tiềm_ẩn	tiềm_tàng	tiềm_năng
+trước	phía_trước	về_phía_trước	ở_phía_trước	tiến_lên	tiến_về_phía_trước
+toàn_diện	toàn_phần
+toán	toán_học
+trang	giai_đoạn
+tô_điểm	trang_hoàng	trang_điểm	trang_trí	làm_đẹp
+triệu	triệu_hồi	triệu_về	gọi_về	mời_về
+trung	trung_bình	bậc_trung
+yêu_nước	ái_quốc	trung_thành	trung_nghĩa	trung_kiên
+truyền_đạt	truyền_tải	truyền_tin
+trách_nhiệm	nghĩa_vụ	trách_nhiệm_pháp_lí	nghĩa_vụ_pháp_lí
+trái	bên_trái	cánh_tả
+tráng	tráng_men	làm_láng
+trốn	tránh	né	trốn_tránh	né_tránh	lẩn_tránh	lảng_tránh	lẩn_trốn	tránh_khéo
+trình	trình_lên	đệ_trình	đệ_trình_lên
+công_diễn	trình_diễn	biểu_diễn
+trí_óc	trí_tuệ	trí_não	đầu_óc	tâm_trí	tâm_não	tâm_tưởng
+trò_chơi	trò_tiêu_khiển	trò_giải_trí
+sưng_to	trương	sưng_phồng	trương_phồng	sưng_to_lên	sưng_phồng_lên	trương_phồng_lên
+trường	trường_thông_tin
+trường_học	học_đường	học_hiệu
+trải_nghiệm	sự_trải_nghiệm
+trấn_an	làm_yên_lòng	làm_cho_yên_lòng
+trầm	nam_trầm
+trần	trần_trụi	trần_truồng	khoả_thân	thoát_y
+trống	rỗng	trống_rỗng	trống_không	để_trống	bỏ_trống
+điểm_chính	điểm_then_chốt	trọng_điểm
+trồng	giồng
+trội	nổi_trội	có_thế_hơn	có_ưu_thế
+rào_cản	chướng_ngại	vật_cản	trở_ngại	chướng_ngại_vật	rào_chắn
+trở_thành	trở_nên	biến_thành	đổi_thành	chuyển_thành	hoá_thành
+tài_trợ	cấp_tiền	chu_cấp	trợ_cấp
+gặp_bất_lợi	gặp_trắc_trở	gặp_trục_trặc	gặp_sự_cố	gặp_chuyện	bị_trục_trặc	trục_trặc	bị_cản_trở	bị_ngăn_cản	gặp_khó_khăn	đối_mặt_khó_khăn
+trừ	khấu_trừ	trừ_bớt	giảm_thiểu
+tu	ở_tu_viện
+đen	mun	thâm	ô	ác	mực	huyền	tuyền
+tuyển_mộ	chiêu_mộ	tuyển_dụng
+tuần	tuần_lễ
+tuổi_thọ	tuổi	thời_gian_sử_dụng
+gây_hại	tai_hại	có_hại	tác_hại
+ẩn_dật	tách_biệt	hẻo_lánh	khuất_nẻo	cô_lập
+tán	ve_vãn	tán_tỉnh	chim_chuột	giở_trò_chim_chuột	giở_trò_ong_bướm	giở_thói_trăng_hoa
+tán_dương	ca_tụng	tán_tụng	tôn_vinh
+dễ_cảm	đa_cảm	đa_sầu_đa_cảm	tình_cảm	tâm_lí	tâm_lý
+tâm_trạng	tâm_sinh_lí
+tên	tên_chính
+truy_tìm	săn_lùng	truy_lùng	tìm_kiếm	cuộc_truy_tìm	cuộc_săn_lùng	cuộc_truy_lùng	cuộc_tìm_kiếm
+tìm_ra	dò_ra	tìm_thấy	phát_hiện_ra	khám_phá_ra
+bối_cảnh	tình_hình	bức_tranh
+tích_cực	theo_chiều_hướng_tích_cực	có_tính_tích_cực	có_tính_chất_tích_cực
+tích_luỹ	tích_góp	gây_dựng
+đặc_tính	đặc_trưng	đặc_điểm	điểm_đặc_biệt
+đại_cương	tổng_quan	trích_yếu	khái_lược	tóm_lược	bản_khái_lược	bản_tóm_lược
+tăng	lên	tăng_lên	leo_thang
+tăng_cường	làm_tăng_cao_lên
+nâng_giá	tăng_giá	tăng_giá_trị
+tơi	xốp	tơi_xốp
+tư_thế	cử_chỉ	điệu_bộ
+ý_tưởng	tư_tưởng	lí_tưởng
+tư_vấn	nhà_tư_vấn	người_tư_vấn
+tương_đối	kha_khá
+tại_chỗ	ở_tại_chỗ	ở_nguyên_tại_chỗ	ở_nguyên_vị_trí
+đương_chức	đương_nhiệm	tại_chức	đương_kim
+tạm	tạm_thời	tạm_bợ
+chở	đèo	đưa	mang	vác_đi	đưa_đi	mang_đi	khuân_đi	bê_đi	chở_đi	đèo_đi	vận_tải	vận_chuyển
+bạo_hành	hành_hung	tấn_công	vụ_bạo_hành	vụ_hành_hung	vụ_tấn_công	cuộc_tấn_công
+phạm_vi	mức	tầm
+sắt_son	son_sắt	tận_tâm	tận_tình	toàn_tâm	toàn_ý	toàn_tâm_toàn_ý	một_lòng_một_dạ
+tập_thể	đoàn_thể
+tập_đoàn	corp	doanh_nghiệp_trách_nhiệm_hữu_hạn
+ứ	tắc	tắc_ứ	dồn_ứ	ngưng_ứ	sự_tắc_ứ	sự_ngưng_ứ
+tắt	ngừng_hoạt_động
+tết	bện	tết_lại	bện_lại
+tỉ_lệ	tỷ_lệ	tỉ_số	tỷ_số
+tỉnh	tỉnh_táo	sự_tỉnh_táo
+ăn	chén	đớp	hốc	măm	ngốn	tọng	xơi	xực
+ra_vẻ	tỏ_vẻ
+chất	tư_chất	tố_chất
+tốc_độ	vận_tốc
+tối_thiểu	rất_thấp	rất_nhỏ
+tối_ưu	tốt_nhất
+tốt_nghiệp	ra_trường	tốt_nghiệp_đại_học	tốt_nghiệp_cử_nhân	tốt_nghiệp_bậc_đại_học
+tốt_đẹp	hay_ho	đáng_tự_hào
+bị_thương	tổn_thương	chấn_thương	thương_tổn	bị_tổn_thương	bị_chấn_thương	bị_thương_tổn
+tổng_thể	tổng_số	tổng_cộng
+tổng_hợp	tổng_hợp_tính
+bực	tức	bực_tức	bực_mình	tức_tối	bức_bối	tức_giận
+từ_chối	từ_bỏ	từ_khước	chối_từ	khước_từ	sự_từ_chối	sự_từ_bỏ	sự_từ_khước	sự_chối_từ	sự_khước_từ
+dần_dần	từ_từ	từng_bước_một
+tự_chủ	độc_lập	tự_do	sự_độc_lập	sự_tự_chủ	nền_độc_lập
+mặc_cảm	tự_ti	mặc_cảm_tự_ti	sự_mặc_cảm	sự_tự_ti	nỗi_mặc_cảm_tự_ti
+tự_tin	sự_tự_tin	lòng_tự_tin
+tuỳ_tiện	tuỳ_hứng	tuỳ_ý	tự_ý
+từ_điển	tự_điển
+doạ	doạ_nạt	doạ_dẫm	đe_nẹt	thị_uy	uy_hiếp	làm_cho_sợ_hãi	làm_cho_kinh_sợ	làm_cho_khiếp_sợ
+uy_tín	thanh_thế	uy_thế	danh_tiếng
+đâm	trồi	đâm_ra	trồi_ra	nảy_mầm	đâm_chồi	mọc_mầm
+xin	van	nài	cầu_xin	khẩn_cầu	van_xin	van_nài	nài_xin	nài_van	khẩn_cầu	van_lơn
+vay	vay_vốn	mượn_vốn
+sáu	6	vi
+viết_tay	việc_viết_tay	viết_lách
+thớ	vân	thớ_vật_liệu	vân_vật_liệu
+vè	bài_vè
+ví_dụ	thí_dụ
+ẩu	vô_ý	bất_cẩn	cẩu_thả	vô_tình	thiếu_suy_nghĩ	thiếu_cẩn_trọng	thiếu_cẩn_thận	thiếu_cân_nhắc
+văn	văn_học	ngành_văn	ngành_văn_học
+vương	rải	vãi	vương_vãi	rải_rác	không_được_gom	không_được_tập_hợp	không_được_gom_lại
+vượt	vượt_lên	vượt_lên_trên	vượt_lên_trước
+vượt_quá	đi_quá	đi_quá_xa	vượt_quá_xa
+vật	đấu_vật	đánh_vật	vật_nhau
+cụ	vị
+tiếng_vỗ_tay	cái_vỗ_tay	tràng_pháo_tay	việc_vỗ_tay	sự_vỗ_tay	vỗ_tay
+màu_xanh_lục	xanh_lục	mầu_xanh_lục	xanh	màu_xanh_lá_cây	mầu_xanh_lá_cây	xanh_lá_cây
+xem_thường	coi_thường	khinh_thường	xem_nhẹ	khinh_miệt	miệt_thị	bất_kính	vô_lễ
+xin_lỗi	cáo_lỗi	tạ_lỗi
+quay_quanh	xoay_quanh
+chiều_hướng	xu_hướng	trào_lưu	xu_thế
+xung_đột	mâu_thuẫn	đối_lập	sự_xung_đột	sự_đối_lập	sự_mâu_thuẫn
+xuân	mùa_xuân	vào_mùa_xuân
+xuất	xuất_khẩu	xuất_cảnh	xuất_cảng
+xuống	xuống_xe	xuống_xe_xuống_ngựa	xuống_xe_xuống_cộ	việc_xuống	việc_xuống_xe	việc_xuống_xe_xuống_ngựa	việc_xuống_xe_xuống_cộ
+xót	đau_xót	rát	nhức
+yêu_thích	ưa_thích	sự_yêu_thích	sự_ưa_thích	sự_thích_thú	sự_ưa_chuộng
+yếu	yếu_ớt	mỏng_manh
+ánh_sáng	sự_sáng
+áo	tấm_áo	chiếc_áo
+trừng_phạt	áp_bức	bóc_lột	làm_đau_khổ
+ứng_dụng	sự_ứng_dụng	áp_dụng	sự_áp_dụng	việc_ứng_dụng	việc_áp_dụng
+sức_ép	áp_lực
+âm	có_âm	có_thang_âm	có_âm_chủ
+âm_lịch	lịch_âm	lịch_mặt_trăng
+tiếng_động	âm_thanh
+bắt_buộc	ép_buộc	cưỡng_bức	cưỡng_chế
+không_cởi_mở	ít_nói	trầm_lặng
+nhỏ_bé	bé_bỏng	ít_tuổi	bé_nhỏ	bé_thơ
+ý_muốn	ước_muốn	nguyện_vọng	ước_vọng	sự_mong	sự_muốn	lòng_ước_mong	lòng_mong_mỏi	lòng_mong_muốn	lòng_ao_ước	lòng_thèm_muốn
+ăn_mặc	ăn_vận
+đa_dạng	phong_phú	nhiều_dạng
+gắn_với	đi_kèm	đi_theo	đi_cùng	hộ_tống
+được_mướn	được_thuê	đi_làm	được_thuê_làm	được_mướn_làm	được_tuyển_dụng	được_thuê_làm_việc	được_mướn_làm_việc
+đi_lại	qua_lại	đi_lại_thường_xuyên	qua_lại_thường_xuyên	qua_lại_giữa_hai_nơi	đi_lại_giữa_hai_nơi
+đi_qua	đi_ngang_qua	chạy_ngang_qua	chạy_qua	chạy_cắt_ngang_qua	đi_cắt_ngang_qua
+điên	điên_cuồng	cuồng_điên	điên_rồ	mất_trí	quẫn_trí
+sự_chỉnh	điều_chỉnh	điều_tiết	sự_điều_chỉnh	sự_điều_tiết	sự_sửa_đổi
+điều_động	huy_động	điều_động_quân_lực	điều_động_binh_lực	điều_động_quân_đội	huy_động_quân_lực	huy_động_binh_lực	huy_động_quân_đội
+điểm	mặt	nét
+đuôi	đít	phía_đuôi	phía_đít	phần_đuôi	phần_đít	ở_phía_đuôi	ở_phần_đuôi
+đờm	đàm	có_đờm	có_đàm
+đàn	bầy	bầy_đàn
+đào	bới	sự_đào	sự_bới	sự_xới	sự_cuốc	sự_đào_bới	sự_đào_đất
+lễ_cưới	lễ_kết_hôn	lễ_vu_quy	đám_cưới	đám_hỉ	hỉ_sự	hôn_lễ
+đám_đông	chen_chúc	đám_đông_xô_đẩy	đám_đông_chen_chúc
+đáng_kể	khá_nhiều
+đánh_dấu	làm_dấu	đánh_dấu_chấm	làm_dấu_chấm
+đánh_máy	đánh_máy_tính
+bảng_đáp_án	đáp_án
+đêm	buổi_đêm
+đình_công	bãi_công	cuộc_đình_công	cuộc_bãi_công	sự_đình_công	sự_bãi_công
+đòi	lĩnh	yêu_sách
+đói	khát	thèm_khát	thèm_muốn	khao_khát
+đóng_góp	góp_phần	sự_đóng_góp	sự_góp_phần
+cặp	đôi	cặp_đôi	bộ_đôi
+đông	phía_đông	hướng_đông	ở_hướng_đông	ở_phía_đông	về_hướng_đông	từ_hướng_đông
+phát_sóng	đăng	đăng_bài	phát	lên_sóng
+album	anbum	an-bum	anbom	đĩa	đĩa_nhạc
+đơ	đờ	đừ	chết_lặng	đơ_ra	đờ_ra	đừ_ra
+đơn	đơn_nhất	duy_nhất
+trơn	mộc_mạc	giản_dị	đơn_giản
+đơn_hàng	đơn_đặt_hàng,
+đơn_vị_quân_đội	đơn_vị_quốc_phòng	đơn_vị
+trình_ra	mang_ra	đưa_ra	giơ_ra	trưng_ra
+cho_phép	cho_phép	nhận_vào	đưa_vào	cho_vào
+đường	ngọt	có_đường	có_rắc_đường	có_cho_đường	bọc_đường
+đường_dẫn	cookie
+đại_số	đại_số_học
+đạo	ăn_cắp	ăn_cắp_ý	trộm_ý_tưởng	ăn_cắp_ý_tưởng
+đạo_đức	đạo_lí	đạo_lý	đạo_nghĩa	quy_tắc_đạo_đức	nguyên_tắc_đạo_đức	chuẩn_mực_đạo_đức
+đảm_nhiệm	đảm_nhận	đảm_trách	gánh_vác	nhận_làm	tìm_cách_giải_quyết
+đầu_tư	rót_vốn	bỏ_vốn	đầu_tư_vốn	sự_đầu_tư	sự_rót_vốn	sự_bỏ_vốn	sự_đầu_tư_vốn
+đầy	còn_đầy	còn_nguyên	chưa_đụng_đến	chưa_sờ_đến	chưa_mó_đến
+đầy_đủ	đủ_đầy	sung_túc	khá_giàu	có_của_ăn_của_để
+đậu	đỗ	đậu_xuống	đỗ_xuống	đỗ_lại
+điển_hình	đặc_trưng
+đặt_hàng	đặt_mua
+gọi_tên	định_danh	đặt_tên
+đẹp	duyên_dáng	yêu_kiều
+đến	đạt_tới	đi_tới	đạt_đến	đến_mức	đạt_mức
+đề_cập	sự_đề_cập	sự_kể_ra	sự_nói_đến
+đề_xuất	đề_nghị	sự_đề_xuất	sự_đề_nghị	lời_đề_xuất	lời_đề_nghị
+đền	bù	bồi_thường	bồi_hoàn	đền_bù
+legato	liền_mạch	đều_đều
+chỉ_định	để_cho	dành_cho
+bỏ_không	để_không	không_được_bảo_vệ	không_được_bảo_hộ	không_được_che_chở
+đỉnh	có_đỉnh	có_đỉnh_nhọn	có_chóp_nhọn	có_mũi_nhọn
+địa_chỉ	nơi_đến	nơi_nhận	địa_chỉ_người_nhận	địa_chỉ_nơi_nhận
+địa_lí	địa_lý	địa_lí_học	địa_lý_học	ngành_địa_lí	ngành_địa_lí	khoa_địa_lí	khoa_địa_lý	môn_địa_lí	môn_địa_lý
+địa_phương	mang_tính_địa_phương
+đối_thủ	địch_thủ	người_đối_địch	người_đối_đầu	người_chống_đối	người_phản_đối
+định_hình	định_dạng
+định_hướng	có_định_hướng	được_định_hướng
+định_kì	thường_kì	định_kỳ	thường_kỳ	tuần_hoàn	chu_kì	chu_kỳ
+định_nghĩa	lời_định_nghĩa	sự_định_nghĩa
+đối_tác	người_hợp_tác	người_cộng_tác	partner
+đối_tượng	chủ_thể
+cư_xử	đối_xử	hành_xử	đối_đãi	ăn_ở
+đồng_nhất	đồng_dạng	đồng_bộ	giống_nhau
+đồng_nghiệp	bạn_đồng_nghiệp	đồng_ngành	bạn_đồng_ngành
+đổi	đổi_tiền	đổi_tiền_lẻ	đổi_tiền_thối
+chiều_cao	độ_cao
+khoảng_cách	cự_li	cự_ly	độ_dài	chiều_dài
+đội	đội_quân	đội_lính
+thế_hệ	đời
+lẽ_sống	đời_sống	cuộc_sống
+chống	đỡ	chống_đỡ
+đủ	đủ_ăn	đủ_sống	giật_gấu_vá_vai	giật_đầu_cá_vá_đầu_tôm	vắt_mũi_đút_miệng
+đủ_khả_năng	đủ_điều_kiện	đủ_tư_cách	đủ_tiêu_chuẩn
+đứng_lên	đứng_dậy	đứng_thẳng_dậy	bật_dậy	đứng_bật_dậy
+ấm	ấm_dần	ấm_dần_lên	ấm_lên	ấm_hơn	ấm_hơn_lên
+ấp_úng	ngắc_ngứ	ngập_ngừng	nói_ấm_ớ	nói_ấp_úng	ấp_a_ấp_úng	lúng_búng	nói_ấp_a_ấp_úng	nói_lúng_búng	nói_ngắc_ngứ
+ầm	ầm_ĩ	rầm_rĩ	huyên_náo	náo_động	om_sòm	ỏm_tỏi	um_sùm	vô_tổ_chức
+ồn	ồn_ã	ồn_ào	ra_rả	ri_ri
+sự_ớn_lạnh	sự_rùng_mình	sự_gai_người	ớn	ớn_lạnh	rùng_mình	gai_người	cảm_giác_ớn_lạnh	nổi_da_gà
+bênh	binh	ủng_hộ	bênh_vực
+ứng	tương_ứng	ngang_nhau

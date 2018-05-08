@@ -389,7 +389,7 @@ gia_hạn btkn eg020 b không thời_gian vừa_qua bận không nộp bài eg02
 qlht thời_gian thi hết môn chính_thức nào báo sắp_xếp lịch công_tác tránh trùng thi
 hôm_trước công_tác cố_gắng bài_tập kỹ_năng 102b không kịp thời_hạn đơn qlht đồng_ý nói nhắn_tin nộp bài_tập kỹ_năng 102b nhận tin nhắn nào sốt_ruột nói_là nhắn_tin chắc nhận bảo hãy liên_hệ giáo_viên chuyên_môn giáo_viên chuyên_môn đồng_ý hãy nhắn_tin sai_sót không nộp bài đúng_hạn đồng_ý nộp bài_tập kỹ_năng 102b hoàn_thành tốt môn_học
 lịch thi ngày_giờ 2 môn 9 8 nhiều ở xa sắp_xếp con_nhỏ 2 môn thi chiều tốt bọn
-môn_học eg010 bài_tập kỹ_năng mọi_khi thời_gian cụ_thể nộp bài_tập thời_gian tuần 3 > dễ gây nhầm_lẫn
+môn_học eg010 bài_tập kỹ_năng mọi_khi thời_gian cụ_thể nộp bài_tập thời_gian tuần 3
 khóa môn eg020 không lớp cd5d lỗi kỹ_thuật không lipe cá_nhân khóa thiếu_sót lỗi kỹ_thuật đề_nghị sủa bổ_sung
 kỹ_năng kỹ_năng bao_gồm mấy loại nhiều
 lịch thi môn eg020 môn eg 008 28 02 2016 không_thể thi bảo_lưu kết_quả không chuyển lớp thế_nào thời_gian bảo_lưu bao_lâu
@@ -478,7 +478,6 @@ hi qlht khi_nào bọn lịch thi hết môn qlht
 bản_thân đối_diện trao_đổi truyền_tải thông_tin từ bản_thân tất_cả chị doanh_nghiệp làm_việc đôi_lúc mất bình tỉnh đối_diện khó lời_khuyên thế_nào giữ bình tỉnh thế_này trần văn lương
 điểm thihết môn eg009 kết_quả thời_gian thi khá lâu
 qlht kết_quả xét miễn môn_học
-cố_gắng mở tài_liệu viết nhung không không_thể mở mở file pdf không máy mở file pdf bài trước bình_thường bài eg020 không mở hữu lớp sd7
 nhận email lớp icd7a icd7b icd7c icd7d icd7e gộp lớp icd7 bắt_đầu từ môn_học bài_tập nhóm nhóm không lớp icd7e nhóm thành_viên trước_kia không lớp không
 hiện_giờ môn kỹ_năng mềm ( phát_triển kỹ_năng cá_nhân 2 ) eg020 môn eg008 tâm_lý kinh_doanh chọn diễn_đàn lớp kỹ_năng mềm eg020 hiển_thị diễn_đàn môn tâm_lý kinh_doanh eg008 không nguyên_nhân đâu
 kỳ 3 môn song_song đến_ngày 14 8 thi không
@@ -505,7 +504,6 @@ lâu đàm_phán nắm_vững
 nhanh môn phát_triển cá_nhân 2 nắm
 môn phát_triển kỹ_năng 2 khó_hiểu co nào dễ_hiểu không
 qlht kết_quả xét miễn môn_học lớp icd7
-điểm thi môn phát_triển kỹ_năng cá_nhân 1 đến_giờ
 bảng điểm mail học_tập
 học_phí 1 năm bao_nhiêu
 khi_nào điểm thi môn eg005
