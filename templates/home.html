@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Question Answering</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script>
+
+    $(document).ready(function(){
+    $("body").on("click",".btn_ans input" ,function() {
+         var ans_content = JSON.parse($(this).attr("data"))
+         var ctn = "<div class=well>"+
+                   "<h3>Câu hỏi tương tự:</h3><br>" +
+                   "<h4>"+ans_content[0]+"</h4>" +
+                   "<h3>Câu trả lời:</h3><br>"+
+                   "<h4>"+ans_content[1]+"</h4>"+
+                    "</div>"
+         $(".ans_content").html(ctn);
+
+    });
+   });
+
+
+
+
+    function getAllAnswer() {
+        $(".hoi_giao_vien").html("<input type='button' value='Gửi câu hỏi đến giảng viên'>");
+        var http = new XMLHttpRequest();
+        var url = "http://127.0.0.1:8008/qa";
+        var params = document.getElementById("question").value;
+        http.open("POST", url, true);
+//Send the proper header information along with the request
+        http.setRequestHeader("Content-type", "text/plain; charset=UTF-8");
+        http.onreadystatechange = function () {//Call a function when the state changes.
+            if (http.readyState == 4 && http.status == 200) {
+
+                var res = http.responseText;
+
+                if (res == "none") {
+                $(".btn_ans").html("<h3>Hệ thống chưa có câu trả lời . Vui lòng đặt câu hỏi trực tiếp cho giáo viên</h3>");
+                $(".ans_content").html("");
+                }
+                else{
+                var x = JSON.parse(res);
+                $(".ans_content").html("");
+                $(".btn_ans").html("");
+                for (i=0;i<x.length;i++) {
+                 click1 = JSON.stringify(x[i]);
+                    var r=$('<input/>').attr({
+                        id:"btn"+(i+1),
+                        type: "button",
+                        value: "button"+(i+1),
+                        data:click1
+                    });
+                    $(".btn_ans").append(r)
+                }
+            }
+            }
+        }
+        http.send(params);
+
+    }
+
+</script>
+
+</head>
+
+<body>
+<div class="form-group">
+    <label><h3>Question</h3></label>
+    <input type = "text" id="question" style="height:100px;width:100%">
+    <button type="button" class="btn btn-info" onclick="getAllAnswer()"> Đặt câu hỏi</button>
+ </div>
+    <div class="btn_ans">
+
+    </div>
+
+    <div class="ans_content">
+
+    </div>
+
+    <div class="hoi_giao_vien">
+
+    </div>
+
+
+</body>
+</html>

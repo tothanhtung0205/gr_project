@@ -9,33 +9,16 @@ from tfidf_model import TfidfModel
 
 model = TfidfModel('data/train_50.txt','data/corpus_train_50.txt')
 app = Flask('qa')
-test_sen = "aaa"
-
 
 
 def save_new_sen(new_sen):
     global model
-    #new_sen = unicode(new_sen, "utf-8")
     model.update(new_sen)
-    # print "save..."
-    # print new_sen
-    # with open('temp.txt',"a",encoding="utf-8") as f:
-    #     f.write(new_sen)
-    #     f.write(u'\n')
-    # f.close()
 
-
-# @app.route('/update', methods = ['GET'])
-# def update():
-#     global  test_sen
-#     global model
-#     model.update('temp.txt')
-#     print "updated"
-#     return "updated"
 
 @app.route('/',methods = ['GET'])
 def homepage():
-	return render_template('gr_ui.html')
+	return render_template('home.html')
 
 
 @app.route('/qa', methods=['POST'])
@@ -44,9 +27,12 @@ def process_request():
     handle = Thread(target=save_new_sen,args=(data,))
     handle.start()
     x = model.get_sim(data)
-    x = json.dumps(x)
-    print ('Response data to client .')
-    return x
+    if len(x) == 0:
+        return "none"
+    else:
+        x = json.dumps(x)
+        print ('Response data to client .')
+        return x
 
 
 if __name__ == '__main__':

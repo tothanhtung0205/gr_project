@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Question Answering</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script type = "text/javascript"  src = "{{ url_for('static', filename='index.js') }}">
+</script>
+
+</head>
+
+<body>
+      <div>
+
+      <form action = "http://127.0.0.1:8008/qa" method = "post">
+          <p>Question:</p>
+         <p><input type = "text" name = "nm" style=" width:500px; height:100px " ></p>
+         <p><input type = "submit" value = "Get answer" ></p>
+
+      </form>
+
+      </div>
+
+
+</body>
+</html>

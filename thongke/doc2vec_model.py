@@ -57,8 +57,4 @@ class Doc2vecModel(Data):
             list_sim_sen.append([raw_sen,corpus_sen,similar])
         return  list_sim_sen
 
-if __name__ == "__main__":
-    model = Doc2vecModel('data/train.txt','data/corpus_train.txt')
-    model.train()
-    test = model.get_sim(u"Thưa thầy cô cho em hỏi , - Cấu trúc một bài thuyết trình thường bao gồm mấy phần? Em cảm ơn thầy cô!")
-    print test
+

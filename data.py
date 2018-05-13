@@ -20,7 +20,7 @@ class Data(object):
                     corpus.append(line)
         except:
             print("Get corpus from data and write to file .")
-            corpus = self.get_corpus(corpus_file)
+            corpus = self.get_corpus(self.data,corpus_file)
         return corpus
 
 
@@ -59,10 +59,9 @@ class Data(object):
         return prced_sen
 
 
-    def get_corpus(self, to_write):
+    def get_corpus(self,data, to_write):
         count = 0
         corpus = []
-        data = self.data
         with open(to_write, "w", encoding="utf-8") as f_w:
             for sen in data:
                 prced_sen = self.pre_process(sen)
@@ -73,6 +72,7 @@ class Data(object):
                 print("Write sen : " + str(count))
         f_w.close()
         return corpus
+
 
 
     def get_stw_list(seft):
@@ -104,6 +104,3 @@ class Data(object):
 
 
 
-# if __name__ == "__main__":
-#     data = Data('data/train.txt','data/corpus_train.txt')
-#     print data
