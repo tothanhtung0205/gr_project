@@ -17,7 +17,7 @@ class TfidfModel(Data):
         self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
 
 
-    def update(self,new_sen):
+    def update(self,new_sen,new_ans):
         """
         add new_sen to corpus and re-calculate corpus_tfidf_matrix
         :param new_sen:
@@ -27,7 +27,7 @@ class TfidfModel(Data):
         self.data.append(new_sen)
         new_prced_sen = self.pre_process(new_sen)
         self.corpus.append(new_prced_sen)
-        self.ans_list.append(new_prced_sen)
+        self.ans_list.append(new_ans)
         self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
         print("Updated new sentences from file")
 
