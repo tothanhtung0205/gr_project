@@ -96,6 +96,7 @@
 
     function getAllAnswer() {
         $("#send_teacher").html("<input class='btn btn-warning' onclick=sendToTeacher() type='button' value='Gửi câu hỏi đến giảng viên'>")
+        $("#teacher_ans").html("")
         var params = $("#question").val();
         console.log(params);
         var url = "http://127.0.0.1:8008/qa";
@@ -152,7 +153,7 @@
 <body>
 <div style="width:50%;float:left">
     <div class="form-group">
-    <label><h3>Hệ thống hỏi đáp môn phát triển kỹ năng cá nhân</h3></label>
+    <h3>Hệ thống hỏi đáp môn phát triển kỹ năng cá nhân</h3>
     <input type = "text" id="question" style="height:100px;width:100%">
     <div id="group_btn_ans">
     <button type="button" style="margin-bottom:10px;margin-top:10px" class="btn btn-info" onclick="getAllAnswer()"> Đặt câu hỏi</button>  
@@ -166,7 +167,7 @@
 </div>
 
     <div id="teacher_ans" style="float:left;margin-left:30px ; width:40%">
-        <h3>Câu trả lời của giáo viên</h3>
+
     </div>
 </body>
 </html>

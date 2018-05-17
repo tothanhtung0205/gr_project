@@ -9,7 +9,7 @@ cấu_trúc bài thuyết_trình bao_gồm mấy
 cho em hỏi ah tại sao Cấu trúc một bài thuyết trình thường bao gồm 3 phần
 tại_sao cấu_trúc bài thuyết_trình bao_gồm 3
 
-0.8047853706436183
+0.8047853706436184
 
 chào thầy và cô cho e hỏi. cấu trúc của bài thuyết trình gồm mấy phần ? em chân thành cám ơn.
 cấu_trúc bài thuyết_trình gồm mấy
@@ -19,30 +19,30 @@ cấu_trúc bài thuyết_trình gồm mấy
 Thế nào là kỷ năng. Kỷ năng bao gồm mấy loại. Em cảm ơn cô thầy nhiều.
 kỹ_năng kỹ_năng bao_gồm mấy loại nhiều
 
-0.5127939075948782
+0.5127939075948783
 ____________________________________________________________________________________________________
 Thưa thầy cô cho em hỏi, - Trong khi thuyết trình, thuyết trình viên cần điều chỉnh âm lượng và giọng nói như thế nào? Em cảm ơn thầy cô!
-thuyết_trình thuyết_trình viên điều_chỉnh âm_lượng giọng_nói thế_nào
+thuyết_trình thuyết_trình viên điều_chỉnh âm_lượng giọng_nói
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi, Trong số các luận điểm dưới đây, luận điểm nào nhận định đúng nhất về vai trò của các yếu tố nhịp điệu, âm lượng, giọng nói đối với sự thành công của thuyết trình viên? Chọn một câu trả lời A) Nhịp điệu, âm lượng, giọng nói của người thuyết trình không ảnh hưởng nhiều đến chất lượng của buổi thuyết trình B) Thành công của buổi thuyết trình phụ thuộc hoàn toàn vào nhịp điệu, âm lượng, giọng nói của người thuyết trình C) Thành công của buổi thuyết trình do nhiều yếu tố trong đó nhịp điệu, âm lượng, giọng nói của người thuyết trình giữ vai trò quan trọng D) Nếu người thuyết trình chỉ chú trọng nhịp điệu, âm lượng, giọng nói thì những điều đó chưa đủ để làm nên thành công của buổi thuyết trình Theo em thấy thì đáp án C cũng đúng mà, mong thầy cô giải thích rõ dùm em ạ. Em cám ơn thầy cô rất nhiều !
 luận_điểm dưới_đây luận_điểm nào nhận_định nhất vai_trò nhịp_điệu âm_lượng giọng_nói đối thành_công thuyết_trình viên chọn a ) nhịp_điệu âm_lượng giọng_nói thuyết_trình không ảnh_hưởng nhiều chất_lượng thuyết_trình b ) thành_công_của thuyết_trình phụ_thuộc hoàn_toàn nhịp_điệu âm_lượng giọng_nói thuyết_trình c ) thành_công_của thuyết_trình nhiều nhịp_điệu âm_lượng giọng_nói thuyết_trình giữ vai_trò quan_trọng d ) thuyết_trình chú_trọng nhịp_điệu âm_lượng giọng_nói đủ làm_nên công thuyết_trình đáp_án c giải_thích dùm nhiều
 
-0.5935506197203573
-
-Thưa cô cho em hỏi Trong khi thuyết trinh, thuyết tr2inh viên cần điều chỉnh giọng nói như thế nào? Em xin cám ơn.
-thuyết trinh thuyết tr2inh viên điều_chỉnh giọng_nói thế_nào
-
-0.40942653851018707
+0.6072849166291201
 
 Kính thưa thầy cô! Nếu người thuyết trình chỉ chú trọng nhịp điệu, âm lượng, giọng nói thì những điều đó chưa đủ để làm nên thành công của buổi thuyết trình.Vậy Em muốn biết những yếu tố nào tác động đến sự thành công của buổi thuyết trình ngoài những yếu tố đã nói trên.Em xin chân thành cảm ơn ạ
 thuyết_trình chú_trọng nhịp_điệu âm_lượng giọng_nói đủ làm_nên công thuyết_trình nào tác_động công thuyết_trình ngoài nói
 
-0.4088038486141468
+0.41826324979707685
 
 Em Chào Thầy Cô! Em có thắc mắc mong thầy cô giải đáp: Trong buổi thuyết trình, thuyết trình viên sẽ có thể phải trả lời các câu hỏi mà khán giả đưa ra. Để có thể trả lời tốt các câu hỏi của khán giả, thuyết trình viên cần gì? Em cảm ơn thầy cô.
 thuyết_trình thuyết_trình viên khán_giả tốt khán_giả thuyết_trình viên
 
-0.39609643478357637
+0.4052617963535518
+
+Thưa cô cho em hỏi Trong khi thuyết trinh, thuyết tr2inh viên cần điều chỉnh giọng nói như thế nào? Em xin cám ơn.
+thuyết trinh thuyết tr2inh viên điều_chỉnh giọng_nói
+
+0.39056502975474916
 ____________________________________________________________________________________________________
 Thưa thầy cô! Muốn nắm chắc phần thắng khi đàm phán thì cần có những kỹ năng gì? Cảm ơn thầy cô!
 nắm_chắc thắng đàm_phán kỹ_năng
@@ -50,22 +50,22 @@ nắm_chắc thắng đàm_phán kỹ_năng
 Em chào thầy ạ! Thầy ơi cho em hỏi muốn đàm phán tốt và nắm chắc phần thắng ta phải chuẩn bị những gì ạ Em xin chân thành cảm ơn thầy
 đàm_phán tốt nắm_chắc thắng chuẩn_bị
 
-0.8636890447395273
+0.8636804160421594
 
 Thưa thầy cô Em rất ngại đứng trước đám đông thuyết trình, và nếu có em rất là rung. Cho em hỏi có cách nào bớt căng thắng trước khi thuyết trình không? Em cảm ơn thầy cô.
 ngại đứng trước đám_đông thuyết_trình rung nào bớt căng thắng thuyết_trình không
 
-0.22549266854395383
+0.22550049655861223
 
 Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
 bài kỹ_năng đàm_phán đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận
 
-0.21936679128770792
+0.21922483002667575
 
 Em chào Thầy, Cô Thầy, Cô cho em hỏi kỹ năng để đàm phán thành công với đối tác thì mình cần những gì ạ! Em cám ơn Thầy Cô
 kỹ_năng đàm_phán thành_công đối_tác
 
-0.20184160059964956
+0.20174827448432617
 ____________________________________________________________________________________________________
 Thưa thầy/cô em muốn có thêm nhiều kiến thức để ứng dụng trong công việc, cần có thêm những tài liệu nào
 nhiều kiến_thức ứng_dụng tài_liệu nào
@@ -73,7 +73,7 @@ nhiều kiến_thức ứng_dụng tài_liệu nào
 Xin cho em hỏi ứng dụng của môn học vào công việc hằng ngày với ! em cảm ơn thầy cô
 ứng_dụng môn_học hằng_ngày
 
-0.4342661855885144
+0.43426618558851443
 
 Em chào cô! Cho em hỏi muốn học tốt môn này cần những tài liệu liên quan nào ạ? Em cảm ơn cô
 tốt môn tài_liệu nào
@@ -81,14 +81,14 @@ tốt môn tài_liệu nào
 0.4120404538521123
 
 Em chào thầy cô. Môn học này kiến thức nhiều. Làm thế nào để học và nhớ lâu được. Em cảm ơn Thầy Cô nhiều.
-môn_học kiến_thức nhiều thế_nào lâu nhiều
+môn_học kiến_thức nhiều lâu nhiều
 
-0.3623377998500755
+0.3758136640436339
 
 Em chào cô! Làm thế nào để nắm hết kiến thức bài học, e thấy bài luyện tập thi quá nhiều kiến thức ạ! Em cảm ơn!
-thế_nào nắm hết kiến_thức bài_học bài luyện_tập thi nhiều kiến_thức
+nắm hết kiến_thức bài_học bài luyện_tập thi nhiều kiến_thức
 
-0.33577565341408033
+0.3420939026233979
 ____________________________________________________________________________________________________
 Chào thầy cô cho em hỏi về kỹ năng đàm phán trong môn học , em thấy dẫn mấy ví dụ rất thực tế song thấy k cho ra cách giải quyết. Hay là đưa ví dụ để sinh viên tự nghiên cứu cách giải quyết trong tình huống đàm phán đó? Em xin cảm ơn
 kỹ_năng đàm_phán môn_học dẫn mấy ví_dụ thực_tế song k giải_quyết hay_là ví_dụ tự nghiên_cứu giải_quyết tình_huống đàm_phán
@@ -96,58 +96,58 @@ kỹ_năng đàm_phán môn_học dẫn mấy ví_dụ thực_tế song k giải
 Chào Thầy ! cho em hỏi về kiểu đàm phán nguyên tắc : Thầy có thể đưa ra một tình huống và cách giải quyết cụ thể không ạ ?em cảm ơn.
 đàm_phán nguyên_tắc tình_huống giải_quyết cụ_thể không
 
-0.3438183544670317
+0.3437711665830892
 
 Chào Cô ! cho em hỏi các ví dụ về tình huống cần đàm phán trong bài học quá ít , em muốn tìm hiểu thêm thì tìm ở đâu ạ ?em cảm ơn.
 ví_dụ tình_huống đàm_phán bài ít tìm_hiểu tìm ở đâu
 
-0.2983858962714677
+0.2983450864620866
 
 Chào Thầy ! cho em hỏi trong trường hợp nào thì chúng ta cần đàm phán ạ ? Thầy có thể đưa ra một ví dụ cụ thể không ạ ?em cảm ơn.
 trường_hợp nào đàm_phán ví_dụ cụ_thể không
 
-0.28955938665358477
+0.28950333993582666
 
 Thưa thầy cô cho em hỏi thưa thầy cô cho em hỏi vấn đề giải quyết theo A3 là gì vậy em chưa hiểu mong thầy cô chỉ giúp em với? Em cảm ơn thầy cô!
 giải_quyết a3
 
-0.2574521028814253
+0.25746048246562575
 ____________________________________________________________________________________________________
 Chào cô! Thưa cô,cho em hỏi là ở môn học này không có buổi học tập trung,như vậy điểm học tập trung sẽ tính như thế nào cô. Em cảm ơn cô.
-ở môn_học không học_tập_trung điểm học_tập_trung tính thế_nào
+ở môn_học không học_tập_trung điểm học_tập_trung tính
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? Em cảm ơn thầy cô!
-tính điểm chuyên_cần thế_nào
+tính điểm chuyên_cần
 
-0.6622140593057078
+0.6107390503471454
 
 Thưa cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? em cảm ơn cô ạ
-tính điểm chuyên_cần thế_nào
+tính điểm chuyên_cần
 
-0.6622140593057078
+0.6107390503471454
 
 Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
-môn_học thế_nào
+môn_học
 
-0.6154377931825887
+0.5261644488286434
 
 Em chào cô. Vui lòng cho em hỏi phần tính điểm khi đăng bài trên H2472 thì tính như thế nào? Đăng mấy bài để được điểm ạ? Em cảm ơn cô ạ.
-tính điểm đăng bài h2472 tính thế_nào đăng mấy bài điểm
+tính điểm đăng bài h2472 tính đăng mấy bài điểm
 
-0.5202335393965785
+0.5048435456639213
 ____________________________________________________________________________________________________
 Chào cô Cô cho em hỏi cách tính điểm chuyên cần, điểm giữa kỳ Ví dụ: chuyên cần:10,BTVN1:9, BTVN2:10, BTN: 9 Em tính điểm TB: như vậy em sẽ được 9.5, sao trong email cô gửi chỉ có 9.3. Cô cho em cách tính theo kiểu của cô với ạ Trân trọng
 tính điểm chuyên_cần điểm kỳ ví_dụ chuyên_cần 10 btvn1 9 btvn2 10 btn 9 tính điểm tb 9 5 email 9 3 tính
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? Em cảm ơn thầy cô!
-tính điểm chuyên_cần thế_nào
+tính điểm chuyên_cần
 
-0.6721981444927001
+0.7185701918393919
 
 Thưa cô cho em hỏi cách tính điểm chuyên cần như thế nào ạ? em cảm ơn cô ạ
-tính điểm chuyên_cần thế_nào
+tính điểm chuyên_cần
 
-0.6721981444927001
+0.7185701918393919
 
 Thưa cô! Cách tính điểm chuyên cần: "Điểm chuyên cần = min (A x 1 + B x 2; 10) (Ghi chú: Nếu số điểm tính ra vượt quá 10 thì quy tròn về 10 điểm) Trong đó: A = min (Số bài đăng trên diễn đàn môn học và H2472; 10) (Ghi chú: Nếu số bài đăng vượt quá 10 bài thì được tính điểm là 10 bài) B = Số bài luyện tập trắc nghiệm đạt điểm lơn hơn hoặc bằng 5 điểm" Em làm 4 bài LTTN và 1 bài LT trước thi nhưng điểm chuyên cần được 8đ. Có phải là làm luyện tập trước thi thì không có tính điểm chuyên cần không cô? E thắc mắc vì như trên có nói là "B = Số bài LTTN trắc nghiệm đạt điểm lớn hơn hoặc bằng 5 điểm" Em cảm ơn cô!
 tính điểm chuyên_cần " điểm chuyên_cần = min ( a x 1 + b x 2 10 ) ( ghi_chú điểm tính vượt_quá 10 quy tròn 10 điểm ) a = min ( bài đăng diễn_đàn môn_học h2472 10 ) ( ghi_chú bài đăng vượt_quá 10 bài tính điểm 10 bài ) b = bài luyện_tập trắc_nghiệm điểm lơn bằng 5 điểm " 4 bài lttn 1 bài lt trước thi điểm chuyên_cần 8đ luyện_tập trước thi không tính điểm chuyên_cần không như_trên nói_là " b = bài lttn trắc_nghiệm điểm lớn bằng 5 điểm "
@@ -177,10 +177,10 @@ cháo điẻm thi lớp ad5c gởi lớp
 
 0.2891845511585782
 
-Hi cô QLHT, Các môn học xong có thể đăng ký thi trước nếu có môn thi của lớp khác trùng với lớp mình đang học không ah Tks HONTV
-hi qlht môn_học xong đăng_ký thi trước có_môn thi lớp khác trùng lớp không tks hontv
+Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
+môn_học
 
-0.27543394019710316
+0.2761704038775694
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi: Theo kế hoạch ngày 28/12/2014 chúng em sẽ thi 3 môn, lúc đi thi em phải mang theo những giấy tờ gì? Hiện tại em mới biết bị mất giấy chứng minh chưa đi làm lại không biết có ảnh hưởng đến việc có được thi hay không? Em mong cô cho em câu trả lời. Em cảm ơn cô.
 kế_hoạch 28 12 2014 thi 3 môn đi_thi giấy_tờ mất giấy chứng_minh không ảnh_hưởng thi không
@@ -206,27 +206,27 @@ thưa cô, cho em hỏi chưa có điểm thi môn trước phải ko cô?
 0.2672191125086525
 ____________________________________________________________________________________________________
 Chào thầy cô! cho em hỏi là em đang làm bài máy tính e hết pin sau khi e nạp pin và vào lam tiếp bài thì thâys lần 1 mất kết nối, nhưng dòng thứ 2 hiện lên đang làm bài? vậy e phải làm sao để tiếp tục làm bài mà không bị mất kết nối và không bị điểm thấp ạ?e xin cảm ơn!
-làm_bài máy_tính hết pin nạp pin lam tiếp bài thâys 1 mất kết_nối dòng thứ 2 làm_bài làm_sao tiếp_tục làm_bài không mất kết_nối không điểm thấp
+làm_bài máy_tính hết pin nạp pin lam tiếp bài thâys 1 mất kết_nối dòng thứ 2 làm_bài tiếp_tục làm_bài không mất kết_nối không điểm thấp
 ----------------------------------------------------------------------------------------------------
+Thưa thầy cô, cho e hỏi sao e làm bài mà nộp bài ko đc.máy báo mất kết nối.và e lại phải làm lại.xin thầy cô giải đáp giúp e.e xin cảm ơn
+làm_bài nộp bài không đc máy báo mất kết_nối
+
+0.5035734553803672
+
 Thưa thầy/cô! Bài tập về nhà 1 môn Phát triển kỹ năng cá nhân 2 em bị mất kết nối liên tiếp 3 lần nên không làm bài tiếp được. Khi làm bài có quyền mất kết nối 3 lần nhưng em mất kết nối 3 lần xong thì không vào được nữa. vậy là em không có quyền làm bài tập nữa ạ. Hôm nay em vào thì thấy gia hạn thêm thời gian tơi ngày 1/7 nhưng lại có yêu cầu khóa truy cập (như hình đính kèm). Vậy khóa truy cập là gì ạ. Mong cô hồi âm sớm. Em cảm ơn cô ạ Lê Thị Hồng Dung
 bài_tập nhà 1 môn phát_triển kỹ_năng cá_nhân 2 mất kết_nối liên_tiếp 3 không làm_bài tiếp làm_bài quyền mất kết_nối 3 mất kết_nối 3 xong không không quyền bài_tập gia_hạn thời_gian tơi 1 7 yêu_cầu khóa truy_cập ( hình đính kèm ) khóa truy_cập hồi_âm lê thị hồng dung
 
-0.4724907037359065
+0.4769468012667781
 
 Em chào cô! Thưa cô! vừa rồi em đang làm bài tập VN nhưng đang làm gần xong thì mạng bị mất kết nối nếu như vậy thì mình có được làm 3 lần làm bài ko cô EM cảm ơn cô
 vừa bài_tập vn gần xong mạng mất kết_nối 3 làm_bài không
 
-0.43662300976156554
+0.4404918895541464
 
 Thưa thầy cô và anh chị kỹ thuật viên, trong chương trình học cho phép trong lúc làm bài được phép mất kết nối 3 lần tại sao trong lúc làm BTVN em bị mất kết nối đúng 3 lần vì mùa hè thường xuyên bị cúp điện, trong lúc đó em mới làm thành công được 1 lần chương trình cho phép làm 3 lần vậy mà em không thể làm tiếp được lần 2 và lần 3, vậy là sao? có cách nào làm tiếp được không ạ? vì lần 1 điểm quá thấp. cảm ơn thầy cô nhiều.
 anh_chị kỹ_thuật_viên chương_trình cho_phép trong_lúc làm_bài phép mất kết_nối 3 tại_sao trong_lúc btvn mất kết_nối 3 mùa_hè thường_xuyên cúp điện lúc_đó thành_công 1 chương_trình cho_phép 3 vậy_mà không_thể tiếp 2 3 nào tiếp không 1 điểm thấp nhiều
 
-0.4032778089428973
-
-Thưa thầy cô em đang làm btvn trên dt thì bị mất kết nối,em muốn hỏi vậy lần làm btvn đó có bị tính điểm không em cảm ơn thầy cô
-btvn dt mất kết_nối btvn tính điểm không
-
-0.3170337263072569
+0.4072746305854358
 ____________________________________________________________________________________________________
 Chào cô! Thưa cô,cho em hỏi ở lần này chúng em học hai môn hả cô. Em cảm ơn cô.
 ở hai môn
@@ -237,14 +237,14 @@ không so_le thời_gian học_tập hai môn eg013 eg020 thời_gian bài_tập
 0.5062883453046927
 
 thưa cô : khi 1 trong hai bên sai hợp đồng ,thì cần xử lý như thế nào ? cảm ơn cô
-1 hai sai hợp_đồng thế_nào
+1 hai sai hợp_đồng
 
-0.4543087641152873
+0.47699402868742674
 
 thưa thầy cô! Thầy cô cho em hỏi.khi hai người đang đàm phán, lúc đó đối tác của mình đang dùng đàm phán cứng , trong trường hợp này ta lên làm thế nào?
-hai đàm_phán đối_tác đàm_phán cứng trường_hợp thế_nào
+hai đàm_phán đối_tác đàm_phán cứng trường_hợp
 
-0.40849151354882174
+0.4248189169652372
 
 Xin hỏi tôi làm bài tập kỹ năng A và nộp bài rồi,vì tôi nén đến hai lần khi mở file phải bấm hai lần mới thấy bài viết,như vậy có bị ảnh hưởng hay bị trừ điểm gì không,giáo viên chấm bài có đọc được không,xin cảm ơn.
 bài_tập kỹ_năng a nộp bài nén hai mở file bấm hai bài viết ảnh_hưởng trừ điểm không giáo_viên chấm_bài đọc không
@@ -275,27 +275,27 @@ batna nghĩa
 0.5362198866114994
 ____________________________________________________________________________________________________
 Thưa thầy cô,cho e hỏi làm sao để học tốt được môn này.e xin cảm ơn
-làm_sao tốt môn
+tốt môn
 ----------------------------------------------------------------------------------------------------
-Em chào Thầy Thầy cho em hỏi làm sao để làm tốt bài tập kỷ năng Em cám ơn Thầy!
-làm_sao tốt bài_tập kỹ_năng
+Em kính chào thầy ,cô ạ!cho em hỏi:là em phải làm sao để có thể, làm tốt phần bài tập kỹ năng môn này ạ!Em xin chân thành cảm ơn thầy,cô ạ!
+tốt bài_tập kỹ_năng môn
 
-0.6893048043828779
+0.736692765766806
 
-Dear Thầy,Cô Làm sao để học tốt môn PTKN2 này đây. Cảm ơn Thầy,Cô
-làm_sao tốt môn ptkn2
+Em chào cô! Cho em hỏi muốn học tốt môn này cần những tài liệu liên quan nào ạ? Em cảm ơn cô
+tốt môn tài_liệu nào
 
-0.6210542197574656
+0.633390676020579
 
-Em chào thầy cô! Cho em hỏi làm sao để em có một kỹ năng giao tiếp tốt. Em cám ơn.
-làm_sao kỹ_năng giao_tiếp tốt
+Thưa Cô cho Em hỏi em muốn học tốt môn eg020 thi phải học như thế nào vậy Cô. Em cảm ơn Cô nhiều.
+tốt môn eg020 thi nhiều
 
-0.600629001631837
+0.606368794979135
 
-Chào Thầy! Cho em hỏi, theo kinh nghiệm của Thầy thì làm sao để học tốt môn Phát triển kỹ năng cá nhân 2 này ạ. Cảm ơn Thầy!
-kinh_nghiệm làm_sao tốt môn phát_triển kỹ_năng cá_nhân 2
+Thưa thầy /cô! Thầy cô cho em hỏi cách làm tốt BTVN môn EG020. Trân trọng cảm ơn thầy cô
+tốt btvn môn eg020
 
-0.5818175307422537
+0.5928398751984661
 ____________________________________________________________________________________________________
 Chào cô! Thưa cô,cho em hỏi là khi thi hết môn chúng em cũng thi chung hai môn G08 và G020 hả cô. Em cảm ơn cô. Em chào cô.
 thi hết môn thi chung hai môn g08 g020
@@ -324,9 +324,9 @@ H đã vào học rồi mà e vẫn chưa biết môn học cô ạ con. Gửi m
 h môn_học con mail đươc k h mail trương k dc
 ----------------------------------------------------------------------------------------------------
 Em chào Thầy ! Thầy cho em hỏi mail Thầy gửi về việc làm lại bài tập về nhà 1, 2 môn EG020 là ai cũng phải làm lại hay chỉ những bạn chưa làm thì vào làm vậy Thầy ? Vì e check mail thấy nhưng sau khi kiểm tra lại mail thì không còn , vậy em phsi3 làm sao, mong Thầy giúp em. Eem cảm ơn và trân trọng kính chào!
-mail làm_lại bài_tập nhà 1 2 môn eg020 ai làm_vậy check mail kiểm_tra mail không phsi3 làm_sao eem
+mail làm_lại bài_tập nhà 1 2 môn eg020 ai làm_vậy check mail kiểm_tra mail không phsi3 eem
 
-0.3988921808613365
+0.4036166607108976
 
 Dạ, cô ơi, khi nào thì cô sẽ gởi kết quả miễn mon qua mail cho em ạ? Vì em kiểm tra mail mấy ngày gần đây vẫn chưa có ạ.
 nào gởi kết_quả miễn mon mail kiểm_tra mail mấy gần
@@ -352,9 +352,9 @@ cụm_từ viết tắt batna cụm_từ
 0.569334981405018
 
 Thưa thầy cô cho em hỏi SWOT là viết tắt của cụm từ nào. SWOT là phương pháp gì và cách thức áp dụng SWOT cho một cuộc đàm phán là như thế nào. Rất mong được thấy cô trả lời Em cảm ơn thầy cô!
-swot viết tắt cụm_từ nào swot phương_pháp cách_thức áp_dụng swot đàm_phán thế_nào
+swot viết tắt cụm_từ nào swot phương_pháp cách_thức áp_dụng swot đàm_phán
 
-0.4151017758628308
+0.4186234528731252
 
 Xin chào thầy cô? thầy cô cho em hỏi cụm từ viết tắt của BATNA LÀ GÌ?
 cụm_từ viết tắt batna
@@ -367,27 +367,27 @@ batna viết tắt cụm_từ nào ý_nghĩa
 0.35160508546821856
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi trước đây chúng em làm bài tập nhóm theo lớp OD1C, bây giờ các lớp O đã gộp lại thành 1 lớp vậy thì bài tập nhóm sẽ làm như thế nào ạ Em cảm ơn
-trước_đây bài_tập nhóm lớp od1c lớp o gộp 1 lớp vậy_thì bài_tập nhóm thế_nào
+trước_đây bài_tập nhóm lớp od1c lớp o gộp 1 lớp vậy_thì bài_tập nhóm
 ----------------------------------------------------------------------------------------------------
 Thưa cô ! Cô cho em hỏi, em đã nhận được Email cô gửi các lớp ICD7A, ICD7B, ICD7C, ICD7D và ICD7E sẽ được gộp thành một lớp ICD7 . Cô cho em hỏi bắt đầu từ môn học này nếu có bài tập nhóm em thuộc vào nhóm này phải ko cô, hiện e đang theo học lớp ICD7E. Còn nhóm có các thành viên trước kia không liên quan đến lớp nữa phải không cô? Em cảm ơn cô
 nhận email lớp icd7a icd7b icd7c icd7d icd7e gộp lớp icd7 bắt_đầu từ môn_học bài_tập nhóm nhóm không lớp icd7e nhóm thành_viên trước_kia không lớp không
 
-0.5166914690185935
+0.5219143795152192
 
 Thưa cô! Em muốn hỏi cô về nhóm môn học từng đợt của lớp để em chủ động hơn ạ. Em cảm ơn cô ạ!
 nhóm môn_học đợt lớp chủ_động
 
-0.38689494803854746
+0.39080582678605247
 
 Thưa Thầy Cô, Cho Em hỏi môn EG020 có bài tập nhóm không ạ ? Xin cảm ơn,
 môn eg020 bài_tập nhóm không
 
-0.37447106543380093
+0.37825635893216597
 
 Thưa Thầy Cô, Cho Em hỏi môn EG020 có bài tập nhóm không ạ ?
 môn eg020 bài_tập nhóm không
 
-0.37447106543380093
+0.37825635893216597
 ____________________________________________________________________________________________________
 Thưa thầy cô cho em hỏi! Tại sao đàm phán là hoạt động mang tính phổ biến của con người, thầy cô có thể giải thích cho em được không. Em cảm ơn thầy cô!
 tại_sao đàm_phán hoạt_động tính phổ_biến con_người giải_thích không
@@ -395,22 +395,22 @@ tại_sao đàm_phán hoạt_động tính phổ_biến con_người giải_thí
 thưa thầy cô, tại sao hoạt động đàm phán luôn gắn liền với sự tồn tại của con người, thầy cô có thể giải thích thêm dùm em được ko ạ? cam on thầy cô, Như
 tại_sao hoạt_động đàm_phán gắn liền tồn_tại con_người giải_thích dùm không cam on
 
-0.4384720433593636
+0.43845412292480546
 
 chào thầy, cô! Tại sao cần có đàm phán ạ? em cám ơn thầy. cô!
 tại_sao đàm_phán
 
-0.37635567837520445
+0.3763043541167135
 
 DEAR quý thầy cô ! cho e hỏi : Con người khi đàm phán thường có những phong cách nào? e xin cảm ơn quý thầy cô
 con_người đàm_phán phong_cách nào
 
-0.35180061964199166
+0.3517537854367938
 
 Xin thưa! Con người khi đàm phán thường có những phong cách nào? em cám ơn thầy cô!
 con_người đàm_phán phong_cách nào
 
-0.35180061964199166
+0.3517537854367938
 ____________________________________________________________________________________________________
 Em chào cô! Em làm nhà nước, vậy kỹ năng đàm phán có giúp ích gì cho công việc của em không cô! Em cảm ơn cô!
 nhà_nước kỹ_năng đàm_phán giúp_ích không
@@ -418,22 +418,22 @@ nhà_nước kỹ_năng đàm_phán giúp_ích không
 Chào Cô ! Cho em hỏi về "điều khoản chủ yếu " do hai bên thoả thuận hay do quy định của nhà nước ạ ? Cảm ơn cô.
 " điều_khoản chủ_yếu " hai thoả_thuận quy_định nhà_nước
 
-0.27845900631409654
+0.27846801671019333
 
 Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
 bài kỹ_năng đàm_phán đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận
 
-0.21178897841189587
+0.21165142219902722
 
 Em chào Thầy, Cô Thầy, Cô cho em hỏi kỹ năng để đàm phán thành công với đối tác thì mình cần những gì ạ! Em cám ơn Thầy Cô
 kỹ_năng đàm_phán thành_công đối_tác
 
-0.1948691784252626
+0.1947786170736749
 
 Dear Thầy/ Cô! Cho em hỏi: để có được kỹ năng tốt trong đàm phán mình cần chuẩn bị những gì ạ? Em cảm ơn ạ!
 kỹ_năng tốt đàm_phán chuẩn_bị
 
-0.1888301828892946
+0.18874119463455313
 ____________________________________________________________________________________________________
 Chào cô giáo! Vì sao phải có 2 môn phát triển kỷ năng 1 và phát triển kỷ năng 2 mà không phải là 1 môn ah?
 cô_giáo vì_sao 2 môn phát_triển kỹ_năng 1 phát_triển kỹ_năng 2 không 1 môn
@@ -453,10 +453,10 @@ phát_triển kỹ_năng mềm
 
 0.557164801227048
 
-Chào thầy co, Môn phát triển kỹ năng cá nhân 2 em không hiểu về các phong cách khi đàm phán. Thầy cô có thể cho e biết rõ không ạ!!
-co môn phát_triển kỹ_năng cá_nhân 2 không phong_cách đàm_phán không
+Chào Thầy! Cho em hỏi, theo kinh nghiệm của Thầy thì làm sao để học tốt môn Phát triển kỹ năng cá nhân 2 này ạ. Cảm ơn Thầy!
+kinh_nghiệm tốt môn phát_triển kỹ_năng cá_nhân 2
 
-0.5065125299901391
+0.5232508313972162
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán kéo dài khoảng 1 tuần thì thuộc dạng nào? Em cảm ơn thầy cô
 đàm_phán kéo_dài khoảng 1 tuần dạng nào
@@ -464,22 +464,22 @@ Thưa thầy cô, cho em hỏi Nếu đàm phán kéo dài khoảng 1 tuần th�
 Em chào thầy/cô! Cho em hỏi : một số dạng thế manh nào có thể ảnh hưởng đến kết quả đàm phán? Em cám ơn thầy/cô
 dạng manh nào ảnh_hưởng kết_quả đàm_phán
 
-0.3147455456868912
+0.3147066262047545
 
 Kính gửi Cô Một người chỉ nghĩ đến bản thân mình, người đó thuộc dạng phong cách nào cô Cảm ơn cô
 nghĩ bản_thân dạng phong_cách nào
 
-0.31186950824517506
+0.3118780448847134
 
 Thưa thầy cô, cho em hỏi: Em đang học ở tuần thứ 3 của môn học và em đã hoàn thành bài luyện tập của tuần này rồi, nên em muốn làm bài tập của những tuần sau đó thì có được không ạ!
 ở tuần thứ 3 môn_học hoàn_thành bài luyện_tập tuần bài_tập tuần sau_đó không
 
-0.2963244689160323
+0.29633258004940904
 
 Thưa thầy cô cho em hỏi Tuần 3 em mới làm bài luyện tập tuần 2 thì có sao không a. Em cảm ơn thầy cô!
 tuần 3 bài luyện_tập tuần 2 sao_không a
 
-0.2957055603940989
+0.29571365458641913
 ____________________________________________________________________________________________________
 Cho em hỏi môn học phát triển kỷ năng 2 không có giáo trình sách giáo khoa phải không ah?
 môn_học phát_triển kỹ_năng 2 không giáo_trình sách giáo_khoa không
@@ -492,7 +492,7 @@ môn_học kỹ_năng cá_nhân 2 phát tài_liệu sách giáo_khoa
 Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao trường chưa cung cấp tài liệu sách giáo khoa Cảm ơn thầy cô
 môn_học tâm_lý kinh_doanh trường cung_cấp tài_liệu sách giáo_khoa
 
-0.5132044761993616
+0.5132044761993617
 
 thưa cô em chỉ nhận được GIÁO TRÌNH PHÁT TRIÊN KỸ NĂNG CÁ NHÂN 1. Mà không nhận được GIÁO TRÌNH PHÁT TRIỂN KỸ NĂNG CÁ NHÂN 2. vậy GIÁO TRÌNH PHÁT TRIỂN KỸ NĂNG CÁ NHÂN 2 có không ah em cảm ơn cô
 nhận giáo_trình phát triên kỹ_năng cá_nhân 1 không nhận giáo_trình phát_triển kỹ_năng cá_nhân 2 giáo_trình phát_triển kỹ_năng cá_nhân 2 không
@@ -502,7 +502,7 @@ nhận giáo_trình phát triên kỹ_năng cá_nhân 1 không nhận giáo_trì
 Chào Cô Hiện lớp đang học giáo trình phát triển kỹ năng 2. Vậy có tất cả bao nhiêu giáo trình về kỹ năng cần học vậy Cô? Cám ơn Cô. Thanh
 lớp giáo_trình phát_triển kỹ_năng 2 tất_cả bao_nhiêu giáo_trình kỹ_năng thanh
 
-0.39918682136149547
+0.3991868213614955
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán mà một trong 2 đối tác cố tình không muốn đi đến thảo thuận, thì thuộc dạng nào? Em cảm ơn thầy cô
 đàm_phán 2 đối_tác cố_tình không thảo thuận dạng nào
@@ -510,68 +510,68 @@ Thưa thầy cô, cho em hỏi Nếu đàm phán mà một trong 2 đối tác c
 Thưa thầy cô cho em hỏi là khi đã tìm hiểu rõ đối tác về mọi mặt thuận lợ cho ta thì ta có nên đi đến đàm phán cứng luôn không ạ Em cam ơn thầy cô
 tìm_hiểu đối_tác mặt thuận lợ đàm_phán cứng không cam
 
-0.3038645367789581
+0.30383822572211566
+
+Thưa thầy / Cô cho em hỏi Khi đàm phán đối tác luôn cho mình đúng thì phải làm sao ạ?
+đàm_phán đối_tác
+
+0.2996866286453208
 
 Em chào thầy/cô! Cho em hỏi : một số dạng thế manh nào có thể ảnh hưởng đến kết quả đàm phán? Em cám ơn thầy/cô
 dạng manh nào ảnh_hưởng kết_quả đàm_phán
 
-0.27204467284467504
+0.2720091502617579
 
 Kính gửi Cô Một người chỉ nghĩ đến bản thân mình, người đó thuộc dạng phong cách nào cô Cảm ơn cô
 nghĩ bản_thân dạng phong_cách nào
 
-0.26955882141439286
-
-Thưa thầy cô cho em hỏi: trong khi đàm phán/thương lượng, 2 bên đều hiểu rõ về ngôn ngữ cơ thể và cố tình đánh lạc hướng đối phương thì ta phải làm thế nào? em xin cảm ơn!
-đàm_phán thương_lượng 2 ngôn_ngữ cơ_thể cố_tình đánh lạc_hướng đối_phương thế_nào
-
-0.23828698674282933
+0.26956433360635623
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán mà đối tác liên tục ngắt lời thì nên làm gì? Em cảm ơn thầy cô
 đàm_phán đối_tác liên_tục ngắt_lời
 ----------------------------------------------------------------------------------------------------
+Thưa thầy / Cô cho em hỏi Khi đàm phán đối tác luôn cho mình đúng thì phải làm sao ạ?
+đàm_phán đối_tác
+
+0.5657145120943217
+
 Dạ thưa cô, Học 3 môn liên tục như vậy thì điểm Diễn đàn và H2472 tính sao ạ?
 3 môn liên_tục điểm diễn_đàn h2472 tính
 
-0.44006075130153904
-
-Thưa thầy / Cô cho em hỏi Khi đàm phán đối tác luôn cho mình đúng thì phải làm sao ạ?
-đàm_phán đối_tác làm_sao
-
-0.41821830541752203
+0.44009281635335207
 
 Em chào Thầy, Cô Thầy, Cô cho em hỏi kỹ năng để đàm phán thành công với đối tác thì mình cần những gì ạ! Em cám ơn Thầy Cô
 kỹ_năng đàm_phán thành_công đối_tác
 
-0.3880888060033498
+0.38798196944566543
 
 Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
 bài kỹ_năng đàm_phán đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận
 
-0.3653168125135887
+0.36514681584041686
 ____________________________________________________________________________________________________
 Thưa cô! bài học của môn phát triển kỷ năng 2 đôi lúc không rỏ tiếng, phải làm thế nào ah?
-bài môn phát_triển kỹ_năng 2 đôi_lúc không rỏ tiếng thế_nào
+bài môn phát_triển kỹ_năng 2 đôi_lúc không rỏ tiếng
 ----------------------------------------------------------------------------------------------------
 Chào giảng viên thưa giảng viên hiện tại em đang là học viên của lớp OD22 , em đã học xong môn phát triển kỹ năng 1 và em đang đọc giáo trình môn phát triển kỹ năng 2 , nhưng trong nội dung của bài có một số kiểu đàm phán được đọc , và viết theo tiếng anh và viết tắt của tiếng anh ( em còn rất kém về tiếng anh em đang dự định đăng ký học môn tiếng anh ), giảng viên có thể cho em biết làm cách nào để biết được các từ viết tắt tiếng anh đó viết đầy đủ là gì , và làm cách nào để hiểu và nhớ được lâu cụm từ tiếng anh đó không ạ. em xin chân thành cảm ơn.
 lớp od22 xong môn phát_triển kỹ_năng 1 đọc giáo_trình môn phát_triển kỹ_năng 2 bài đàm_phán đọc viết tiếng viết tắt tiếng ( kém tiếng anh_em dự_định đăng_ký môn tiếng ) nào từ viết tắt_tiếng viết đầy_đủ nào lâu cụm_từ tiếng không
 
-0.4257127487260932
+0.43623263285528996
 
 thưa thầy cô cho em hỏi kỹ năng phát triển là gì em cám ơn thầy cô
 kỹ_năng phát_triển
 
-0.3971875812132404
+0.4070017651757697
 
 Chào Thầy cô, Cho em hỏi môn phát triển kỹ năng 1 và 2 nội dung có gì khác nhau không a?
 môn phát_triển kỹ_năng 1 2 khác_nhau không a
 
-0.36598401128117974
+0.3750271802621593
 
-Xin chào QLHT. Làm thế nào để hoàn thành tốt môn phát triển kỹ năng cá nhân 2 ạ. Em xin cám ơn.
-qlht thế_nào hoàn_thành tốt môn phát_triển kỹ_năng cá_nhân 2
+Thưa thầy cô cho em hỏi ,trong bài giảng video tiếng của thầy sao nghe không rõ ạ
+bài giảng video tiếng nghe không
 
-0.3241643136935677
+0.3153340656666761
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán mà mỗi bên đều giữ quan điểm của mình, thì có cách nào thoát khỏi vấn đề này không? Em cảm ơn thầy cô
 đàm_phán giữ quan_điểm nào thoát_khỏi không
@@ -579,22 +579,22 @@ Thưa thầy cô, cho em hỏi Nếu đàm phán mà mỗi bên đều giữ qua
 Cháo cô, thầy Cho em hỏi vì em làm LTTN và hay nhầm lẫn quan điểm giữ đàm phán nguyên tắc và đàm phán cứng, có cách nào dễ hiểu nhớ hơn ko thầy? Cảm ơn thầy
 cháo lttn nhầm_lẫn quan_điểm giữ đàm_phán nguyên_tắc đàm_phán cứng nào dễ_hiểu không
 
-0.40182146708428146
+0.40177504097694444
 
 Chào thầy / cô. Vui lòng cho em hỏi khi ta thuyết trình, trình bày quan điểm của mình trong doa có 1 vài người xem thường quan điểm của mình và có lời lẽ lăng mạ quan điểm của mình trước mọi người.Điều gì ta nên làm trong lúc này???
 thuyết_trình trình_bày quan_điểm doa 1 vài xem_thường quan_điểm lời_lẽ lăng_mạ quan_điểm trước lúc_này
 
-0.3592194761916084
+0.35923022189369974
 
 Xin thưa! Trong cuộc đàm phán, khi đối tác đang trình bày quan điểm của họ, để thể hiện sự tôn trọng đối tác, bạn cần làm gì? em cám ơn thầy cô,
 đàm_phán đối_tác trình_bày quan_điểm họ thể_hiện tôn_trọng đối_tác
 
-0.25526527984878256
+0.25522884254400224
 
 Chào cô cô cho em hỏi> Trong cuộc đàm phán, khi đối tác đang trình bày quan điểm của họ, để thể hiện sự tôn trọng đối tác, bạn cần làm gì? em cám ơn thầy cô,
 > đàm_phán đối_tác trình_bày quan_điểm họ thể_hiện tôn_trọng đối_tác
 
-0.25526527984878256
+0.25522884254400224
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán ôn hòa quá mức, dẫn tới một bên bị thiệt hại. Có gọi là thành công không? Em cảm ơn thầy cô
 đàm_phán ôn_hòa quá_mức dẫn bên_bị thiệt_hại gọi_là thành_công không
@@ -602,22 +602,22 @@ Thưa thầy cô, cho em hỏi Nếu đàm phán ôn hòa quá mức, dẫn tớ
 Thưa cô thầy cho em hỏi? Một cuộc đàm phán được gọi là thành công khi nào? em cảm ơn cô/ thầy
 đàm_phán gọi_là thành_công khi_nào
 
-0.4474512020639379
+0.4474136951488481
 
 Thưa cô! Một cuộc đàm phán được gọi là thành công khi nào? Cảm ơn thầy cô!
 đàm_phán gọi_là thành_công khi_nào
 
-0.4474512020639379
+0.4474136951488481
 
 thưa thầy cô, phong cách ôn hòa trong đàm phán là như thế nào ạ? em cảm ơn thầy cô!!!
-phong_cách ôn_hòa đàm_phán thế_nào
+phong_cách ôn_hòa đàm_phán
 
-0.3713759498606828
+0.39762808578465514
 
 Thưa thầy cô mở cửa một cuộc đàm phán được gọi là thành công điều cần làm để có thể quyết định đến thành công đó là gì,em cảm ơn thầy cô
 mở_cửa đàm_phán gọi_là thành_công quyết_định thành_công
 
-0.3562340101588838
+0.35620387266674014
 ____________________________________________________________________________________________________
 Em muốn hiểu rõ về từ viết tắt trong câu hỏi trắc nghiệm BATNA là gì?
 từ viết tắt trắc_nghiệm batna
@@ -646,47 +646,47 @@ Thưa thầy cô, cho em hỏi Người có phong cách đàm phán mạnh mẽ,
 phong_cách đàm_phán mạnh_mẽ quyền_lợi công_ty họ buộc ôn_hòa trường_hợp gọi_là phong_cách mạnh_mẽ không
 ----------------------------------------------------------------------------------------------------
 thưa thầy cô, phong cách ôn hòa trong đàm phán là như thế nào ạ? em cảm ơn thầy cô!!!
-phong_cách ôn_hòa đàm_phán thế_nào
+phong_cách ôn_hòa đàm_phán
 
-0.4356479439131702
+0.46648218694455723
 
 thưa thầy cho em hỏi khi đàm phán gặp đối tác có phong cách mạnh mẽ thì chúng ta cần làm gì ạ?
 đàm_phán gặp đối_tác phong_cách mạnh_mẽ làm_gì
 
-0.4217739094555756
+0.421754983544779
 
 Thưa thầy cô cho em hỏi. Trong bài 2 có các loại phong cách đàm phán như ôn hòa, mạnh mẽ, phân tích, tổng hợp. Vậy mình phải kết hợp như thế nào để cuộc đàm phán của mình được đi đến thành công ? Cảm ơn thầy cô !
-bài 2 loại phong_cách đàm_phán ôn_hòa mạnh_mẽ phân_tích tổng_hợp kết_hợp thế_nào đàm_phán thành_công
+bài 2 loại phong_cách đàm_phán ôn_hòa mạnh_mẽ phân_tích tổng_hợp kết_hợp đàm_phán thành_công
 
-0.41388746178650654
+0.42074196252961676
 
 Thưa cô! Cho em hỏi: Những nhược điểm của kiểu đàm phán theo phong cách mạnh mẽ biểu hiện ở vấn đề nào? Cảm ơn!
 nhược_điểm đàm_phán phong_cách mạnh_mẽ biểu_hiện ở nào
 
-0.4078740194324466
+0.40785476700091106
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi trong đàm phán có sử dụng PP TOWS không? Em cảm ơn thầy cô
 đàm_phán sử_dụng pp tows không
 ----------------------------------------------------------------------------------------------------
 Em thưa Thầy : Trong đàm phán mà gặp phải đối tác đàm phán kiểu cứng, thì mình sử dụng kiểu đàm phán nào là hợp lý và sử dụng như thế nào xin Thầy chỉ dậy.Cảm ơn thầy nhiều
-đàm_phán gặp_phải đối_tác đàm_phán cứng sử_dụng đàm_phán hợp_lý sử_dụng thế_nào dậy nhiều
+đàm_phán gặp_phải đối_tác đàm_phán cứng sử_dụng đàm_phán hợp_lý sử_dụng dậy nhiều
 
-0.3668809911809322
+0.37156290770598904
 
 Thưa thầy cô cho em hỏi trong đàm phán khi nào ta sử dụng đàm phán cứng và đàm phán mềm cảm ơn thầy cô
 đàm_phán khi_nào sử_dụng đàm_phán cứng đàm_phán mềm
 
-0.36044883957728124
+0.36032195909608394
 
 À ý em là bố cục trình bày trên PP, ví dụ slide 1 là thông tin, slide 2 là nội dung ....
 à ý bố_cục trình_bày pp ví_dụ slide 1 thông_tin slide 2
 
-0.35183819865004495
+0.35185739813175265
 
 em chào thầy/cô. Thưa thầy cô cho em hỏi? kiểu đàm phán mềm thường được sử dụng trong trường hợp nào. em cảm ơn thầy cô.
 đàm_phán mềm sử_dụng trường_hợp nào
 
-0.34803633989390415
+0.3479617411956687
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Người nguyên tắc có khi nào sử dụng PP đàm phán ôn hòa không? Em cảm ơn thầy cô
 nguyên_tắc khi_nào sử_dụng pp đàm_phán ôn_hòa không
@@ -694,51 +694,51 @@ nguyên_tắc khi_nào sử_dụng pp đàm_phán ôn_hòa không
 Thưa thầy cô cho em hỏi trong đàm phán khi nào ta sử dụng đàm phán cứng và đàm phán mềm cảm ơn thầy cô
 đàm_phán khi_nào sử_dụng đàm_phán cứng đàm_phán mềm
 
-0.4232812411907949
+0.4232384511328582
 
 Thưa thầy cô cho em hỏi Đàm phán kiểu nguyên tắc ? Em cảm ơn thầy cô!
 đàm_phán nguyên_tắc
 
-0.4222239932071197
+0.4221720121516249
 
 thưa thầy cô, phong cách ôn hòa trong đàm phán là như thế nào ạ? em cảm ơn thầy cô!!!
-phong_cách ôn_hòa đàm_phán thế_nào
+phong_cách ôn_hòa đàm_phán
 
-0.39034474120296453
+0.41793881750746115
 
 Thưa thầy cô cho em hỏi. Luận điểm nào dưới đây không phải là tính chất của kiểu đàm phán nguyên tắc? Chọn một đáp án đúng A) Khi sử dụng kiểu đàm phán nguyên tắc, các đối tác sẽ phải tách biệt giữa tình cảm cá nhân và công việc B) Các đối tác thường coi nhau như địch thủ khi sử dụng kiểu đàm phán nguyên tắc C) Nếu sử dụng kiểu đàm phán nguyên tắc các đối tác sẽ có thể xây dựng được mối quan hệ lâu dài với nhau D) Khi các đối tác đàm phán theo kiểu nguyên tắc họ sẽ sớm đạt được những thỏa thuận như mong đợi Mong Thầy cô giúp em giải đáp. Em cám ơn thầy cô !
 luận_điểm nào dưới_đây không tính_chất đàm_phán nguyên_tắc chọn đáp_án a ) sử_dụng đàm_phán nguyên_tắc đối_tác tách_biệt tình_cảm cá_nhân b ) đối_tác coi nhau địch_thủ sử_dụng đàm_phán nguyên_tắc c ) sử_dụng đàm_phán nguyên_tắc đối_tác xây_dựng mối quan_hệ lâu_dài với_nhau d ) đối_tác đàm_phán nguyên_tắc họ thỏa_thuận mong_đợi
 
-0.388433486548484
+0.38838706789639965
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi Nếu đàm phán kiên định Em cảm ơn thầy cô
 đàm_phán kiên_định
 ----------------------------------------------------------------------------------------------------
 Dear QLHT! Trong đàm phán có 4 kiểu đàm phán . 1. Đàm phán kiểu mềm 2. Đàm phán kiểu nguyên tắc 3. Đàm phán kiểu cứng 4. Đàm phán kiểu lập trường vậy cho e hỏi làm sao có thể nhận biết các kiểu đàm phán đó trong khi giao tiếp
-qlht đàm_phán 4 đàm_phán 1 đàm_phán mềm 2 đàm_phán nguyên_tắc 3 đàm_phán cứng 4 đàm_phán lập_trường làm_sao nhận đàm_phán giao_tiếp
+qlht đàm_phán 4 đàm_phán 1 đàm_phán mềm 2 đàm_phán nguyên_tắc 3 đàm_phán cứng 4 đàm_phán lập_trường nhận đàm_phán giao_tiếp
 
-0.7910218161174769
+0.8052404387121344
 
 Kính thưa Thầy, Thầy cho em hỏi trong bài kỷ năng đàm phán,khi đàm phán với đối tác chỉ được đàm phán 1 lần hay đàm phán nhiều lần mới đi đến thỏa thuận . Cám ơn Thầy.
 bài kỹ_năng đàm_phán đàm_phán đối_tác đàm_phán 1 đàm_phán nhiều thỏa_thuận
 
-0.7444117661177797
+0.7441584562332786
 
 Chào cô ! Cô cho em hỏi đàm phán mềm và đàm phán cứng đàm phán nào quan trọng hơn ? Em xin chân thành cảm ơn !
 đàm_phán mềm đàm_phán cứng đàm_phán nào quan_trọng
 
-0.654733140130593
+0.6544476876276879
 
 thưa thầy cô cho em hỏi trong nội dung của bài học em được biết ( Trong một cuộc đàm phán có thể xảy ra 4 trường hợp ) 1 ,Đàm phán kiểu mềm 2, Đàm phán kiểu cứng 3, Đàm phán kiểu nguyên tắc 4, Đàm phán kiểu lập trường em chưa được hiểu rõ Đàm phán lập trường là thế nào . mong được sự chỉ dẫn của thầy cô em xin cảm ơn
-bài_học ( đàm_phán xảy 4 trường_hợp ) 1 đàm_phán mềm 2 đàm_phán cứng 3 đàm_phán nguyên_tắc 4 đàm_phán lập_trường đàm_phán lập_trường thế_nào chỉ_dẫn
+bài_học ( đàm_phán xảy 4 trường_hợp ) 1 đàm_phán mềm 2 đàm_phán cứng 3 đàm_phán nguyên_tắc 4 đàm_phán lập_trường đàm_phán lập_trường chỉ_dẫn
 
-0.6162966316277487
+0.6207208042846672
 ____________________________________________________________________________________________________
 Thưa thầy cô, cho em hỏi ............................. Em cảm ơn thầy cô
 
 ----------------------------------------------------------------------------------------------------
-Thưa thầy cô cho em hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đám phán. Em cảm ơn thầy cô!
-dấu_hiệu đối_tác không thích nghe lơ nào_đó quá_trình đám phán
+Thưa thầy cô cho em hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đàm phán. Em cảm ơn thầy cô!
+dấu_hiệu đối_tác không thích nghe lơ nào_đó quá_trình đàm_phán
 
 0.0
 
@@ -748,7 +748,7 @@ quá_trình làm_việc đối_tác đàm_phán xây_dựng mối quan_hệ chi�
 0.0
 
 Thưa thầy cô,chi e hỏi.làm thế nào để làm bài thi thật tốt và nhanh.e xin cảm ơn
-chi thế_nào bài_thi thật tốt nhanh
+chi bài_thi thật tốt nhanh
 
 0.0
 
@@ -763,22 +763,22 @@ luận_điểm đám phán mấy dạng
 Chào Thầy Cô! Cho em hỏi để đi đàm phán thì trong buổi đám phán mình đi mấy người thì phù hợp với tiêu chuẩn chung? Em cảm ơn.
 đàm_phán đám phán mấy phù_hợp tiêu_chuẩn chung
 
-0.5401379312798422
+0.5452047978034906
 
 Thưa Thầy Cô, Để có được một cuộc đám phán thành công, yếu tố nào là quan trong nhất? Thầy cô có thể giúp em hiểu chính xác hơn. Em cám ơn Thầy cô
 đám phán thành_công quan nhất chính_xác
 
-0.4312324644477871
+0.43800705394881173
 
 thầy có thể giải thích giúp em sự uyển chuyển của người đàm phán giữa đám phán cứng và mền không ạ em cảm ơn
 giải_thích uyển_chuyển đàm_phán đám phán cứng mền không
 
-0.3846547137972477
+0.391160894918444
 
-Thưa thầy cô cho em hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đám phán. Em cảm ơn thầy cô!
-dấu_hiệu đối_tác không thích nghe lơ nào_đó quá_trình đám phán
+Em chào thầy cô, Trong quá trình đám phán với các đói tác thành công hay không nếu mình cứ bảo vệ quan điểm của mình! Em cám ơn thầy cô.
+quá_trình đám phán đói tác thành_công hay_không cứ bảo_vệ quan_điểm
 
-0.3318543241655196
+0.30535289455324055
 ____________________________________________________________________________________________________
 Thưa cô : cô cho em hỏi trong bài học có cụm từ viết tắt BATNA có nghĩa là gì vậy cô ?
 bài cụm_từ viết tắt batna nghĩa
@@ -809,7 +809,7 @@ bận công_tác ở vùng cao không bài_tập nhà đúng_hạn thời_gian k
 Thưa thầy cô cho em hỏi: Vì bận công tác xa nên em không kịp làm bài tập về nhà đúng hạn vào ngày 29/6. Em muốn xin thầy cô cho em hoàn thành bài tập vào dịp khác được không ạ? Em cám ơn thầy cô!
 bận công_tác xa không kịp bài_tập nhà đúng_hạn 29 6 hoàn_thành bài_tập dịp khác không
 
-0.48097075920843224
+0.48097075920843235
 
 Thưa cô! em có thể làm bài tập về nhà 1 hoặc 2 lần được không? Trân trọng cảm ơn cô!
 bài_tập nhà 1 2 không
@@ -819,12 +819,12 @@ bài_tập nhà 1 2 không
 Thưa cô cho em hỏi nếu bận việc ma ko làm được bài tập về nhà mình có thể xin làm lại không. Cám ơn cô!
 bận ma không bài_tập nhà làm_lại không
 
-0.3841723170370614
+0.38417231703706145
 
 Em xin chào cô ạ. Cô ơi cho em xin gia hạn BTKN EG020.A được không ạ. Thời gian vừa qua em bận quá không có thời gian online cũng như không có thời gian làm bài tập nên không nộp bài EG020.A đúng thời hạn được. Em mong cô tạo điều kiện gia hạn để em có thể hoàn thành bài tập được không ạ ? Em xin chân thành cảm ơn cô !
 gia_hạn btkn eg020 a không thời_gian vừa_qua bận không thời_gian online không thời_gian bài_tập không nộp bài eg020 a thời_hạn tạo điều_kiện gia_hạn hoàn_thành bài_tập không
 
-0.3274886898516789
+0.32748868985167895
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi: Theo em hiểu thì từ BATNA trong môn phát triển kỹ năng có phải là "Phương án thay thế tốt nhất cho một thỏa thuận được thương lượng"? Em cảm ơn cô!
 từ batna môn phát_triển kỹ_năng " phương_án thay_thế tốt nhất thỏa_thuận thương_lượng "
@@ -837,17 +837,17 @@ Thưa Thầy (cô) giáo trong môn học phát triển kỹ năng cá nhân 2 c
 Thưa thấy, cô, Xin thầy cô cho em hỏi về bài giảngnhư sau: BATNA có phải là phương án đàm phán thay thế khi cuộc đàm phán với phương án đàm phán đã chuẩn bị ban đầu thất bại nên mới áp dụng BATNA không? Xn thầy cô giải thích thêm để em nắm rõ hơn. Em xin cám ơn thầy, cô
 bài giảngnhư batna phương_án đàm_phán thay_thế đàm_phán phương_án đàm_phán chuẩn_bị ban_đầu thất_bại áp_dụng batna không xn giải_thích nắm
 
-0.38392736995199916
+0.3839517183374851
 
 thưa thầy cô cho em hỏi kỹ năng phát triển là gì em cám ơn thầy cô
 kỹ_năng phát_triển
 
 0.3399610710619316
 
-Chào thầy cô ạ! Xin cho em hỏi \"Đàm phán\" và \"Thỏa thuận\" khác biệt nhau như thế nào? Người ta thường dùng từ \"đàm phán thương lượng\" vậy đàm phán và thương lượng có khác nhau không ạ? Em xin cảm ơn
-\ " đàm_phán \ " \ " thỏa_thuận \ " khác_biệt nhau thế_nào người_ta thường_dùng từ \ " đàm_phán thương_lượng \ " đàm_phán thương_lượng khác_nhau không
+Chào Thầy! Cho em hỏi, theo kinh nghiệm của Thầy thì làm sao để học tốt môn Phát triển kỹ năng cá nhân 2 này ạ. Cảm ơn Thầy!
+kinh_nghiệm tốt môn phát_triển kỹ_năng cá_nhân 2
 
-0.31625468648175314
+0.32421526268466483
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi: Em thấy trong phần trắc nghiệm 4 có 2 câu trùng nhau, đó là câu 1 và câu 10, vậy là do nhầm lẫn hay hai câu này có ý khác nhau? Em cảm ơn cô!
 trắc_nghiệm 4 2 trùng nhau 1 10 nhầm_lẫn hai có_ý khác_nhau
@@ -878,91 +878,91 @@ bài_tập nhà mất kết_nối hiện_giờ không dòng làm_bài ( hình mi
 Thưa thầy/cô! Bài tập về nhà 1 môn Phát triển kỹ năng cá nhân 2 em bị mất kết nối liên tiếp 3 lần nên không làm bài tiếp được. Khi làm bài có quyền mất kết nối 3 lần nhưng em mất kết nối 3 lần xong thì không vào được nữa. vậy là em không có quyền làm bài tập nữa ạ. Hôm nay em vào thì thấy gia hạn thêm thời gian tơi ngày 1/7 nhưng lại có yêu cầu khóa truy cập (như hình đính kèm). Vậy khóa truy cập là gì ạ. Mong cô hồi âm sớm. Em cảm ơn cô ạ Lê Thị Hồng Dung
 bài_tập nhà 1 môn phát_triển kỹ_năng cá_nhân 2 mất kết_nối liên_tiếp 3 không làm_bài tiếp làm_bài quyền mất kết_nối 3 mất kết_nối 3 xong không không quyền bài_tập gia_hạn thời_gian tơi 1 7 yêu_cầu khóa truy_cập ( hình đính kèm ) khóa truy_cập hồi_âm lê thị hồng dung
 
-0.42398061168248635
+0.42373907206108374
+
+Thưa thầy cô, cho e hỏi sao e làm bài mà nộp bài ko đc.máy báo mất kết nối.và e lại phải làm lại.xin thầy cô giải đáp giúp e.e xin cảm ơn
+làm_bài nộp bài không đc máy báo mất kết_nối
+
+0.351330452265756
 
 Em chào cô! Thưa cô! vừa rồi em đang làm bài tập VN nhưng đang làm gần xong thì mạng bị mất kết nối nếu như vậy thì mình có được làm 3 lần làm bài ko cô EM cảm ơn cô
 vừa bài_tập vn gần xong mạng mất kết_nối 3 làm_bài không
 
-0.34948751144492773
+0.3491253524127717
 
 Thưa cô! em có thể làm bài tập về nhà 1 hoặc 2 lần được không? Trân trọng cảm ơn cô!
 bài_tập nhà 1 2 không
 
-0.31947443288983346
-
-Em chào Thầy, Cô , Em thấy bài học MÔN EG020 bài giảng hay, nhưng về phần Ví Dụ minh họa em thấy chưa rõ và xâu . Em mong thầy, cô chỉ cho chúng em nhiều dẫn chứng minh họa va thêm kiến thức bên ngoài thực tế mà Thầy, Cô thấy được ah . Em xin cám ơn thầy, cô nhiều lắm ah ,
-bài_học môn eg020 về_phần ví_dụ minh_họa xâu nhiều dẫn chứng minh_họa va kiến_thức bên_ngoài thực_tế nhiều
-
-0.2584779875329764
+0.319556722262094
 ____________________________________________________________________________________________________
 Thưa cô! Đàm phán cứng với đàm phán lập trường có phải là một kiểu?
 đàm_phán cứng đàm_phán lập_trường
 ----------------------------------------------------------------------------------------------------
 thưa thầy cô cho em hỏi trong nội dung của bài học em được biết ( Trong một cuộc đàm phán có thể xảy ra 4 trường hợp ) 1 ,Đàm phán kiểu mềm 2, Đàm phán kiểu cứng 3, Đàm phán kiểu nguyên tắc 4, Đàm phán kiểu lập trường em chưa được hiểu rõ Đàm phán lập trường là thế nào . mong được sự chỉ dẫn của thầy cô em xin cảm ơn
-bài_học ( đàm_phán xảy 4 trường_hợp ) 1 đàm_phán mềm 2 đàm_phán cứng 3 đàm_phán nguyên_tắc 4 đàm_phán lập_trường đàm_phán lập_trường thế_nào chỉ_dẫn
+bài_học ( đàm_phán xảy 4 trường_hợp ) 1 đàm_phán mềm 2 đàm_phán cứng 3 đàm_phán nguyên_tắc 4 đàm_phán lập_trường đàm_phán lập_trường chỉ_dẫn
 
-0.759221974334018
+0.7649122390257633
 
 Dear QLHT! Trong đàm phán có 4 kiểu đàm phán . 1. Đàm phán kiểu mềm 2. Đàm phán kiểu nguyên tắc 3. Đàm phán kiểu cứng 4. Đàm phán kiểu lập trường vậy cho e hỏi làm sao có thể nhận biết các kiểu đàm phán đó trong khi giao tiếp
-qlht đàm_phán 4 đàm_phán 1 đàm_phán mềm 2 đàm_phán nguyên_tắc 3 đàm_phán cứng 4 đàm_phán lập_trường làm_sao nhận đàm_phán giao_tiếp
+qlht đàm_phán 4 đàm_phán 1 đàm_phán mềm 2 đàm_phán nguyên_tắc 3 đàm_phán cứng 4 đàm_phán lập_trường nhận đàm_phán giao_tiếp
 
-0.7222514247189742
+0.7352907465531076
 
 Thưa thầy cô cho em hỏi Đàm phán kiểu cứng là gì? Em cảm ơn thầy cô!
 đàm_phán cứng
 
-0.7197501984052096
+0.7196466197048417
 
 Thưa thầy cô cho em hỏi Trong bài kỉ năng đàm phán thì kiểu đàm phán cứng và lập trường được xem là chung một loại kiểu đàm phán Nhưng trong khi làm bài tập trắc nghiệm cùng đưa ra một kết quả đúng nhất về kiểu đàm phán cứng và lập trường trên mà có 2 sự lựa chọn là vừa đàm phán kiểu cứng, vừa đám phán kiểu lập trường nhưng chỉ được chọn một kết quả đúng nhất thì trường hợp trên chọn 1 trong 2 kiểu đàm phán đó có được tính là đúng không ạ? Em cám ơn thầy cô!
 bài kỉ năng đàm_phán đàm_phán cứng lập_trường chung loại đàm_phán bài_tập trắc_nghiệm kết_quả nhất đàm_phán cứng lập_trường 2 lựa_chọn vừa đàm_phán cứng vừa đám phán lập_trường chọn kết_quả nhất_thì trường_hợp chọn 1 2 đàm_phán tính không
 
-0.7056945168435618
+0.7050741523798449
 ____________________________________________________________________________________________________
 Thưa cô cho e hỏi môn học phát triển kỷ băng 2 này áp dụng vào cuộc sống này như thế nào vậy cô
-môn_học phát_triển kỷ băng 2 áp_dụng cuộc_sống thế_nào
+môn_học phát_triển kỷ băng 2 áp_dụng cuộc_sống
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi: Làm thế nào để áp dụng những kĩ năng mềm vào cuộc sống hằng ngày? Em xin cảm ơn!
-thế_nào áp_dụng kĩ_năng mềm cuộc_sống hằng_ngày
+áp_dụng kĩ_năng mềm cuộc_sống hằng_ngày
 
-0.46129004346510866
+0.4329109868870203
 
 Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
-môn_học thế_nào
+môn_học
 
-0.3651386196287295
+0.29679579045370597
 
-Em kính chào thầy ,cô ạ!cho em hỏi:làm thế nào để em ,có thể học tốt cho môn học này ạ!em xin chân thành cảm ơn thầy cô ạ!
-thế_nào tốt môn_học
+thưa thầy cô cho em hỏi kỹ năng phát triển là gì em cám ơn thầy cô
+kỹ_năng phát_triển
 
-0.2948863331415492
+0.2822594954465174
 
-Dear Thầy/ Cô! Phong cách đàm phán như thế nào thường được áp dụng trong thực tế ạ? Dạ! Em cảm ơn!
-phong_cách đàm_phán thế_nào áp_dụng thực_tế
+Em chào quý thầy cô ! cho em hỏi để áp dụng các phương pháp đàm phán vào cuộc sống thực tiễn hàng ngày thì ttheo quý thầy cô phương pháp nào là hữu dụng hơn cả . Hay là tùy vào từng điều kiện hoàn cảnh cụ thể áp dụng ! Em xin cảm ơn !
+áp_dụng phương_pháp đàm_phán cuộc_sống thực_tiễn hàng_ngày ttheo phương_pháp hữu_dụng hơn_cả hay_là tùy điều_kiện hoàn_cảnh cụ_thể áp_dụng
 
-0.2797717915843046
+0.2717213048557055
 ____________________________________________________________________________________________________
 Chào cô! Môn học EG020 có các kiểu đàm phán; vậy có thể tóm tắt các kiểu ffamf phán như thế nào là ngắn gọn, đầy đủ và dễ hiểu nhất? Xin cảm ơn!
-môn_học eg020 đàm_phán tóm_tắt ffamf phán thế_nào ngắn_gọn đầy_đủ dễ_hiểu nhất
+môn_học eg020 đàm_phán tóm_tắt ffamf phán ngắn_gọn đầy_đủ dễ_hiểu nhất
 ----------------------------------------------------------------------------------------------------
-Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
-môn_học thế_nào
-
-0.27747618182898615
-
 Thưa thầy cô cho em hỏi: Môn EG020 này chúng em cần phải học những gì và được gì khi học môn học này? Em xin chân thành cảm ơn!
 môn eg020 môn_học
 
-0.251934338850691
+0.2552756926776619
 
 Thưa thầy cô .thầy cô cho em hỏi co phương pháp nào để học môn này nhanh và dễ hiểu nhất Em xin cam ơn
 co phương_pháp nào môn nhanh dễ_hiểu nhất cam
 
-0.24832095567923268
+0.25161438594110586
 
-Em kính chào thầy ,cô ạ!cho em hỏi:làm thế nào để em ,có thể học tốt cho môn học này ạ!em xin chân thành cảm ơn thầy cô ạ!
-thế_nào tốt môn_học
+Dạ thưa thầy, cô nội dung môn học này thế nào? Em xin cảm ơn.
+môn_học
 
-0.22409005620075334
+0.22279173646789377
+
+Thưa Thầy Cô, Để có được một cuộc đám phán thành công, yếu tố nào là quan trong nhất? Thầy cô có thể giúp em hiểu chính xác hơn. Em cám ơn Thầy cô
+đám phán thành_công quan nhất chính_xác
+
+0.2214372047130962
 ____________________________________________________________________________________________________
 Chào Cô! E có thắc mắc mong cô giúp đỡ ạ. Trong môn học có phần xác định mục tiêu đàm phán theo nguyên tác SMART, nguyên tắc này mình chỉ tham khỏa hay là bắt buộc áp dụng vào phần xác định mục tiêu đàm phán ạ? E cảm ơn cô.
 giúp_đỡ môn_học xác_định mục_tiêu đàm_phán nguyên_tác smart nguyên_tắc tham khỏa hay_là bắt_buộc áp_dụng xác_định mục_tiêu đàm_phán
@@ -970,22 +970,22 @@ giúp_đỡ môn_học xác_định mục_tiêu đàm_phán nguyên_tác smart n
 Kính thưa thầy/cô! Cho em hỏi - Xác định mục tiêu đàm phán có quan trọng đối với nhà lãnh đạo không? Chân thành cảm ơn thầy/cô Trân trọng !
 xác_định mục_tiêu đàm_phán quan_trọng nhà lãnh_đạo không
 
-0.47407161100598205
+0.4740393385412321
 
 Thưa Thầy (Cô) Để xác định kiểu đàm phán chúng ta cần xác định như thế nào ạ?
-( ) xác_định đàm_phán xác_định thế_nào
+( ) xác_định đàm_phán xác_định
 
-0.42633182419431825
+0.4444974068773164
 
 Chào Các Bạn, Mình có một thắc mắc về môn học EG 20 như sau: Xác định mục tiêu của việc đàm phán có quan trọng không? BATNA là gì? CẢM ƠN CÁC BẠN, vtmle
 môn_học eg 20 xác_định mục_tiêu đàm_phán quan_trọng không batna vtmle
 
-0.4094172021822412
+0.40938969243278356
 
 Chào cô cô cho em hỏi? Làm thế nào để chúng ta xác định được thành công trong đàm phán? em cảm ơn Cô
-thế_nào xác_định thành_công đàm_phán
+xác_định thành_công đàm_phán
 
-0.3437362762838447
+0.37676132809840934
 ____________________________________________________________________________________________________
 Thưa các thầy cô!Mấy hôm nay vào đăng nhập lớp học quá khó.
 mấy đăng nhập lớp_học khó
@@ -1011,27 +1011,27 @@ kết_thúc môn_học ( lớp_học đóng ) thời_gian rảnh đăng nhập �
 0.4295754141528024
 ____________________________________________________________________________________________________
 Thưa Thầy/Cô cho em hỏi? Đàm phán theo nguyên tắc SMART là như thế nào ạ. Em cảm ơn!
-đàm_phán nguyên_tắc smart thế_nào
+đàm_phán nguyên_tắc smart
 ----------------------------------------------------------------------------------------------------
 Em xin chào thầy cô . Thầy cô cho em hỏi Phương pháp SMART có vai trò như thế nào trong cuộc đàm phán ? Khi nào trong cuộc đàm phán chúng ta cần dùng đến SMART ? Em xin cảm ơn
-phương_pháp smart vai_trò thế_nào đàm_phán khi_nào đàm_phán cần_dùng smart
+phương_pháp smart vai_trò đàm_phán khi_nào đàm_phán cần_dùng smart
 
-0.6574666433346782
+0.6496992509944844
 
 Thưa thầy cô cho em hỏi Đàm phán kiểu nguyên tắc ? Em cảm ơn thầy cô!
 đàm_phán nguyên_tắc
 
-0.5860369293982479
+0.6165695141974529
 
 Em chào Thầy ! Thầy cho em hỏi : Trong trường hợp nào nên đàm phán kiểu nguyên tắc.Những khó khăn khi đàm phán kiểu nguyên tắc thường gặp là gì? Cám ơn Thầy.
 trường_hợp nào đàm_phán nguyên_tắc khó_khăn đàm_phán nguyên_tắc gặp
 
-0.44535253927086815
+0.4685257912425365
 
 Chào thầy cô : THầy cô có thể giải thích rõ hơn về phương pháp SMART và xác định BATNA là gì không ah . Em cảm ơn .
 giải_thích phương_pháp smart xác_định batna không
 
-0.43411461454285155
+0.45680046685689407
 ____________________________________________________________________________________________________
 Thưa thầy cô cho em hỏi Một cuộc đàm phán thành công thì yếu tố nào quyết định và quan trọng nhất ạ
 đàm_phán thành_công nào quyết_định quan_trọng nhất
@@ -1039,22 +1039,22 @@ Thưa thầy cô cho em hỏi Một cuộc đàm phán thành công thì yếu t
 Thưa giảng viên cho em hỏi: Trong các yếu tố quyết định một cuộc đàm phán thành công, thì yếu tố nào là quan trọng nhất. Vì sao? Em cảm ơn giảng viên ạ!
 quyết_định đàm_phán thành_công quan_trọng nhất vì_sao
 
-0.8483876120487363
+0.8483753838823117
 
 Kính thưa Thầy, Cô Thầy, Cô vui lòng cho em hỏi: Ba yếu tố quan trọng trong đàm phán là Thời gian, thông tin và thế mạnh. Thường thì yếu tố nào sẽ quyết định cuộc đàm phán thành công ạ. Em cảm ơn Thầy, Cô!
 ba quan_trọng đàm_phán thời_gian thông_tin thế_mạnh nào quyết_định đàm_phán thành_công
 
-0.6351123170566083
+0.635071244524402
 
 Kính thưa thầy, cô ! Để cho một buổi thuyết trình thành công điều quan trọng nhất ở người thuyết trình cần chuẩn bị tốt những yếu tố nào. Xin cám ơn thầy cô!
 thuyết_trình thành_công quan_trọng nhất ở thuyết_trình chuẩn_bị tốt nào
 
-0.5269657122305762
+0.5269892445787254
 
 Chào cô: Cô ơi, cho em hỏi: để cuộc đàm phán thành công thì cần những yếu tố nào ạ? Em cảm ơn!
 đàm_phán thành_công nào
 
-0.518293095690958
+0.5182300751578564
 ____________________________________________________________________________________________________
 Em chào thầy cô Cho em hỏi : Một cuộc đàm phán thành công cần yếu tố nào ạ Em cảm ơn
 đàm_phán thành_công nào
@@ -1062,22 +1062,22 @@ Em chào thầy cô Cho em hỏi : Một cuộc đàm phán thành công cần y
 Chào cô: Cô ơi, cho em hỏi: để cuộc đàm phán thành công thì cần những yếu tố nào ạ? Em cảm ơn!
 đàm_phán thành_công nào
 
-1.0000000000000002
+1.0
+
+Thưa thầy cô cho em hỏi:làm sao để có một cuộc đàm phán thành công? Em cảm ơn!
+đàm_phán thành_công
+
+0.8412435667642304
+
+thưa thầy cô Cho em hỏi làm thế nào để có 1 cuộc đàm phán thành công ạ E cám ơn thầy cô
+1 đàm_phán thành_công
+
+0.8412435667642304
 
 Thưa thầy cô, cho em hỏi. Để có một cuộc đàm phán thành công thì ta cần phải làm gì ạ? em xin cảm ơn thầy cô
 đàm_phán thành_công
 
-0.8413013243298846
-
-thưa thầy cô Cho em hỏi làm thế nào để có 1 cuộc đàm phán thành công ạ E cám ơn thầy cô
-thế_nào 1 đàm_phán thành_công
-
-0.7006772893697668
-
-Thưa thầy cô cho em hỏi:làm sao để có một cuộc đàm phán thành công? Em cảm ơn!
-làm_sao đàm_phán thành_công
-
-0.6173987251273985
+0.8412435667642304
 ____________________________________________________________________________________________________
 Em chào cô thầy Em đã quên làm bài tập về nhà rồi
 quên bài_tập nhà
@@ -1103,35 +1103,35 @@ bài_tập kỹ_năng cá_nhân 2 bài_tập nhà 1 bài_tập nhà môn không 
 0.43414097420240305
 ____________________________________________________________________________________________________
 Thưa cô, Cho em hỏi cách nhận biết các kiểu thuyết trình như thế nào? Em xin cảm ơn.
-nhận_biết thuyết_trình thế_nào
+nhận_biết thuyết_trình
 ----------------------------------------------------------------------------------------------------
-Thưa thầy cô cho em hỏi? Làm thế nào để mình nhận biết được kết quả đối tác đồng ý trong lúc giao tiếp
-thế_nào nhận_biết kết_quả đối_tác đồng_ý trong_lúc giao_tiếp
-
-0.4934824575726932
-
 Chào Thầy/cô,cho em hỏi làm sao nhận biết giữa đàm phán cứng và đàm phán nguyên tắc?e cảm ơn!!
-làm_sao nhận_biết đàm_phán cứng đàm_phán nguyên_tắc
+nhận_biết đàm_phán cứng đàm_phán nguyên_tắc
 
-0.48760107883390236
+0.5652369597672096
 
-Thưa thầy cô! Muốn tự tin khi thuyết trình thì ta phải làm như thế nào? Em cảm ơn thầy cô!
-tự_tin thuyết_trình thế_nào
+Thưa thầy cô cho em hỏi? Làm thế nào để mình nhận biết được kết quả đối tác đồng ý trong lúc giao tiếp
+nhận_biết kết_quả đối_tác đồng_ý trong_lúc giao_tiếp
 
-0.3447645785819179
+0.4552717521909956
 
-Thưa thầy cô cho em hỏi? Làm thế nào để tự tin khi thuyết trình ạ? em xin chân thành cảm ơn thầy cô
-thế_nào tự_tin thuyết_trình
+thưa thầy cô cho em hỏi ? Làm cách nào để nhận biết tính cách của đối tác khi mới tiếp xúc lần đầu để chọn phong cách giao tiếp cho phù hợp. em cám ơn thầy cô.
+nào nhận_biết tính_cách đối_tác tiếp_xúc đầu chọn phong_cách giao_tiếp phù_hợp
 
-0.3447645785819179
+0.36095402157864664
+
+Thưa thầy cô cho em hỏi Cách nhận biết biết phong cách của đối tác qua diện mạo bên ngoài hoặc cử chỉ giọng nói. Em cảm ơn thầy cô
+nhận_biết phong_cách đối_tác diện_mạo bên_ngoài cử_chỉ giọng nói
+
+0.348397303419212
 ____________________________________________________________________________________________________
 Em chào thầy, cô! Em đang dùng ipad nhưng không thể xem video bài giảng được. Nhờ thầy cô giúp em, em xin cảm ơn!
 ipad không_thể video
 ----------------------------------------------------------------------------------------------------
 Thưa thầy / cô Cho em hỏi giáo trình học mà chúng em học có hỗ trợ cho máy Ipad không ạ. Nếu không hỗ trợ cho máy Ipad mà em muốn dùng máy Ipad để học thì phải cài đặt như thế nào thì học được. Vì tính chất công việc nền em không thể dùng máy tính thường xuyên được. Mong kỹ thuật có thể hỗ trợ giúp em phần này được không. em xin cảm ơn
-giáo_trình hỗ_trợ máy ipad không nếu_không hỗ_trợ máy ipad máy ipad thì_phải cài_đặt thế_nào tính_chất nền không_thể máy_tính thường_xuyên kỹ_thuật hỗ_trợ_giúp không
+giáo_trình hỗ_trợ máy ipad không nếu_không hỗ_trợ máy ipad máy ipad thì_phải cài_đặt tính_chất nền không_thể máy_tính thường_xuyên kỹ_thuật hỗ_trợ_giúp không
 
-0.5122141382259161
+0.5137830937472709
 
 Thưa thầy,cô : em không thể xem bài giảng video trên máy tính bảng, đt vậy em cần cài thêm gì thì mới xem được ạ, Em xin cảm ơn
 không_thể video máy_tính bảng đt cài
