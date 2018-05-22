@@ -169,7 +169,7 @@ class TfidfModel(Data):
         self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
 
 
-model = TfidfModel(path+'/data/train_50.txt',path+'/data/corpus_train_50.txt')
-model.stemming(path+"/data/stemming_corpus.txt")
+model = TfidfModel('data/train.txt','/data/corpus_train_50.txt')
+model.stemming("data/stemming_corpus.txt")
 
 

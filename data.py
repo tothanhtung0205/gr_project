@@ -46,7 +46,7 @@ class Data(object):
         sen = sen.replace(u"thành công_của", u"thành_công của")
         sen = sen.replace(u"học_tập trung", u"học tập_trung")
         for c in sen:
-            if c in [u"-", u"?", u"!", u",", u";", u".", u":", u'/']:
+            if c in [u"-", u"?", u"!", u",", u";", u".", u":", u'/',u'\'',u'\"']:
                 sen = sen.replace(c, u" ")
         return sen
 

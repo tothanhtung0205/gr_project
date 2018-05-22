@@ -7,7 +7,7 @@ from io import open
 from threading import Thread
 from tfidf_model import TfidfModel
 
-model = TfidfModel('data/train_50.txt','data/corpus_train_50.txt')
+model = TfidfModel('data/train.txt','data/corpus_train_50.txt')
 app = Flask('qa')
 
 
@@ -46,18 +46,18 @@ def update():
     return "OK"
 
 
-
-@app.route('/teach', methods=['GET'])
-def teacher_page():
-    return render_template('teacher.html')
-
-@app.route('/teacher', methods=['POST'])
-def ans_by_teacher():
-    data = request.get_data()
-    data = json.dumps(data)
-    print(" Get question ") + data
-    #return redirect(url_for('teach',data = data))
-    return  render_template('teacher.html',data = data)
+#
+# @app.route('/teach', methods=['GET'])
+# def teacher_page():
+#     return render_template('teacher.html')
+#
+# @app.route('/teacher', methods=['POST'])
+# def ans_by_teacher():
+#     data = request.get_data()
+#     data = json.dumps(data)
+#     print(" Get question ") + data
+#     #return redirect(url_for('teach',data = data))
+#     return  render_template('teacher.html',data = data)
 
 if __name__ == '__main__':
     app.run(port = 8008)

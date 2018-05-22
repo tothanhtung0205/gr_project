@@ -116,6 +116,6 @@ class TfidfModel(Data):
         print arr
         return arr
 
-model = TfidfModel('data/train_50.txt','data/corpus_train_50.txt')
+model = TfidfModel('data/train.txt','data/corpus_train.txt')
 x = model.get_similar_sen(u"Để đàm phán tốt cần có kỹ năng gì",4)
-print x
+print len(model.vect.get_feature_names())

@@ -15,29 +15,6 @@ class AvgW2vModel(Data):
     def __init__(self,train,corpus_file):
         super(AvgW2vModel,self).__init__(train,corpus_file)
 
-    # def get_vocalbulary(self):
-    #
-    #     try:
-    #         ques = joblib.load("ques.bin")
-    #         ans = joblib.load("ans.bin")
-    #     except:
-    #
-    #         ques = self.data
-    #         for i,sen in enumerate(ques):
-    #             ques[i] = word_sent(sen,format="text").split(" ")
-    #             print ("Tokenize sen " + str(i))
-    #
-    #         ans = self.ans_list
-    #         for i,ans_sen in enumerate(ans):
-    #             ans[i] = word_sent(ans_sen,format="text").split(" ")
-    #             print ("Add answer to sens list " + str(i))
-    #
-    #         joblib.dump(ques,"ques.bin")
-    #         joblib.dump(ans,"ans.bin")
-    #     self.ques = ques
-    #     self.ans = ans
-    #     return ques,ans
-
     def train(self):
         ques_list = self.corpus
         ans_list = self.get_corpus_from_file(path+"/data/corpus_ans.txt")
@@ -45,21 +22,21 @@ class AvgW2vModel(Data):
         ans_list_list = [ans.split(" ") for ans in ans_list]
         sens = ques_list_list + ans_list_list
         print("Training model...")
-        w2v_model = Word2Vec(sens,size=300,window=5,min_count=0,workers=4)
+        w2v_model = Word2Vec(sens,size=100,window=5,min_count=0,workers=4)
         self.w2v_model = w2v_model
 
     def sen_to_vec(self,sen):
         model = self.w2v_model
-        vect_sen = np.zeros(shape=(300))
+        vect_sen = np.zeros(shape=(100))
         size  = len(sen)
         words= sen.split(" ")
         for word in words:
             try:
                 word2vec = model[word]
             except:
-                print word
+                word2vec = np.zeros(shape=(100))
             vect_sen = vect_sen+word2vec
-
+        print vect_sen
         return vect_sen/size
 
     def get_sent2vec_matrix(self):
@@ -71,6 +48,7 @@ class AvgW2vModel(Data):
         self.sen2vec_matrix = sent_vec_matrix
 
     def get_new_sen_sent2vec(self,new_sen):
+        new_sen = self.pre_process(new_sen)
         new_sen = new_sen.split()
         word_dict = self.w2v_model.wv.vocab
         word_dict = [key for key in word_dict]
@@ -101,15 +79,14 @@ class AvgW2vModel(Data):
             raw_sen = data[max_idx]
             sen = corpus[max_idx]
             ans = ans_list[max_idx]
-            # similar_sen_list.append(raw_sen+u"\n"+sen+u"\n" + unicode(max_val))
             similar_sen_list.append([raw_sen, sen, unicode(max_val), ans])
             cos_sim[max_idx] = -1
-        # return "\n\n".join(similar_sen_list)
         return (similar_sen_list)
-
-# avg_w2v_model = AvgW2vModel('data/train_50.txt','data/corpus_train_50.txt')
-# avg_w2v_model.train()
-# avg_w2v_model.get_sent2vec_matrix()
+    def run(self):
+        self.train()
+        self.get_sent2vec_matrix()
+# avg_w2v_model = AvgW2vModel('data/train.txt','data/corpus_train.txt')
+# avg_w2v_model.run()
 # print avg_w2v_model
 # x = avg_w2v_model.get_similar_sen(u"cấu_trúc bài thuyết trình bao gồm mấy phần")
 # print x
