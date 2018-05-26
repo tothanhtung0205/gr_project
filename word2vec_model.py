@@ -72,7 +72,7 @@ class AvgW2vModel(Data):
         tfidf_new = [tfidf_new]
         cos_sim = cosine_similarity(tfidf_new, sent2vec_matrix)
         cos_sim = cos_sim[0]
-        for i in xrange(4):
+        for i in xrange(1):
             max_val = max(cos_sim)
             max_idx = np.where(cos_sim == max_val)
             max_idx = max_idx[0][0]

@@ -1,21 +1,27 @@
 # -*- coding=utf-8 -*-
 # author = "tungtt"
-
+from time import time
 from data import Data
 import numpy as np
 from io import open
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-# from underthesea import word_sent
+from underthesea import word_sent
 from collections import Counter
+from sklearn.externals import joblib
+from sklearn.cluster import KMeans
 
 class TfidfModel(Data):
 
-    def __init__(self,train,corpus_file):
+    def __init__(self,train,corpus_file,clustering = False):
         super(TfidfModel,self).__init__(train,corpus_file)
         self.vect = TfidfVectorizer()
+        t0 = time()
         self.corpus_tfidf_matrix = self.vect.fit_transform(self.corpus)
-
+        print("Calculate tfidf in %f s" %(time() - t0) )
+        self.cluster_or_not = clustering
+        if clustering == True:
+            self.clustering()
 
     def update(self,new_sen,new_ans):
         """
@@ -46,7 +52,7 @@ class TfidfModel(Data):
         f_w.close()
 
 
-    def get_new_sen_tfidf(self,new_sen):
+    def get_new_sen_tfidf(self,new_sen,vect):
         """
         preprocess new_sen , remove word that not exist in dictionary
         Calculate TFIDF of new sentence
@@ -55,8 +61,8 @@ class TfidfModel(Data):
         """
         new_sen = self.pre_process(new_sen)
         new_sen = new_sen.split()
-        dict = self.vect.get_feature_names()
-        idf = self.vect.idf_
+        dict = vect.get_feature_names()
+        idf = vect.idf_
         removed_sen = []
         for word in new_sen:
             if (word in dict):
@@ -79,15 +85,32 @@ class TfidfModel(Data):
         :return: list of 4 similar sentences with new_sen
          element of list : [raw_sen,corpus_sen,cosine,answer]
         """
-        tfidf_matrix = self.corpus_tfidf_matrix
-        data = self.data
-        ans_list = self.ans_list
-        corpus = self.corpus
+
+
+
+        # todo getclust()
+        if self.cluster_or_not == True:
+            clust = self.get_cluster(new_sen)
+            tfidf_matrix = self.clusters_list[clust]["tfidf_matrix"]
+            data = self.clusters_list[clust]["data"]
+            ans_list = self.clusters_list[clust]["ans_list"]
+            corpus = self.clusters_list[clust]["corpus"]
+            vect = self.clusters_list[clust]["vect"]
+            print("Get data from clust %d" %clust)
+
+        else:
+            tfidf_matrix = self.corpus_tfidf_matrix
+            data = self.data
+            ans_list = self.ans_list
+            corpus = self.corpus
+            vect = self.vect
 
         similar_sen_list = []
-        tfidf_new = self.get_new_sen_tfidf(new_sen)
+        tfidf_new = self.get_new_sen_tfidf(new_sen,vect)
         tfidf_new = [tfidf_new]
+        t0 = time()
         cos_sim = cosine_similarity(tfidf_new, tfidf_matrix)
+        print("Calculate cosine similar in %f s" %(time()-t0))
         cos_sim = cos_sim[0]
         for i in xrange(num_sens):
             max_val = max(cos_sim)
@@ -107,15 +130,64 @@ class TfidfModel(Data):
         :param new_sen:
         :return: list of similar sen that cosine > 0.4
         """
-        sen_list = self.get_similar_sen(new_sen,4)
+        sen_list = self.get_similar_sen(new_sen,3)
         arr = []
         for sen in sen_list:
-            if float(sen[2]) > 0.4:
+            if float(sen[2]) > 0.6:
                 arr.append([sen[0],sen[3]])
         # return [[sen[0],sen[3]] for sen in sen_list]
         print arr
         return arr
 
-model = TfidfModel('data/train.txt','data/corpus_train.txt')
-x = model.get_similar_sen(u"Để đàm phán tốt cần có kỹ năng gì",4)
-print len(model.vect.get_feature_names())
+    #clustering
+    def clustering(self):
+        try:
+            self.centers = joblib.load("centers.bin")
+            self.clusters_list = joblib.load("clusters_list.bin")
+            print("Get K-means from file")
+            for i,clust in enumerate(self.clusters_list):
+                self.clusters_list[i]["vect"] = TfidfVectorizer()
+                self.clusters_list[i]["tfidf_matrix"]   =   self.clusters_list[i]["vect"].fit_transform(clust["corpus"])
+        except:
+            k = 4
+            km = KMeans(n_clusters=k, init='k-means++', max_iter=100, n_init=1)
+            tfidf_matrix = self.corpus_tfidf_matrix
+            t0 = time()
+            km.fit(tfidf_matrix)
+            print("Clustering time %f" %(time()-t0))
+            clusters = km.predict(tfidf_matrix)
+            self.centers = km.cluster_centers_
+            joblib.dump(self.centers, "centers.bin")
+
+
+            f = []
+            for j in xrange(0,k):
+                a = {"data":[],"corpus":[],"ans_list":[]}
+                f.append(a)
+            for i,clust in enumerate(clusters):
+                f[clust]["data"].append(self.data[i])
+                f[clust]["corpus"].append(self.corpus[i])
+                f[clust]["ans_list"].append(self.ans_list[i])
+
+            self.clusters_list = f
+            joblib.dump(self.clusters_list,"clusters_list.bin")
+
+
+    def get_cluster(self,new_sen):
+        centers = self.centers
+        tfidf = self.get_new_sen_tfidf(new_sen,self.vect)
+        tfidf = [tfidf]
+        cos_sim = cosine_similarity(tfidf,centers)
+        cos_sim = cos_sim[0]
+        max_val = max(cos_sim)
+        max_idx = np.where(cos_sim == max_val)
+        vlue = max_idx[0][0]
+        return vlue
+
+if __name__ == "__main__":
+    model = TfidfModel('data/train.txt','data/corpus_train.txt',clustering=True)
+    test = model.get_similar_sen(u"cấu trúc bài thuyết trình gồm mấy phần",4)
+    test = model.get_similar_sen(u"Đàm phán cứng và đàm phán mềm khác nhau thế nào", 4)
+    test = model.get_similar_sen(u"Cho em hỏi khi nào nộp bài tập", 4)
+    test = model.get_similar_sen(u"Thưa thầy cô cho em hỏi : Kỹ năng thuyết phục là gì vậy. Em cảm ơn thầy cô!",4)
+    print test

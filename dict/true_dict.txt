@@ -513,7 +513,6 @@ chỉ_đạo
 chỉ_định
 chỉnh
 chỉnh_tề
-chị
 chị_em
 chịu
 chịu_khó
@@ -645,7 +644,6 @@ có_số_lượng
 có_thế
 có_thể_từ
 có_tài_liệu
-có_vẻ
 có_ích
 có_ý
 cô_giang
@@ -1689,7 +1687,6 @@ làm_người
 làm_nên
 làm_phiền
 làm_quen
-làm_sao
 làm_theo
 làm_việc
 làm_vì
@@ -2126,7 +2123,6 @@ nhân_viên
 nhân_vì
 nhân_vật
 nhã
-nhé
 nhìn
 nhìn_nhận
 nhìu
@@ -2887,7 +2883,6 @@ thành_viên
 thành_đạt
 thànhc
 thào
-thày
 thác
 thách_thức
 thái
@@ -2982,7 +2977,6 @@ thẻ
 thế_là
 thế_mạnh
 thế_nhưng
-thế_nào
 thế_nào_là
 thế_này
 thế_và
@@ -4024,7 +4018,6 @@ zopa
 ấn
 ấn_tượng
 ấp_úng
-ấy
 ầm_ĩ
 ậy
 ẹm

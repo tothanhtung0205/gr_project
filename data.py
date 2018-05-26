@@ -1,11 +1,14 @@
 # -*- coding=utf-8 -*-
 # author = "tungtt"
+
+
 from underthesea import word_sent
 from io import open
 
 class Data(object):
 
     def __init__(self,train,corpus_file):
+
         self.data,self.ans_list = self.read_data(train)
         self.stw_list = self.get_stw_list()
         self.corpus = self.get_corpus_from_file(corpus_file)
@@ -39,8 +42,6 @@ class Data(object):
         # todo tao file replace
         sen = sen.replace(u"bài tập", u"bài_tập")
         sen = sen.replace(u"học tập", u"học_tập")
-        sen = sen.replace(u"ko", u"không")
-        sen = sen.replace(u' e ', u' em ')
         sen = sen.replace(u"kỷ năng", u"kỹ_năng")
         sen = sen.replace(u"biểu hiện", u"biểu_hiện")
         sen = sen.replace(u"thành công_của", u"thành_công của")
@@ -74,7 +75,6 @@ class Data(object):
         return corpus
 
 
-
     def get_stw_list(seft):
         stw_list = []
         with open("dict/stopwords.txt", "r", encoding="utf-8") as f:
@@ -102,5 +102,5 @@ class Data(object):
                 test_list.append(sen)
         return test_list
 
-
-
+data = Data("data/train.txt" , "data/corpus_train.txt")
+print data

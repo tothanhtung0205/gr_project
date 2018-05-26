@@ -103,54 +103,11 @@
         postRequest(params,url,setAnswerContent);
     }
 
-
-
-//     function getAllAnswer2() {
-        
-//         $("#send_teacher").html("<input onclick=sendToTeacher() class='btn btn-warning' type='button' value='Gửi câu hỏi đến giảng viên'>")
-//         var http = new XMLHttpRequest();
-//         var url = "http://127.0.0.1:8008/qa";
-//         var params = document.getElementById("question").value;
-//         http.open("POST", url, true);
-// //Send the proper header information along with the request
-//         http.setRequestHeader("Content-type", "text/plain; charset=UTF-8");
-//         http.onreadystatechange = function () {//Call a function when the state changes.
-//             if (http.readyState == 4 && http.status == 200) {
-
-//                 var res = http.responseText;
-
-//                 if (res == "none") {
-//                 $(".btn_ans").html("<h3>Hệ thống chưa có câu trả lời . Vui lòng đặt câu hỏi trực tiếp cho giáo viên</h3>");
-//                 $(".ans_content").html("");
-//                 }
-//                 else{
-//                 var x = JSON.parse(res);
-//                 $(".ans_content").html("");
-//                 $(".btn_ans").html("");
-//                 for (i=0;i<x.length;i++) {
-//                  click1 = JSON.stringify(x[i]);
-//                     var r=$('<input/>').attr({
-//                         id:"btn"+(i+1),
-//                         type: "button",
-//                         value: "Câu trả lời"+(i+1),
-//                         data:click1,
-//                         class:"btn btn-success"
-//                     });
-//                     $(".btn_ans").append(r)
-//                 }
-                    
-//             }
-//             }
-//         }
-//         http.send(params);
-
-//     }
-
 </script>
 
 </head>
 
-<body>
+<body style="margin-left:10px">
 <div style="width:50%;float:left">
     <div class="form-group">
     <h3>Hệ thống hỏi đáp môn phát triển kỹ năng cá nhân</h3>
