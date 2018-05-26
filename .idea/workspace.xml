@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3589a2f2-93e8-4ab0-b94d-1ef89f658687" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/split_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/stemming_corpus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/create_synonym.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/dict_after_stemming.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/final_syndict.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/nomed_dict.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/replace_space.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/syndict.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/syndict_eg020.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/synonym_dict.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/adj.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/interj.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.act.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.attribute.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.cognition.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.communication.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.event.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.feeling.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.group.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.motive.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.person.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.process.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.relation.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.state.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/noun.time.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.change.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.cognition.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.communication.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.competition.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.contact.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.creation.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.emotion.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.motion.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.perception.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.possession.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.social.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dict/vi-wordnet/verb.stative.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stemming/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stemming/tfidf_model_stemming.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/answer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/jinja2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/teacher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/test_hieuqua.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thongke/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thongke/tfidf_created_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thongke/w2v_created_test.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/created_test.txt" afterPath="$PROJECT_DIR$/data/test_created.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/test_50.txt" afterPath="$PROJECT_DIR$/data/test.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/index.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.py" afterPath="$PROJECT_DIR$/data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/train.txt" afterPath="$PROJECT_DIR$/data/train.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dict/stopwords.txt" afterPath="$PROJECT_DIR$/dict/stopwords.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.py" afterPath="$PROJECT_DIR$/server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tfidf_model.py" afterPath="$PROJECT_DIR$/tfidf_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thongke.py" afterPath="$PROJECT_DIR$/thongke.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thongke/tfidf_test_50.txt" afterPath="$PROJECT_DIR$/thongke/tfidf_test_50.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word2vec_model.py" afterPath="$PROJECT_DIR$/word2vec_model.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,41 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="0.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clust/0.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tfidf_test_created.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thongke/tfidf_test_created.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="w2v_created.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thongke/w2v_created.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="w2v_test_50.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thongke/w2v_test_50.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -135,8 +50,8 @@
       <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="162" lean-forward="false" selection-start-line="4" selection-start-column="162" selection-end-line="4" selection-end-column="162" />
+            <state relative-caret-position="345">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="137" />
               <folding />
             </state>
           </provider>
@@ -145,8 +60,8 @@
       <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="-335">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
                 <element signature="e#44#94#0" expanded="true" />
               </folding>
@@ -154,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tfidf_model.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tfidf_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tfidf_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2025">
+            <state relative-caret-position="-364">
               <caret line="135" column="34" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
               <folding>
                 <element signature="e#43#64#0" expanded="true" />
@@ -166,11 +81,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="109" column="16" lean-forward="false" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1527353354723" expanded="true" signature="154:444" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18735">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/jquery.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22480" lean-forward="false" selection-start-line="3" selection-start-column="22480" selection-end-line="3" selection-end-column="22480" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5355">
+              <caret line="6" column="4886" lean-forward="false" selection-start-line="6" selection-start-column="4886" selection-end-line="6" selection-end-column="4886" />
               <folding />
             </state>
           </provider>
@@ -226,9 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/corpus_train.txt" />
-        <option value="$PROJECT_DIR$/tfidf.py" />
-        <option value="$PROJECT_DIR$/model.py" />
         <option value="$PROJECT_DIR$/templates/test_hieuqua.html" />
         <option value="$PROJECT_DIR$/test_schedule.py" />
         <option value="$PROJECT_DIR$/temp.txt" />
@@ -275,8 +220,11 @@
         <option value="$PROJECT_DIR$/word2vec_model.py" />
         <option value="$PROJECT_DIR$/server.py" />
         <option value="$PROJECT_DIR$/tfidf_model.py" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/thongke.py" />
+        <option value="$PROJECT_DIR$/static/jquery.min.js" />
+        <option value="$PROJECT_DIR$/static/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/static/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
       </list>
     </option>
   </component>
@@ -328,6 +276,16 @@
             <path>
               <item name="gr_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="gr_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gr_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gr_project" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gr_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gr_project" type="462c0819:PsiDirectoryNode" />
               <item name="thongke" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -344,17 +302,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/index" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/stemming" />
+      <recent name="$PROJECT_DIR$/thongke" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/thongke" />
       <recent name="$PROJECT_DIR$/dict" />
       <recent name="$PROJECT_DIR$/data" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/stemming" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/thongke" />
-      <recent name="$PROJECT_DIR$/model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,12 +464,12 @@
   <component name="ToolWindowManager">
     <frame x="288" y="-4" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31553784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31553784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40902022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40902022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4541213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -572,10 +532,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thongke/thongke_tfidf_created_test_2.txt" />
-    <entry file="file://$PROJECT_DIR$/data/test_eg020.txt" />
-    <entry file="file://$PROJECT_DIR$/thongke/thongke_tfidf_created_test.txt" />
-    <entry file="file://$PROJECT_DIR$/thongke/thongke_tfidf_test_50.txt" />
     <entry file="file://$PROJECT_DIR$/data/corpus_train_50.txt" />
     <entry file="file://$PROJECT_DIR$/thongke/created_test.txt" />
     <entry file="file://$PROJECT_DIR$/dict/wrong_tokenize.txt">
@@ -745,14 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="162" lean-forward="false" selection-start-line="4" selection-start-column="162" selection-end-line="4" selection-end-column="162" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word2vec_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -765,14 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="228" column="10" lean-forward="true" selection-start-line="228" selection-start-column="10" selection-end-line="228" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="109" column="16" lean-forward="false" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,10 +734,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="-335">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
             <element signature="e#44#94#0" expanded="true" />
           </folding>
@@ -806,10 +754,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tfidf_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
+        <state relative-caret-position="-364">
           <caret line="135" column="34" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
           <folding>
             <element signature="e#43#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18735">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22480" lean-forward="false" selection-start-line="3" selection-start-column="22480" selection-end-line="3" selection-end-column="22480" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5355">
+          <caret line="6" column="4886" lean-forward="false" selection-start-line="6" selection-start-column="4886" selection-end-line="6" selection-end-column="4886" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1527353354723" expanded="true" signature="154:444" ph="..." />
           </folding>
         </state>
       </provider>

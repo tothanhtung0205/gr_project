@@ -54,15 +54,13 @@ class Cluster(TfidfModel):
 
 
 
+if __name__ == "__main__":
+    cluster = Cluster("data/train.txt","data/corpus_train.txt")
+    clust = cluster.get_cluster(u"abcacc")
 
-cluster = Cluster("data/train.txt","data/corpus_train.txt")
-clust = cluster.get_cluster(u"abcacc")
-
-
-
-# print  cluster.get_cluster(u"Cấu trúc bài thuyết trình có mấy phần")
-# print cluster.get_cluster(u"có mấy cách đàm phán")
-# print cluster.get_cluster(u"bài tập này có khó ko")
-# print cluster.get_cluster(u"Điểm tổng kết tính như thế nào")
+    # print  cluster.get_cluster(u"Cấu trúc bài thuyết trình có mấy phần")
+    # print cluster.get_cluster(u"có mấy cách đàm phán")
+    # print cluster.get_cluster(u"bài tập này có khó ko")
+    # print cluster.get_cluster(u"Điểm tổng kết tính như thế nào")
 
 
