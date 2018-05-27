@@ -8,6 +8,7 @@ SPLIT_LENGTH = 100
 TRAIN_PATH = 'data/train.txt'
 
 def tfidf_test(tfidf_model,test_file,result_file):
+    print(" Test  on " + test_file)
     test_set = tfidf_model.get_test_data(test_file)
     count1 = 0
     count2 = 0
@@ -29,13 +30,13 @@ def tfidf_test(tfidf_model,test_file,result_file):
 
             if(sim_mi >= 0.6):
                 count3 +=1
+                print(test_sen + u"\n" + sim + u'\n')
 
             f.write(test_sen + u"\n" + prced_test_sen + u'\n')
             # clust = sim_sen[4]
             # f.write(u"Cluster %d \n" %clust)
             f.write(u"-" * SPLIT_LENGTH + "\n")
             f.write(sim)
-
             f.write(u"\n" + u"_" * SPLIT_LENGTH + u"\n")
 
         f.close()
@@ -66,7 +67,7 @@ def w2v_avg_test(corpus_file , test_file , result_file):
 
 if __name__ == "__main__":
     pass
-    # w2v_avg_test("data/corpus_train.txt","data/test_created.txt","thongke/w2v_created.txt")
-    # tfidf = TfidfModel("data/train.txt","data/corpus_train.txt")
-    # tfidf_test(tfidf,"data/test.txt","thongke/tfidf_test_50.txt")
-
+    w2v_avg_test("data/corpus_train.txt","data/test_created.txt","thongke/w2v_test_created.txt")
+    tfidf = TfidfModel("data/train.txt","data/corpus_train.txt")
+    tfidf_test(tfidf, "data/test_created.txt", "thongke/tfidf_test_created.txt")
+    tfidf_test(tfidf, "data/test.txt", "thongke/tfidf_test.txt")

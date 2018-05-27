@@ -110,7 +110,7 @@ class TfidfModel(Data):
         tfidf_new = [tfidf_new]
         t0 = time()
         cos_sim = cosine_similarity(tfidf_new, tfidf_matrix)
-        print("Calculate cosine similar in %f s" %(time()-t0))
+        #print("Calculate cosine similar in %f s" %(time()-t0))
         cos_sim = cos_sim[0]
         for i in xrange(num_sens):
             max_val = max(cos_sim)

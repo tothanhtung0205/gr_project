@@ -36,7 +36,6 @@ class AvgW2vModel(Data):
             except:
                 word2vec = np.zeros(shape=(100))
             vect_sen = vect_sen+word2vec
-        print vect_sen
         return vect_sen/size
 
     def get_sent2vec_matrix(self):

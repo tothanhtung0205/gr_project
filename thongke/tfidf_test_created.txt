@@ -2,7 +2,7 @@ Làm thế nào để biết đối tác không thích nghe một vấn đề n�
 
 đối_tác không thích nghe nào_đó quá_trình đàm_phán
 ----------------------------------------------------------------------------------------------------
-Thưa thầy cô cho em hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đàm phán. Em cảm ơn thầy cô!
+Thưa thầy cô cho e hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đàm phán. Em cảm ơn thầy cô!
 dấu_hiệu đối_tác không thích nghe lơ nào_đó quá_trình đàm_phán
 
 0.7558824162121331
@@ -126,12 +126,12 @@ giáo_viên bộ_môn quá_trình đàm_phán mối quan_hệ bạn_bè mật_th
 ____________________________________________________________________________________________________
 Trong các phong cách đàm phán thì phong cách nào tốt nhất và vì sao?
 
-phong_cách đàm_phán phong_cách nào tốt nhất vì_sao
+phong_cách đàm_phán phong_cách tốt nhất vì_sao
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi: Trong 4 phong cách đàm phán thì phong cách nào có ưu điểm nhất Em cảm ơn thầy cô nhiều ạ
 4 phong_cách đàm_phán phong_cách nào ưu_điểm nhất nhiều
 
-0.642297252041609
+0.6070842351590432
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi : để qua môn thì điểm tổng kết của môn học bằng bao nhiêu . em cảm ơn cô !
 
@@ -144,12 +144,12 @@ kết_thúc môn_học điểm tổng_kết = bao_nhiêu thì_phải thi
 ____________________________________________________________________________________________________
 Chào cô: Cô ơi, cho em hỏi: những yếu tố nào quyết định một cuộc đàm phán thành công ạ? Em cảm ơn!
 
-nào quyết_định đàm_phán thành_công
+quyết_định đàm_phán thành_công
 ----------------------------------------------------------------------------------------------------
 Thưa giảng viên cho em hỏi: Trong các yếu tố quyết định một cuộc đàm phán thành công, thì yếu tố nào là quan trọng nhất. Vì sao? Em cảm ơn giảng viên ạ!
 quyết_định đàm_phán thành_công quan_trọng nhất vì_sao
 
-0.6478622040974076
+0.69147368204726
 ____________________________________________________________________________________________________
 Cô có thể chỉ cho em làm thế để người nghe cảm thấy thuyết phục khi nghe mình thuyết trình được không ạ.
 
@@ -180,12 +180,12 @@ không video điện_thoại
 ____________________________________________________________________________________________________
 Thưa cô em muốn hỏi nên dùng cách nào để đàm phán với một người ít nói và cứng nhắc trong cộng việc . Em cảm ơn
 
-nào đàm_phán ít_nói cứng_nhắc cộng
+cách đàm_phán ít_nói cứng_nhắc cộng
 ----------------------------------------------------------------------------------------------------
 Thưa cô em muốn hỏi Nếu muốn đàm phán với 1 người ít nói và cứng nhắc trông công việc thì ta nến tiếp cận như thế nào ah Em cảm ơn
 đàm_phán 1 ít_nói cứng_nhắc trông nến tiếp_cận
 
-0.520978984076958
+0.5332772285519174
 ____________________________________________________________________________________________________
 Điều quan trọng nhất của kỹ năng mềm là gì ạ ?
 
@@ -198,7 +198,7 @@ phát_triển kỹ_năng mềm kỹ_năng quan_trọng kỹ_năng bổ_sung nhau
 ____________________________________________________________________________________________________
 Em chào cô. Vui lòng cho em hỏi về cách tính điểm khi đăng bài trên H2472 ?
 
-tính điểm đăng bài h2472
+cách tính điểm đăng bài h2472
 ----------------------------------------------------------------------------------------------------
 Em chào cô. Vui lòng cho em hỏi phần tính điểm khi đăng bài trên H2472 thì tính như thế nào? Đăng mấy bài để được điểm ạ? Em cảm ơn cô ạ.
 tính điểm đăng bài h2472 tính đăng mấy bài điểm
@@ -216,7 +216,7 @@ sếp nghiêm_khắc khó_hiểu không
 ____________________________________________________________________________________________________
 Thưa Thày Cô! kỹ năng mềm và kỹ năng cứng khác nhau ở đâu ạ ? rèn luyện 2 kỹ năng đó như thế nào ? Cảm ơn Thầy Cô!
 
-kỹ năng mềm kỹ_năng cứng khác_nhau ở đâu rèn_luyện 2 kỹ_năng
+kỹ năng mềm kỹ_năng cứng khác_nhau đâu rèn_luyện 2 kỹ_năng
 ----------------------------------------------------------------------------------------------------
 Thưa Thày Cô! Sự khác nhau giữa kỹ năng mềm và kỹ năng cứng? Làm thế nào để rèn luyện kỹ năng? Cảm ơn Thầy Cô!
 khác_nhau kỹ_năng mềm kỹ_năng cứng rèn_luyện kỹ_năng
@@ -225,21 +225,21 @@ khác_nhau kỹ_năng mềm kỹ_năng cứng rèn_luyện kỹ_năng
 ____________________________________________________________________________________________________
 Thưa thầy cô làm cách nào để giảm bớt tâm lí căng thẳng và hồi hộp khi ta thuyết trình ah Em cảm ơn Thầy cô
 
-nào giảm_bớt tâm_lí căng_thẳng hồi_hộp thuyết_trình
+cách giảm_bớt tâm_lí căng_thẳng hồi_hộp thuyết_trình
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô em muốn làm các khắc phục tâm lí căng thẳng và hồi hộp khi ta thuyết trình ah Em cảm ơn Thầy cô
 khắc_phục tâm_lí căng_thẳng hồi_hộp thuyết_trình
 
-0.7599684578481749
+0.7746110784944831
 ____________________________________________________________________________________________________
 Thưa thầy cô muốn thuyết phục 1 người khó tính , hay nóng giận ta nên thuyết phúc người đó theo cách nào ah
 
-thuyết_phục 1 khó_tính nóng_giận thuyết phúc nào
+thuyết_phục 1 khó_tính nóng_giận thuyết phúc cách
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô em muốn hỏi muốn thuyết phục 1 người khó tính ,luôn muốn áp đặt người khác theo ý của mình và hay nống giận ta nên thuyết phúc người đó theo cách nào ah
 thuyết_phục 1 khó_tính áp_đặt khác ý nống giận thuyết phúc nào
 
-0.6722424577145079
+0.6570754606258707
 ____________________________________________________________________________________________________
 Thưa cô cho em hỏi : môn EG025 này thi trắc nghiệm hay tự luận vậy ạ. Em cảm ơn cô!
 

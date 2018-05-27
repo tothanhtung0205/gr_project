@@ -71,7 +71,7 @@ Thưa cô cho em hỏi! Cô cho em hỏi điểm thi kết thúc môn của đ�
 0.3293983325994816
 ____________________________________________________________________________________________________
 Chào thầy cô! cho em hỏi là em đang làm bài máy tính e hết pin sau khi e nạp pin và vào lam tiếp bài thì thâys lần 1 mất kết nối, nhưng dòng thứ 2 hiện lên đang làm bài? vậy e phải làm sao để tiếp tục làm bài mà không bị mất kết nối và không bị điểm thấp ạ?e xin cảm ơn!
-làm_bài máy_tính e hết pin e nạp pin lam tiếp bài 1 mất kết_nối dòng thứ 2 làm_bài e tiếp_tục làm_bài không mất kết_nối không điểm thấp e
+làm_bài máy_tính hết pin nạp pin lam tiếp bài 1 mất kết_nối dòng thứ 2 làm_bài tiếp_tục làm_bài không mất kết_nối không điểm thấp
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô, cho e hỏi sao e làm bài mà nộp bài ko đc.máy báo mất kết nối.và e lại phải làm lại.xin thầy cô giải đáp giúp e.e xin cảm ơn
 làm_bài nộp bài không đc máy báo mất kết_nối
@@ -95,7 +95,7 @@ từ viết tắc batna
 0.6330102885063678
 ____________________________________________________________________________________________________
 Thưa thầy cô,cho e hỏi làm sao để học tốt được môn này.e xin cảm ơn
-e tốt môn e
+tốt môn
 ----------------------------------------------------------------------------------------------------
 Em kính chào thầy ,cô ạ!cho em hỏi:là em phải làm sao để có thể, làm tốt phần bài tập kỹ năng môn này ạ!Em xin chân thành cảm ơn thầy,cô ạ!
 tốt bài_tập kỹ_năng môn
@@ -111,7 +111,7 @@ một_lúc 2 môn thi 2 môn chung 1
 0.619414013447473
 ____________________________________________________________________________________________________
 H đã vào học rồi mà e vẫn chưa biết môn học cô ạ con. Gửi mail cho e đươc k cô h e với mail của trương k dc nữa cô ạ
-h e môn_học con mail e đươc k h e mail trương k dc
+h môn_học con mail đươc k h mail trương k dc
 ----------------------------------------------------------------------------------------------------
 Em chào Thầy ! Thầy cho em hỏi mail Thầy gửi về việc làm lại bài tập về nhà 1, 2 môn EG020 là ai cũng phải làm lại hay chỉ những bạn chưa làm thì vào làm vậy Thầy ? Vì e check mail thấy nhưng sau khi kiểm tra lại mail thì không còn , vậy em phsi3 làm sao, mong Thầy giúp em. Eem cảm ơn và trân trọng kính chào!
 mail làm_lại bài_tập nhà 1 2 môn eg020 ai làm_vậy check mail kiểm_tra mail không phsi3 eem
@@ -319,7 +319,7 @@ bài_học ( đàm_phán xảy 4 trường_hợp ) 1 đàm_phán mềm 2 đàm_p
 0.7649122390257633
 ____________________________________________________________________________________________________
 Thưa cô cho e hỏi môn học phát triển kỷ băng 2 này áp dụng vào cuộc sống này như thế nào vậy cô
-e môn_học phát_triển kỷ băng 2 áp_dụng cuộc_sống
+môn_học phát_triển kỷ băng 2 áp_dụng cuộc_sống
 ----------------------------------------------------------------------------------------------------
 Thưa thầy cô cho em hỏi: Làm thế nào để áp dụng những kĩ năng mềm vào cuộc sống hằng ngày? Em xin cảm ơn!
 áp_dụng kĩ_năng mềm cuộc_sống hằng_ngày
@@ -335,7 +335,7 @@ môn eg020 môn_học
 0.2552756926776619
 ____________________________________________________________________________________________________
 Chào Cô! E có thắc mắc mong cô giúp đỡ ạ. Trong môn học có phần xác định mục tiêu đàm phán theo nguyên tác SMART, nguyên tắc này mình chỉ tham khỏa hay là bắt buộc áp dụng vào phần xác định mục tiêu đàm phán ạ? E cảm ơn cô.
-e giúp_đỡ môn_học xác_định mục_tiêu đàm_phán nguyên_tác smart nguyên_tắc tham khỏa hay_là bắt_buộc áp_dụng xác_định mục_tiêu đàm_phán e
+giúp_đỡ môn_học xác_định mục_tiêu đàm_phán nguyên_tác smart nguyên_tắc tham khỏa hay_là bắt_buộc áp_dụng xác_định mục_tiêu đàm_phán
 ----------------------------------------------------------------------------------------------------
 Kính thưa thầy/cô! Cho em hỏi - Xác định mục tiêu đàm phán có quan trọng đối với nhà lãnh đạo không? Chân thành cảm ơn thầy/cô Trân trọng !
 xác_định mục_tiêu đàm_phán quan_trọng nhà lãnh_đạo không
@@ -374,13 +374,13 @@ Thưa thầy cô cho em hỏi:làm sao để có một cuộc đàm phán thành
 
 1.0
 ____________________________________________________________________________________________________
-Em chào cô thầy Em đã quên làm bài tập về nhà rồi
-quên bài_tập nhà
+Em chào cô thầy Em đã quên làm bài tập về nhà mất rồi
+quên bài_tập nhà mất
 ----------------------------------------------------------------------------------------------------
 Thưa cô! em có thể làm bài tập về nhà 1 hoặc 2 lần được không? Trân trọng cảm ơn cô!
 bài_tập nhà 1 2 không
 
-0.6365187635677124
+0.5364848113876892
 ____________________________________________________________________________________________________
 Thưa cô, Cho em hỏi cách nhận biết các kiểu thuyết trình như thế nào? Em xin cảm ơn.
 cách nhận_biết thuyết_trình
